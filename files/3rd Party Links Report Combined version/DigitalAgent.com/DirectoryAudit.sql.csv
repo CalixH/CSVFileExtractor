@@ -1,0 +1,6 @@
+"Target String","URL Safe String","name","description"
+".com",".com","default@liferay.com"," "
+".com",".com","da.admin@veriday.com","DA Admin"
+".com",".com","da.client.admin@veriday.com","Client Admin"
+".com",".com","da.marketing@veriday.com","DA Marketing"
+".com",".com","da.reviewer@veriday.com","DA Reviewer"
