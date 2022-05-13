@@ -15,13 +15,11 @@ file_path2 = Mainfile_path + "/DigitalAgent.com"
 file_path3 = Mainfile_path + "/DigitalAgent.net"
 file_path4 = Mainfile_path + "/DigitalAgent.org"
 
-print(file_path1)
-
 # Array of all file paths
 file_paths = [file_path1,file_path2,file_path3,file_path4]
 
 # Getting all the files from their respective folders and putting it into one variable
-all_file_BlogAudit = None
+all_file_BlogAudit = []
 
 for x in file_paths:
     all_file_BlogAudit += glob.glob(x + "BlogAudit.sql" + "/*.csv")
