@@ -1,12 +1,12 @@
-import pandas as pd
-import glob
-from tkinter import Tk, filedialog
+import pandas as pd #panda is an excel manager for python
+import glob #glob is a filepath manager
+from tkinter import Tk, filedialog # tkinter is for file selection popup dialogues
 
 root = Tk() # pointing root to Tk() to use it as Tk() in program.
 root.withdraw() # Hides small tkinter window.
 root.attributes('-topmost', True) # Opened windows will be active. above all windows despite of selection.
 
-# Main file path where all digital agent folders are located ( in this case, 3rd party links)
+# Main file path where all digital agent folders are located
 Mainfile_path = filedialog.askdirectory()
 
 
@@ -18,7 +18,7 @@ file_path4 = Mainfile_path + "\3rdPartyLinksReport\DigitalAgent.org"
 
 # Array of all file paths
 file_paths = [file_path1,file_path2,file_path3,file_path4]
-file_names = ["BlogAudit.sql.csv"]
+file_names = ["BlogAudit.sql.csv", "ComplianceQueueAudit.sql.csv", "ContentAudit.sql.csv", "DirectoryAudit.sql.csv", "DisclosureAudit.sql.csv", "EventAudit.sql.csv", "FileAudit.sql.csv", "OfficeVersionAudit.sql.csv", "OptionsAudit.sql.csv", "OrganizationalGroupAudit.sql.csv", "PageAudit.sql.csv", "ProfileAudit.sql.csv", "RepositoryAudit.sql.csv", "ResourceAudit.sql.csv", "SettingsAudit.sql.csv", "SubmissionFormVersionAudit.sql.csv", "TenantAudit.sql.csv", "UserAudit.sql.csv", "WebsiteAudit.sql.csv"]
 
 # Getting all the files from their respective folders and putting it into one variable. There are 
 # 20 different combined files, so we will use 20 variables to hold all the files from each respective folder
@@ -33,6 +33,7 @@ li = []
 for filename in all_file_BlogAudit:
     df = pd.read_csv(filename, index_col = None, header = 0 )
     li.append(df)
+
 
 
 
