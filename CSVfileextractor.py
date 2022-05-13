@@ -2,6 +2,8 @@ import pandas as pd
 import glob
 from tkinter import Tk, filedialog
 
+pd.set_option('display.max_rows', None)
+
 root = Tk() # pointing root to Tk() to use it as Tk() in program.
 root.withdraw() # Hides small tkinter window.
 root.attributes('-topmost', True) # Opened windows will be active. above all windows despite of selection.
@@ -36,7 +38,7 @@ for filename in all_file_BlogAudit:
     BlogAuditList.append(df_BlogAudit)
 
 #takes all the data and prints it on a new file called file.txt
-with open("file.txt", "w") as output:
+with open("file.xls", "w") as output:
     output.write(str(BlogAuditList))
 #####################################################################################
 
