@@ -28,8 +28,9 @@ file_names = ["BlogAudit.sql.csv", "ComplianceQueueAudit.sql.csv", "ContentAudit
 #blogAudit files
 
 all_file_BlogAudit = []
+
 for num,file in enumerate(file_paths):
-    all_file_BlogAudit += glob.glob(file_paths[num] + "/*BlogAudit.sql.csv")
+    all_file_BlogAudit += glob.glob(file_paths[num] + file_names [0])
 
 BlogAuditList = []
 
