@@ -6,4 +6,5 @@ from tkinter import filedialog
 root = tk.Tk()
 root.withdraw()
 
-file_path = filedialog.askopenfilename()
+# Main file path where all digital agent folders are located ( in this case, 3rd party links)
+Absfile_path = filedialog.askopenfilename()
