@@ -7,7 +7,8 @@ pd.set_option('display.max_rows', None)
 
 root = Tk() # pointing root to Tk() to use it as Tk() in program.
 root.withdraw() # Hides small tkinter window.
-root.attributes('-topmost', True) # Opened windows will be active. above all windows despite of selection.
+root.attributes('-topmost', True)
+root.update()
 
 # Main file path where all digital agent folders are located
 Mainfile_path = filedialog.askdirectory()
@@ -31,13 +32,13 @@ file_names = ["BlogAudit.sql.csv", "ComplianceQueueAudit.sql.csv", "ContentAudit
 all_file_BlogAudit = []
 
 for num,file in enumerate(file_paths):
-    all_file_BlogAudit += glob.glob(file_paths[num] + file_names [0])
+    all_file_BlogAudit += glob.glob(file_paths[num] + "/" + file_names[0])
 
 BlogAuditList = []
 
 for filename in all_file_BlogAudit:
     df_BlogAudit = pd.read_csv(filename, index_col = None, header = 0 )
-    append_df_to_excel('test.xlsx', df_BlogAudit, index=False)
+    df_BlogAudit.to_excel('test.xlsx', sheet_name='sheet1', startrow=len(df_BlogAudit.index), header=False, index=False)
 
 #####################################################################################
 
