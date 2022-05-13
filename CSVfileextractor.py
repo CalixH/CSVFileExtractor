@@ -11,10 +11,10 @@ Mainfile_path = filedialog.askdirectory()
 
 
 # File path for the 4 subfiles 
-file_path1 = Mainfile_path + "\3rdPartyLinksReport\DigitalAgent.com"
-file_path2 = Mainfile_path + "\3rdPartyLinksReport\DigitalAgent.ca"
-file_path3 = Mainfile_path + "\3rdPartyLinksReport\DigitalAgent.net"
-file_path4 = Mainfile_path + "\3rdPartyLinksReport\DigitalAgent.org"
+file_path1 = Mainfile_path + "/DigitalAgent.com"
+file_path2 = Mainfile_path + "/DigitalAgent.ca"
+file_path3 = Mainfile_path + "/DigitalAgent.net"
+file_path4 = Mainfile_path + "/DigitalAgent.org"
 
 # Array of all file paths
 file_paths = [file_path1,file_path2,file_path3,file_path4]
@@ -25,15 +25,20 @@ file_names = ["BlogAudit.sql.csv", "ComplianceQueueAudit.sql.csv", "ContentAudit
 
 #blogAudit files
 
-for x in file_paths:
-    all_file_BlogAudit = glob.glob(x + "BlogAudit.sql" + "/*.csv")
+all_file_BlogAudit = []
+for num,file in enumerate(file_paths):
+    all_file_BlogAudit += glob.glob(file_paths[num] + "/*BlogAudit.sql.csv")
 
-li = []
+BlogAuditList = []
 
 for filename in all_file_BlogAudit:
-    df = pd.read_csv(filename, index_col = None, header = 0 )
-    li.append(df)
+    df_BlogAudit = pd.read_csv(filename, index_col = None, header = 0 )
+    BlogAuditList.append(df_BlogAudit)
 
+#takes all the data and prints it on a new file called file.txt
+with open("file.txt", "w") as output:
+    output.write(str(BlogAuditList))
+#####################################################################################
 
 
 
