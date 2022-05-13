@@ -3,11 +3,12 @@ import glob
 import tkinter as tk
 from tkinter import filedialog
 
-root = tk.Tk()
-root.withdraw()
+root = Tk() # pointing root to Tk() to use it as Tk() in program.
+root.withdraw() # Hides small tkinter window.
+root.attributes('-topmost', True) # Opened windows will be active. above all windows despite of selection.
 
 # Main file path where all digital agent folders are located ( in this case, 3rd party links)
-Mainfile_path = filedialog.askopenfilename()
+Mainfile_path = filedialog.askdirectory()
 
 # File path for the 4 subfiles 
 file_path1 = Mainfile_path + "/DigitalAgent.ca"
