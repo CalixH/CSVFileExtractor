@@ -35,8 +35,10 @@ for filename in all_file_BlogAudit:
     df_BlogAudit = pd.read_csv(filename, index_col = None, header = 0 )
     BlogAuditList.append(df_BlogAudit)
 
-print(BlogAuditList)
-
+#takes all the data and prints it on a new file called file.txt
+with open("file.txt", "w") as output:
+    output.write(str(BlogAuditList))
+#####################################################################################
 
 
 
