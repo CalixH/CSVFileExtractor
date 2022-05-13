@@ -1,7 +1,6 @@
 import pandas as pd
 import glob
-import tkinter as tk
-from tkinter import filedialog
+from tkinter import Tk, filedialog
 
 root = Tk() # pointing root to Tk() to use it as Tk() in program.
 root.withdraw() # Hides small tkinter window.
