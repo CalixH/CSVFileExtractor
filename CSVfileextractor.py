@@ -1,7 +1,7 @@
 import pandas as pd #panda is an excel manager for python
 import glob #glob is a filepath manager
 from tkinter import Tk, filedialog # tkinter is for file selection popup dialogues
-import openpyxl #excel read/writer
+from openpyxl import load_workbook #excel read/writer
 
 pd.set_option('display.max_rows', None)
 
@@ -36,9 +36,17 @@ for num,file in enumerate(file_paths):
 
 BlogAuditList = []
 
+dflen = 0
+
 for filename in all_file_BlogAudit:
-    df_BlogAudit = pd.read_csv(filename, index_col = None, header = 0 )
-    df_BlogAudit.to_excel('test.xlsx', sheet_name='sheet1', startrow=len(df_BlogAudit.index), header=False, index=False)
+    df_BlogAudit = pd.read_csv(filename, index_col = None, header = 0)
+    print(dflen)
+    print(Mainfile_path)
+    wb = load_workbook(Mainfile_path + "/test1.xlsx")
+    writer = pd.ExcelWriter(Mainfile_path + "/test1.xlsx", mode='a', engine='openpyxl')
+    writer.book = wb
+    df_BlogAudit.to_excel(writer, sheet_name='sheet1')
+    dflen += len(df_BlogAudit.index)
 
 #####################################################################################
 
