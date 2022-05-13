@@ -22,9 +22,9 @@ file_paths = [file_path1,file_path2,file_path3,file_path4]
 all_file_BlogAudit = []
 
 for x in file_paths:
-    all_file_BlogAudit += glob.glob(x + "BlogAudit.sql" + "/*.csv")
+    all_file_BlogAudit += glob.glob(x + "/BlogAudit.sql.csv")
 
-print(all_file_BlogAudit[0])
+print(len(all_file_BlogAudit))
 
 
 
