@@ -1,7 +1,6 @@
 import pandas as pd #panda is an excel manager for python
 import glob #glob is a filepath manager
 from tkinter import Tk, filedialog # tkinter is for file selection popup dialogues
-from openpyxl import load_workbook #excel read/writer
 import os
 
 pd.set_option('display.max_rows', None)
@@ -51,7 +50,6 @@ for name in file_names:
 
     df_BlogAudit.to_excel(Mainfile_path + "/Digital Agent Combined/" + name + "Combined.xlsx", index=False)
     counter += 1
-#####################################################################################
 
 
 
