@@ -1,11 +1,13 @@
-import pandas as pd #panda is an excel manager for python
 import glob #glob is a filepath manager
+import os # filepath manager
 from tkinter import Tk, filedialog # tkinter is for file selection popup dialogues
 from openpyxl import load_workbook #excel read/writer
-import os
+import pandas as pd #panda is an excel manager for python
+
 
 pd.set_option('display.max_rows', None)
 
+# Setting up folder selection dialogue
 root = Tk() # pointing root to Tk() to use it as Tk() in program.
 root.withdraw() # Hides small tkinter window.
 root.attributes('-topmost', True)
@@ -27,17 +29,20 @@ file_names = ["BlogAudit", "ComplianceQueueAudit", "ContentAudit", "DirectoryAud
 file_tail = ".sql.csv"
 
 # Getting all the files from their respective folders and putting it into one variable. There are 
-# 20 different combined files, so we will use 20 variables to hold all the files from each respective folder
+# 19 different combined files, so we will use 19 variables to hold all the files from each respective folder
 
-#blogAudit files
+# Manual counter for iterating through 19 files
 counter = 0
 
+# If Digital Agent Combined folder doesn't exist, make it exist
 if os.path.isdir(Mainfile_path + "/Digital Agent Combined") == False:
     os.mkdir(Mainfile_path + "/Digital Agent Combined")
+
 
 for name in file_names:
     all_file_BlogAudit = []
 
+    # Get all the files with same name under .com, .org, .ca, .net
     for num,file in enumerate(file_paths):
         all_file_BlogAudit += glob.glob(file_paths[num] + "/" + file_names[counter] + file_tail)
 
