@@ -27,26 +27,31 @@ file_names = ["BlogAudit", "ComplianceQueueAudit", "ContentAudit", "DirectoryAud
 file_tail = ".sql.csv"
 
 # Getting all the files from their respective folders and putting it into one variable. There are 
-# 20 different combined files, so we will use 20 variables to hold all the files from each respective folder
+# 19 different combined files, so we will use 19 variables to hold all the files from each respective folder
 
-#blogAudit files
+# Manual counter for iterating through 19 files
 counter = 0
 
+# If Digital Agent Combined folder doesn't exist, make it exist
 if os.path.isdir(Mainfile_path + "/Digital Agent Combined") == False:
     os.mkdir(Mainfile_path + "/Digital Agent Combined")
 
+# loops through 19 times to combine and create 19 files
 for name in file_names:
     all_file_BlogAudit = []
 
+    # Get all the files with same name under .com, .org, .ca, .net
     for num,file in enumerate(file_paths):
         all_file_BlogAudit += glob.glob(file_paths[num] + "/" + file_names[counter] + file_tail)
 
     BlogAuditList = []
 
+     # Make a list with the 4 dataframes, then concatenate the list into one big dataframe
     for filename in all_file_BlogAudit:
         df_BlogAudit = pd.read_csv(filename, index_col = None, header = 0 )
         BlogAuditList.append(df_BlogAudit)
 
+     # Print to excel
     df_BlogAudit = pd.concat(BlogAuditList, axis = 0, ignore_index = True)
 
     df_BlogAudit.to_excel(Mainfile_path + "/Digital Agent Combined/" + name + "Combined.xlsx", index=False)
