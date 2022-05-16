@@ -1,3 +1,7 @@
+# imports for python libraries
+import os
+os.system("pip3 install pandas")
+os.system("pip3 install openpyxl")
 import pandas as pd #panda is an excel manager for python
 import glob #glob is a filepath manager
 from tkinter import Tk, filedialog # tkinter is for file selection popup dialogues
