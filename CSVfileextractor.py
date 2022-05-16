@@ -41,9 +41,8 @@ for filename in all_file_BlogAudit:
     BlogAuditList.append(df_BlogAudit)
 
 df_BlogAudit = pd.concat(BlogAuditList, axis = 0, ignore_index = True)
-print(df_BlogAudit)
 
-
+df_BlogAudit.to_excel(Mainfile_path + "/test1.xlsx", index=False)
 #####################################################################################
 
 
