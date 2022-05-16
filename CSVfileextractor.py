@@ -48,12 +48,14 @@ for name in file_names:
 
     BlogAuditList = []
 
+    # Make a list with the 4 dataframes, then concatenate the list into one big dataframe
     for filename in all_file_BlogAudit:
         df_BlogAudit = pd.read_csv(filename, index_col = None, header = 0 )
         BlogAuditList.append(df_BlogAudit)
 
     df_BlogAudit = pd.concat(BlogAuditList, axis = 0, ignore_index = True)
 
+    # Print to excel
     df_BlogAudit.to_excel(Mainfile_path + "/Digital Agent Combined/" + name + "Combined.xlsx", index=False)
     counter += 1
 #####################################################################################
