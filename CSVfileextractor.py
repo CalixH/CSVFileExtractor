@@ -24,6 +24,7 @@ folder_path2 = Mainfile_path + "/DigitalAgent.ca"
 folder_path3 = Mainfile_path + "/DigitalAgent.net"
 folder_path4 = Mainfile_path + "/DigitalAgent.org"
 
+# Checks whether you selected the right directory to merge files
 if os.path.isdir(folder_path1) == False:
     print("------- SCRIPT TERMINATED ---------")
     sys.exit("Wrong folder selected. Please see documentation for details")
