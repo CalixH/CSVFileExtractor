@@ -17,15 +17,14 @@ root.update()
 # Main file path where all digital agent folders are located
 Mainfile_path = filedialog.askdirectory()
 
-
 # File path for the 4 subfiles 
-file_path1 = Mainfile_path + "/DigitalAgent.com"
-file_path2 = Mainfile_path + "/DigitalAgent.ca"
-file_path3 = Mainfile_path + "/DigitalAgent.net"
-file_path4 = Mainfile_path + "/DigitalAgent.org"
+folder_path1 = Mainfile_path + "/DigitalAgent.com"
+folder_path2 = Mainfile_path + "/DigitalAgent.ca"
+folder_path3 = Mainfile_path + "/DigitalAgent.net"
+folder_path4 = Mainfile_path + "/DigitalAgent.org"
 
 # Array of all file paths
-file_paths = [file_path1,file_path2,file_path3,file_path4]
+folder_paths = [folder_path1,folder_path2,folder_path3,folder_path4]
 file_names = ["BlogAudit", "ComplianceQueueAudit", "ContentAudit", 
 "DirectoryAudit", "DisclosureAudit", "EventAudit", "FileAudit", "OfficeVersionAudit", 
 "OptionsAudit", "OrganizationalGroupAudit", "PageAudit", "ProfileAudit", "RepositoryAudit", "ResourceAudit", 
@@ -33,7 +32,7 @@ file_names = ["BlogAudit", "ComplianceQueueAudit", "ContentAudit",
 file_tail = ".sql.csv"
 
 # Getting all the files from their respective folders and putting it into one variable. There are 
-# 19 different combined files, so we will use 19 variables to hold all the files from each respective folder
+# 19 different combined files, so we will loop through and create 19 combined files
 
 # Manual counter for iterating through 19 files
 counter = 0
@@ -44,23 +43,29 @@ if os.path.isdir(Mainfile_path + "/Digital Agent Combined") == False:
 
 # loops through 19 times to combine and create 19 files
 for name in file_names:
-    all_file_BlogAudit = []
+
+    # List to store the 4 files with the same name, eg. BlogAudit
+    all_files = []
 
     # Get all the files with same name under .com, .org, .ca, .net
-    for num,file in enumerate(file_paths):
-        all_file_BlogAudit += glob.glob(file_paths[num] + "/" + file_names[counter] + file_tail)
+    for num,file in enumerate(folder_paths):
+        all_files += glob.glob(folder_paths[num] + "/" + file_names[counter] + file_tail)
 
-    BlogAuditList = []
+    # List to store the dataframes for files with the same name
+    dfList = []
 
-     # Make a list with the 4 dataframes, then concatenate the list into one big dataframe
-    for filename in all_file_BlogAudit:
-        df_BlogAudit = pd.read_csv(filename, index_col = None, header = 0 )
-        BlogAuditList.append(df_BlogAudit)
+     # Loops through all the files and makes a list with the 4 dataframes by appending it to dfList
+    for filename in all_files:
+        df = pd.read_csv(filename, index_col = None, header = 0 )
+        dfList.append(df)
+
+    # Concatenate the 4 dataframes in dfList to create 1 large dataframe which is easier to print in excel
+    df = pd.concat(dfList, axis = 0, ignore_index = True)
 
      # Print to excel
-    df_BlogAudit = pd.concat(BlogAuditList, axis = 0, ignore_index = True)
+    df.to_excel(Mainfile_path + "/Digital Agent Combined/" + name + "Combined.xlsx", index=False)
 
-    df_BlogAudit.to_excel(Mainfile_path + "/Digital Agent Combined/" + name + "Combined.xlsx", index=False)
+    #increment counter to function for the next file in the filename array
     counter += 1
 
 
