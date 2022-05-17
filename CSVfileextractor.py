@@ -6,6 +6,7 @@ os.system("pip3 install openpyxl")
 import pandas as pd #panda is an excel manager for python
 import glob #glob is a filepath manager
 from tkinter import Tk, filedialog # tkinter is for file selection popup dialogues
+import sys # early termination
 
 pd.set_option('display.max_rows', None)
 
@@ -22,6 +23,10 @@ folder_path1 = Mainfile_path + "/DigitalAgent.com"
 folder_path2 = Mainfile_path + "/DigitalAgent.ca"
 folder_path3 = Mainfile_path + "/DigitalAgent.net"
 folder_path4 = Mainfile_path + "/DigitalAgent.org"
+
+if os.path.isdir(folder_path1) == False:
+    print("------- SCRIPT TERMINATED ---------")
+    sys.exit("Wrong folder selected. Please see documentation for details")
 
 # Array of all file paths
 folder_paths = [folder_path1,folder_path2,folder_path3,folder_path4]
