@@ -2,11 +2,13 @@
 import os
 os.system("pip3 install pandas")
 os.system("pip3 install openpyxl")
+os.system("pip3 install xlsxwriter")
 
 import pandas as pd #panda is an excel manager for python
 import glob #glob is a filepath manager
 from tkinter import Tk, filedialog # tkinter is for file selection popup dialogues
 import sys # early termination
+import xlsxwriter 
 
 pd.set_option('display.max_rows', None)
 
@@ -47,6 +49,11 @@ counter = 0
 if os.path.isdir(Mainfile_path + "/Digital Agent Combined") == False:
     os.mkdir(Mainfile_path + "/Digital Agent Combined")
 
+
+workbook = xlsxwriter.Workbook('h.xlsx')
+worksheet = workbook.add_worksheet()
+workbook.close()
+
 # loops through 19 times to combine and create 19 files
 for name in file_names:
 
@@ -67,9 +74,6 @@ for name in file_names:
 
     # Concatenate the 4 dataframes in dfList to create 1 large dataframe which is easier to print in excel
     df = pd.concat(dfList, axis = 0, ignore_index = True)
-
-     # Print to excel
-    df.to_excel(Mainfile_path + "/Digital Agent Combined/" + name + "Combined.xlsx", index=False)
 
     #increment counter to function for the next file in the filename array
     counter += 1
