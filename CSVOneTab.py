@@ -50,7 +50,7 @@ if os.path.isdir(Mainfile_path + "/Digital Agent Combined") == False:
     os.mkdir(Mainfile_path + "/Digital Agent Combined")
 
 
-workbook = xlsxwriter.Workbook('h.xlsx')
+workbook = xlsxwriter.Workbook(Mainfile_path + '/Digital Agent Combined/AllAuditCombined.xlsx')
 worksheet = workbook.add_worksheet()
 workbook.close()
 
@@ -74,6 +74,8 @@ for name in file_names:
 
     # Concatenate the 4 dataframes in dfList to create 1 large dataframe which is easier to print in excel
     df = pd.concat(dfList, axis = 0, ignore_index = True)
+
+    df.to_excel(Mainfile_path + "/Digital Agent Combined/AllAuditCombined.xlsx", sheet_name=name, index=False)
 
     #increment counter to function for the next file in the filename array
     counter += 1
