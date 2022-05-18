@@ -53,7 +53,7 @@ if os.path.isdir(Mainfile_path + "/Digital Agent Combined") == False:
 workbook = xlsxwriter.Workbook(Mainfile_path + "/Digital Agent Combined/AllAuditCombined.xlsx")
 
 # List to store the 19 dataframes
-listofdf = []
+listofconcatdf = []
 
 # Creates an Excel writer to write to each sheet in the workbook
 writer = pd.ExcelWriter(Mainfile_path + "/Digital Agent Combined/AllAuditCombined.xlsx", engine='xlsxwriter')
@@ -79,7 +79,7 @@ for name in file_names:
     # Concatenate the 4 dataframes in dfList to create 1 large dataframe which is easier to print in excel, and then append that to the global listofdf,
     # which should contain 19 combined files once the loop completes
     df = pd.concat(dfList, axis = 0, ignore_index = True)
-    listofdf.append(df)
+    listofconcatdf.append(df)
 
     
     #increment counter to function for the next file in the filename array
@@ -89,7 +89,7 @@ for name in file_names:
 counter = 0
 
 # Loops through a second time to write all the listofdf into each respective excel sheet
-for df in listofdf:
+for df in listofconcatdf:
   df.to_excel(writer, sheet_name= "All" + file_names[counter])
   counter +=1
 
