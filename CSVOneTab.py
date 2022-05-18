@@ -53,7 +53,8 @@ if os.path.isdir(Mainfile_path + "/Digital Agent Combined") == False:
 workbook = xlsxwriter.Workbook(Mainfile_path + "/Digital Agent Combined/AllAuditCombined.xlsx")
 
 listofdf = []
-writer = pd.ExcelWriter("AllAuditCombined.xlsx", engine='xlsxwriter')
+print(Mainfile_path)
+writer = pd.ExcelWriter(Mainfile_path + "/Digital Agent Combined/AllAuditCombined.xlsx", engine='xlsxwriter')
 # loops through 19 times to combine and create 19 files
 for name in file_names:
 
@@ -83,7 +84,7 @@ for name in file_names:
 counter = 0
 
 for df in listofdf:
-  df.to_excel(writer, sheet_name= "All" + str(counter) + "ha")
+  df.to_excel(writer, sheet_name= "All" + file_names[counter])
   counter +=1
 
 writer.save()
