@@ -33,8 +33,6 @@ root.update()
 Mainfile_path = filedialog.askdirectory()
 getPath(Mainfile_path)
 
-
-
 # Checks whether you selected the right directory to merge files
 if os.path.isdir(folder_paths[0]) == False:
     print("------- SCRIPT TERMINATED ---------")
@@ -66,6 +64,9 @@ counter = 0
 # If Digital Agent Combined folder doesn't exist, make it exist
 if os.path.isdir(Mainfile_path + "/Digital Agent Combined") == False:
     os.mkdir(Mainfile_path + "/Digital Agent Combined")
+else:
+    sys.exit('A folder called "Digital Agent Combined" already exists. Please try again without this folder.')
+    
 
 # loops through 19 times to combine and create 19 files
 for name in file_names:
