@@ -10,6 +10,17 @@ from tkinter import Tk, filedialog # tkinter is for file selection popup dialogu
 import sys # early termination
 import xlsxwriter 
 
+folder_paths = []
+
+def getPath(Mainfile_path):
+    for name in os.listdir(Mainfile_path):
+        if name == ".DS_Store":
+            continue
+        if os.path.isfile(Mainfile_path + "/" + name):
+            folder_paths.append(Mainfile_path)
+            return
+        getPath(Mainfile_path + "/" + name)
+
 pd.set_option('display.max_rows', None)
 
 root = Tk() # pointing root to Tk() to use it as Tk() in program.
@@ -19,32 +30,28 @@ root.update()
 
 # Main file path where all digital agent folders are located
 Mainfile_path = filedialog.askdirectory()
-
-# File path for the subfiles 
-folder_path1 = Mainfile_path + "/ca-525/DigitalAgent"
-folder_path2 = Mainfile_path + "/ca-525/Lportal"
-folder_path3 = Mainfile_path + "/com-525/DigitalAgent"
-folder_path4 = Mainfile_path + "/com-525/Lportal"
-folder_path5 = Mainfile_path + "/net-525/DigitalAgent"
-folder_path6 = Mainfile_path + "/net-525/Lportal"
-folder_path7 = Mainfile_path + "/org-525/DigitalAgent"
-folder_path8 = Mainfile_path + "/org-525/Lportal"
+getPath(Mainfile_path)
 
 # Checks whether you selected the right directory to merge files
-if os.path.isdir(folder_path1) == False:
+if os.path.isdir(folder_paths[0]) == False:
     print("------- SCRIPT TERMINATED ---------")
     sys.exit("Wrong folder selected. Please see documentation for details")
 
 # Array of all file paths
-folder_paths = [folder_path1,folder_path2,folder_path3,folder_path4,folder_path5,folder_path6,folder_path7,folder_path8,]
-#file_names = ["AddressAudit","BlogAudit", "ComplianceQueueAudit", "ContentAudit", 
-#"DirectoryAudit","DisclaimerAudit", "DisclosureAudit", "EventAudit", "FileAudit", "FreeOptionsAudit", "LocationAudit", 
-#"MailingListAudit","MailingListMemberAudit","NewsletterAudit", "NewsletterTemplateAudit","NewsletterVersionAudit", "OfficeVersionAudit",
-#"OptionsAudit", "OrganizationalGroupAudit", "PageAudit","PageTemplateAudit","PollAudit", "ProfileAudit", "RenderTemplateAudit", 
-#"RepositoryAudit", "ResourceAudit", "ResourceCollectionAudit", "SegmentAudit",
-#"SettingsAudit", "SubmissionFormVersionAudit", "TagAudit", "TenantAudit", "UserAudit", "VideoVersionAudit", "WebsiteAudit", "WebsiteVersionAudit"]
+
 file_names = []
 file_tail = ".sql.csv"
+
+for path in folder_paths:
+    for file in os.listdir(path):
+        if file not in file_names:
+            file_names.append(file)
+
+counter = 0
+
+for name in file_names:
+    file_names[counter] = name[0:len(name)-8]
+    counter += 1
 
 # Getting all the files from their respective folders and putting it into one variable. There are 
 # 19 different combined files, so we will loop through and create 19 combined files
