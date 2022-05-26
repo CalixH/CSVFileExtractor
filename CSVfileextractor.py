@@ -29,8 +29,6 @@ root.update()
 # Main file path where all digital agent folders are located
 Mainfile_path = filedialog.askdirectory()
 getPath(Mainfile_path)
-for name in folder_paths:
-    print(name)
 
 
 
@@ -49,10 +47,10 @@ for path in folder_paths:
         if file not in file_names:
             file_names.append(file)
 
-for name in file_names:
-    print(name)
+counter = 0
 
-sys.exit()
+for name in file_names:
+    file_names[counter] = name[]
 
 # Getting all the files from their respective folders and putting it into one variable. There are 
 # 19 different combined files, so we will loop through and create 19 combined files
