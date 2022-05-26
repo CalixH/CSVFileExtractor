@@ -1,0 +1,39 @@
+"Target String","URL Safe String","User","Hub","Submission Form","Description","Data","Thank you Messagte","Redirect Page URL","Confirmation from Email","Confirmation from Name","Confirmation Email Subject","Confirmation Emali Body","Submission Button Label"
+".ca",".ca","Larry Prutch","The PVG Group","RSVP for Tax Seminar","Please fill in in the form below to RSVP for our event","{""fields"":[{""label"":""First Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c9""},{""label"":""Last Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c13""}]}","<p>Thank you for RSVP to our event. We look forward to seeing you there.&nbsp;</p>","","george.castrillon@rbc.com","PVG Group","Thank you for RSVPing","<p>Mrs.&nbsp;{{Last Name}},</p>
+
+<p>&nbsp;</p>
+
+<p>As a reminder here are the details for the event.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>We look forward to seeing you.&nbsp;</p>",""
+".ca",".ca","Larry Prutch","The PVG Group","Request a meeting with the PVG Group","Meeting","{""fields"":[{""label"":""When to meet"",""field_type"":""radio"",""required"":true,""field_options"":{""options"":[{""label"":""morning (8am-12pm)"",""checked"":true},{""label"":""afternoon (12-4pm)"",""checked"":false}]},""cid"":""c1""}]}","<p>Request for meeting with PVG Group</p>","","george.castrillon@rbc.com","PVG Group","We have received your appointment request","<p>Thank you</p>",""
+".ca",".ca","George Castrillon","George Castrillon, CEPA®, CFP®, CPFA","RSVP Today","Please complete form below to RSVP","{""fields"":[{""label"":""First Name:"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c1""},{""label"":""Last Name: "",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c5""},{""label"":""Profession:"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""small""},""cid"":""c9""},{""label"":""E-mail:"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c17""},{""label"":""Phone Number:"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c13""}]}","","","george.castrillon@rbc.com","George Castrillion","Thank you for RSVPing!","<p>Thank you for RSVPing for our Hosted Happy Hour Networking Event on Tuesday, 12/10/19 from 5:00 &ndash; 6:30pm at the Tin Roof Bistro (3500 N. Sepulveda, Manhattan Beach, CA 90266). If you have any questions or updates please email&nbsp;george.castrillon@rbc.com&nbsp;or call&nbsp;#310-647-8053.</p>",""
+".ca",".ca","George Castrillon","George Castrillon, CEPA®, CFP®, CPFA","Contact Information","Please provide contact information below. Someone on our team will be in contact with you shortly.","{""fields"":[{""label"":""First and Last Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c2""},{""label"":""Phone Number"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c6""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c10""},{""label"":""Comments/Questions"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c14""}]}","<p>Please provide contact information below. Someone on our team will be in contact with you shortly.&nbsp;</p>","","george.castrillon@rbc.com","George Castrillon","APM ESOP - 1042 Election","<p>Greetings&nbsp;{{First and Last Name}},&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Thank you for providing us your contact information. Someone on our team will be in touch with you shortly to discuss your options related to sale of your privately held stock and the tax benefits available to you through 1042. Should you need immediate assistance, feel free to contact our team at the number below.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Regards,&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><b><span style=""font-size:12.0pt""><span arial="""" style=""font-family:""><span style=""color:#0051a5"">George B. Castrillon, CFP&reg;, CEPA&reg;, CPFA</span></span></span></b></p>
+
+<p><span arial="""" style=""font-family:""><span style=""color:#0051a5"">Vice President &ndash; Financial Advisor</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><b><span arial="""" style=""font-family:""><span style=""color:#0051a5"">RBC Wealth Management</span></span></b></p>
+
+<p><span arial="""" style=""font-family:""><span style=""color:#0051a5"">2631 Rosecrans Ave</span></span></p>
+
+<p><span arial="""" style=""font-family:""><span style=""color:#0051a5"">Suite 460</span></span></p>
+
+<p><span arial="""" style=""font-family:""><span style=""color:#0051a5"">El Segundo, CA 90245-7910</span></span></p>
+
+<p><span arial="""" style=""font-family:""><span style=""color:#0051a5"">T 310.647.8053 F 310.647.8099</span></span></p>","Submit"
