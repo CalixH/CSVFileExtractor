@@ -20,11 +20,15 @@ root.update()
 # Main file path where all digital agent folders are located
 Mainfile_path = filedialog.askdirectory()
 
-# File path for the 4 subfiles 
-folder_path1 = Mainfile_path + "/DigitalAgent.com"
-folder_path2 = Mainfile_path + "/DigitalAgent.ca"
-folder_path3 = Mainfile_path + "/DigitalAgent.net"
-folder_path4 = Mainfile_path + "/DigitalAgent.org"
+# File path for the subfiles 
+folder_path1 = Mainfile_path + "/ca-525/DigitalAgent"
+folder_path2 = Mainfile_path + "/ca-525/Lportal"
+folder_path3 = Mainfile_path + "/com-525/DigitalAgent"
+folder_path4 = Mainfile_path + "/com-525/Lportal"
+folder_path5 = Mainfile_path + "/net-525/DigitalAgent"
+folder_path6 = Mainfile_path + "/net-525/Lportal"
+folder_path7 = Mainfile_path + "/org-525/DigitalAgent"
+folder_path8 = Mainfile_path + "/org-525/Lportal"
 
 # Checks whether you selected the right directory to merge files
 if os.path.isdir(folder_path1) == False:
@@ -32,12 +36,21 @@ if os.path.isdir(folder_path1) == False:
     sys.exit("Wrong folder selected. Please see documentation for details")
 
 # Array of all file paths
-folder_paths = [folder_path1,folder_path2,folder_path3,folder_path4]
-file_names = ["BlogAudit", "ComplianceQueueAudit", "ContentAudit", 
-"DirectoryAudit", "DisclosureAudit", "EventAudit", "FileAudit", "OfficeVersionAudit", 
-"OptionsAudit", "OrganizationalGroupAudit", "PageAudit", "ProfileAudit", "RepositoryAudit", "ResourceAudit", 
-"SettingsAudit", "SubmissionFormVersionAudit", "TenantAudit", "UserAudit", "WebsiteAudit"]
+folder_paths = [folder_path1,folder_path2,folder_path3,folder_path4,folder_path5,folder_path6,folder_path7,folder_path8,]
+#file_names = ["AddressAudit","BlogAudit", "ComplianceQueueAudit", "ContentAudit", 
+#"DirectoryAudit","DisclaimerAudit", "DisclosureAudit", "EventAudit", "FileAudit", "FreeOptionsAudit", "LocationAudit", 
+#"MailingListAudit","MailingListMemberAudit","NewsletterAudit", "NewsletterTemplateAudit","NewsletterVersionAudit", "OfficeVersionAudit",
+#"OptionsAudit", "OrganizationalGroupAudit", "PageAudit","PageTemplateAudit","PollAudit", "ProfileAudit", "RenderTemplateAudit", 
+#"RepositoryAudit", "ResourceAudit", "ResourceCollectionAudit", "SegmentAudit",
+#"SettingsAudit", "SubmissionFormVersionAudit", "TagAudit", "TenantAudit", "UserAudit", "VideoVersionAudit", "WebsiteAudit", "WebsiteVersionAudit"]
+file_names = []
 file_tail = ".sql.csv"
+
+for i,folder in enumerate(folder_paths):
+    for files in folder_paths[i]:
+        file_names.append(glob.glob(folder_paths[i] + ".sql.csv"))
+        
+print(file_names)
 
 # Getting all the files from their respective folders and putting it into one variable. There are 
 # 19 different combined files, so we will loop through and create 19 combined files
