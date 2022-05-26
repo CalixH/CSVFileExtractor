@@ -8,16 +8,19 @@ import glob #glob is a filepath manager
 from tkinter import Tk, filedialog # tkinter is for file selection popup dialogues
 import sys # early termination
 
+# list containing all paths to folders with excel files
 folder_paths = []
 
+
+# This is a recursive function that finds the path to folders containing excel files
 def getPath(Mainfile_path):
     for name in os.listdir(Mainfile_path):
-        if name == ".DS_Store":
+        if name == ".DS_Store": # ignore this file
             continue
-        if os.path.isfile(Mainfile_path + "/" + name):
+        if os.path.isfile(Mainfile_path + "/" + name): # if we've found a folder containing excel files, add it to the list and return
             folder_paths.append(Mainfile_path)
             return
-        getPath(Mainfile_path + "/" + name)
+        getPath(Mainfile_path + "/" + name) # else continue recursing
 
 pd.set_option('display.max_rows', None)
 
@@ -38,10 +41,10 @@ if os.path.isdir(folder_paths[0]) == False:
     sys.exit("Wrong folder selected. Please see documentation for details")
 
 # Array of all file paths
-
 file_names = []
 file_tail = ".sql.csv"
 
+# add unique file names to our file name list
 for path in folder_paths:
     for file in os.listdir(path):
         if file not in file_names:
@@ -49,6 +52,7 @@ for path in folder_paths:
 
 counter = 0
 
+# slice the .sql.csv off of our file names
 for name in file_names:
     file_names[counter] = name[0:len(name)-8]
     counter += 1
