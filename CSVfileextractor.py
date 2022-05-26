@@ -35,19 +35,24 @@ for name in folder_paths:
 
 
 # Checks whether you selected the right directory to merge files
-if os.path.isdir(folder_path1) == False:
+if os.path.isdir(folder_paths[0]) == False:
     print("------- SCRIPT TERMINATED ---------")
     sys.exit("Wrong folder selected. Please see documentation for details")
 
 # Array of all file paths
 
-file_names = ["BlogAudit", "ComplianceQueueAudit", "ContentAudit", 
-"DirectoryAudit", "DisclosureAudit", "EventAudit", "FileAudit", "OfficeVersionAudit", 
-"OptionsAudit", "OrganizationalGroupAudit", "PageAudit", "ProfileAudit", "RepositoryAudit", "ResourceAudit", 
-"SettingsAudit", "SubmissionFormVersionAudit", "TenantAudit", "UserAudit", "WebsiteAudit"]
+file_names = []
 file_tail = ".sql.csv"
 
-for path in folder_paths
+for path in folder_paths:
+    for file in os.listdir(path):
+        if file not in file_names:
+            file_names.append(file)
+
+for name in file_names:
+    print(name)
+
+sys.exit()
 
 # Getting all the files from their respective folders and putting it into one variable. There are 
 # 19 different combined files, so we will loop through and create 19 combined files
