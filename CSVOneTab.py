@@ -46,12 +46,6 @@ folder_paths = [folder_path1,folder_path2,folder_path3,folder_path4,folder_path5
 file_names = []
 file_tail = ".sql.csv"
 
-for i,folder in enumerate(folder_paths):
-    for files in folder_paths[i]:
-        file_names.append(glob.glob(folder_paths[i] + ".sql.csv"))
-        
-print(file_names)
-
 # Getting all the files from their respective folders and putting it into one variable. There are 
 # 19 different combined files, so we will loop through and create 19 combined files
 
