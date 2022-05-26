@@ -46,7 +46,7 @@ file_tail = ".sql.csv"
 # add unique file names to our file name list
 for path in folder_paths:
     for file in os.listdir(path):
-        if file not in file_names:
+        if file not in file_names and file != ".DS_Store":
             file_names.append(file)
 
 counter = 0
