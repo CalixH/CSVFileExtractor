@@ -50,7 +50,7 @@ for path in folder_paths:
 counter = 0
 
 for name in file_names:
-    file_names[counter] = name[]
+    file_names[counter] = name[0:]
 
 # Getting all the files from their respective folders and putting it into one variable. There are 
 # 19 different combined files, so we will loop through and create 19 combined files
