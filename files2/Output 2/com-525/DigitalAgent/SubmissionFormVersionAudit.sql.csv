@@ -1,0 +1,1047 @@
+"Target String","URL Safe String","User","Hub","Submission Form","Description","Data","Thank you Messagte","Redirect Page URL","Confirmation from Email","Confirmation from Name","Confirmation Email Subject","Confirmation Emali Body","Submission Button Label"
+".com",".com","Field Digital","Your FA website program","Theme 1 Clone","Yes, please redesign my website into Theme 1.","{""fields"":[{""label"":""Advisor or team name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c9""},{""label"":""Name of person submitting request"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c13""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c1""},{""label"":""Current Website URL"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c15""}]}","<p style=""text-align: center;""><strong>Thank you for selecting Theme 1 for your newly redesigned FA or team website. </strong><br />
+<br />
+When your website is ready for your review, you will receive an email from <a href=""mailto:onlinesolutions@rbc.com"">onlinesolutions@rbc.com</a>. In the meantime, please don&#39;t hesitate to contact us with any questions.&nbsp;</p>","","","","","","Submit"
+".com",".com","Field Digital","Your FA website program","Theme 1 Clone Clone","Yes, please redesign my website into Theme 1.","{""fields"":[{""label"":""Advisor or team name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c9""},{""label"":""Name of person submitting request"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c13""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c1""},{""label"":""Current Website URL"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c15""}]}","<p style=""text-align: center;""><strong>Thank you for selecting Theme 1 for your newly redesigned FA or team website. </strong><br />
+<br />
+When your website is ready for your review, you will receive an email from <a href=""mailto:onlinesolutions@rbc.com"">onlinesolutions@rbc.com</a>. In the meantime, please don&#39;t hesitate to contact us with any questions.&nbsp;</p>","","","","","","Submit"
+".com",".com","Online Solutions","The Dyer Kroneberger Group - Tombstone","Contact Brian","Please email me at brian.kroneberger@rbc.com or fill out the form below.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c9""},{""label"":""Email Address"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c1""},{""label"":""Comments"",""field_type"":""paragraph"",""required"":true,""field_options"":{""size"":""medium""},""cid"":""c13""}]}","<p>Thank you! We will respond to your message shortly.</p>","","","","","",""
+".com",".com","Rick G Wilkins","The Wilkins Investment Group","Contact","Please complete the following form to request more information. *indicates a required field","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large""},""cid"":""c1""},{""label"":""Address"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c5""},{""label"":""City, State, Zip"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c13""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c31""},{""label"":""Phone"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c41""},{""label"":""Preferred Contact Method "",""field_type"":""checkboxes"",""required"":true,""field_options"":{""options"":[{""label"":""Email"",""checked"":false},{""label"":""Phone"",""checked"":false}]},""cid"":""c35""},{""label"":""Additional Information you'd like us to know:"",""field_type"":""paragraph"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c58""}]}","<p>Thanks for taking the time to send us your information. &nbsp;We look forward to talking with you.</p>","","Taylor.Morgenstern@rbc.com","Taylor Morgenstern","Thank Your For Your Interest","<p>Thank you for taking the time to reach out. &nbsp;We look forward to talking with you about your unique situation and learning how we can help. &nbsp;Someone will reach out to you shortly.</p>
+
+<p>&nbsp;</p>
+
+<p>If you would like to call us as well, we would love to hear from you. &nbsp;My direct line is &nbsp;303.595.1175</p>
+
+<p>&nbsp;</p>
+
+<p>Best,</p>
+
+<p>&nbsp;</p>
+
+<p>Taylor</p>",""
+".com",".com","Larry Prutch","The PVG Group","RSVP for Tax Seminar","Please fill in in the form below to RSVP for our event","{""fields"":[{""label"":""First Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c9""},{""label"":""Last Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c13""}]}","<p>Thank you for RSVP to our event. We look forward to seeing you there.&nbsp;</p>","","george.castrillon@rbc.com","PVG Group","Thank you for RSVPing","<p>Mrs.&nbsp;{{Last Name}},</p>
+
+<p>&nbsp;</p>
+
+<p>As a reminder here are the details for the event.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>We look forward to seeing you.&nbsp;</p>",""
+".com",".com","Larry Prutch","The PVG Group","Request a meeting with the PVG Group","Meeting","{""fields"":[{""label"":""When to meet"",""field_type"":""radio"",""required"":true,""field_options"":{""options"":[{""label"":""morning (8am-12pm)"",""checked"":true},{""label"":""afternoon (12-4pm)"",""checked"":false}]},""cid"":""c1""}]}","<p>Request for meeting with PVG Group</p>","","george.castrillon@rbc.com","PVG Group","We have received your appointment request","<p>Thank you</p>",""
+".com",".com","Marcus Hull","Hull Group","Ask our team a question?","Please complete the form below to get a quick answer.","{""fields"":[{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{""description"":""""},""cid"":""c1""},{""label"":""What are your questions?"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""medium"",""description"":""""},""cid"":""c5""}]}","","","marcus.hull@rbc.com","Marcus Hull","Question Submitted","<p>Thank you for submitting your questions, we will send you a response email&nbsp;as soon as possible.&nbsp; Take care.</p>",""
+".com",".com","Larry Prutch","The PVG Group","In order to get your free Wealth Management publication, we need some information from you. Please enter the information below , and we will get you the E-Book to start helping you make smarter financial decisions. We will follow up with you soon.","In order to get your free Wealth Management publication, we need some information from you. Please enter the information below, and we will get you the E-Book to start helping you make smarter financial decisions. We will follow up with you soon.","{""fields"":[{""label"":""First Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c1""},{""label"":""Last Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c5""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c9""},{""label"":""Phone"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c13""},{""label"":""Address"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c17""},{""label"":""City"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c21""},{""label"":""State"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c25""},{""label"":""Subscribe to Our Informative Newsletter"",""field_type"":""dropdown"",""required"":true,""field_options"":{""options"":[{""label"":""Yes"",""checked"":false},{""label"":""No"",""checked"":false}],""include_blank_option"":false},""cid"":""c33""},{""label"":""Request a FREE No Obligation Consultation"",""field_type"":""dropdown"",""required"":true,""field_options"":{""options"":[{""label"":""Yes"",""checked"":false},{""label"":""No"",""checked"":false}],""include_blank_option"":false},""cid"":""c37""},{""label"":""How did you hear about PVG Group at RBC Wealth Management"",""field_type"":""dropdown"",""required"":true,""field_options"":{""options"":[{""label"":""Referral"",""checked"":false},{""label"":""LinkedIn"",""checked"":false},{""label"":""Facebook"",""checked"":false},{""label"":""Google/ Yahoo/ Bing "",""checked"":false},{""label"":""Other"",""checked"":false}],""include_blank_option"":false},""cid"":""c41""}]}","","us.rbcwealthmanagement.com/PVG/market-commentary","","","","","Submit Request Now"
+".com",".com","Tom Dexter","Dexter - Morris Wealth Management Team","Newsletter subscription form","If you would like to receive our monthly newsletter with timely articles and market commentary, please subscribe today.","{""fields"":[{""label"":""please provide E-mail address"",""field_type"":""email"",""required"":true,""field_options"":{""description"":""""},""cid"":""c9""}]}","<p><span style=""font-size: 14px;"">Thank you for subscribing to our monthly newsletter!&nbsp; If anything you read in the monthly newsletter spurs a question or investment idea, please contact us anytime. We&#39;re happy to discuss any of the topics with you.</span></p>","","brynn.morris@rbc.com","Brynn Morris","Thanks for subscribing!","<p class=""ckePara""><span style=""font-size: 12px;"">Thank you for subscribing to our monthly newsletter!&nbsp; </span></p>
+
+<p class=""ckePara"">&nbsp;</p>
+
+<p class=""ckePara""><span style=""font-size: 12px;"">If anything you read in the monthly newsletter spurs a question or investment idea, please contact us anytime. We&#39;re happy to discuss any of the topics with you.</span></p>
+
+<p class=""ckePara"">&nbsp;</p>
+
+<p class=""ckePara""><span style=""font-size: 12px;"">Thank you,</span></p>
+
+<p class=""ckePara"">&nbsp;</p>
+
+<p class=""ckePara""><span style=""font-size: 12px;"">Brynn Morris</span></p>
+
+<p class=""ckePara""><span style=""font-size: 12px;"">Financial Advisor</span></p>
+
+<p class=""ckePara""><span style=""font-size: 12px;"">Dexter-Morris Wealth Management</span><br />
+&nbsp;</p>
+
+<p class=""ckePara""><span style=""font-size: 12px;"">RBC Wealth Management</span></p>
+
+<p class=""ckePara""><span style=""font-size: 12px;"">4001 West 114th Street, Suite 200<br />
+Leawood, KS 66211</span></p>
+
+<p class=""ckePara""><span style=""font-size: 12px;"">Direct <span class=""baec5a81-e4d6-4674-97f3-e9220f0136c1"" style=""white-space: nowrap;"">913-451-3584<a href=""#"" style=""margin: 0px; border: currentColor; border-image: none; left: 0px; top: 0px; width: 16px; height: 16px; right: 0px; bottom: 0px; overflow: hidden; vertical-align: middle; float: none; display: inline; white-space: nowrap; position: static !important;"" title=""Call: 913-451-3584""><img src=""data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcklEQVR4XpXTPUvDUBTH4aR2c2hBQXGpTiIORhBcBOvgYKf0Awi+4Ggr1MVPIIrYdnEpShddHIyLi6AVXVxsRRDRwbi4KNgu4lCIv8i/i6QRDzycy+09555LqOl5nhEUptPoJe1iDHU8oYlrlDw79m4QEbSLPexzsIc8hDRm8YBjLpj4q8EgxQdab+MNd4ghhQ2adIc1+ORAFEnWWfTDRp7GDfImlsIavKALLuqoqMGUCs4wHtagiQ5uc8kDyCOBKlP1k78QNTOZnMXCQRxWsbjl6iuskV41SQG2Gj9rikvcR1WcgKFDBa1LOEUK56hqv8BUFV3SGWkVS9JQ6Dsv4wQ1DKMPORUvkm78BhdQMI1CTa5I0yrcwSFqFD+SZ7DQesIkCG5S/JpkHYERQRmuNsrZ7Grc+Ef8/Bcoslkfae8Wc7CUHZ++TuAEBj86pHntjaDKXllPy6PW/gkKFaThwp/K87N8hDcQTTKKFTioSxqB8Q2BNX5JtAljwgAAAABJRU5ErkJggg=="" style=""margin: 0px; border: currentColor; border-image: none; left: 0px; top: 0px; width: 16px; height: 16px; right: 0px; bottom: 0px; overflow: hidden; vertical-align: middle; float: none; display: inline; white-space: nowrap; position: static !important;"" title=""Call: 913-451-3584"" /></a></span><br />
+Fax <span class=""baec5a81-e4d6-4674-97f3-e9220f0136c1"" style=""white-space: nowrap;"">913-451-3595<a href=""#"" style=""margin: 0px; border: currentColor; border-image: none; left: 0px; top: 0px; width: 16px; height: 16px; right: 0px; bottom: 0px; overflow: hidden; vertical-align: middle; float: none; display: inline; white-space: nowrap; position: static !important;"" title=""Call: 913-451-3595""><img src=""data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcklEQVR4XpXTPUvDUBTH4aR2c2hBQXGpTiIORhBcBOvgYKf0Awi+4Ggr1MVPIIrYdnEpShddHIyLi6AVXVxsRRDRwbi4KNgu4lCIv8i/i6QRDzycy+09555LqOl5nhEUptPoJe1iDHU8oYlrlDw79m4QEbSLPexzsIc8hDRm8YBjLpj4q8EgxQdab+MNd4ghhQ2adIc1+ORAFEnWWfTDRp7GDfImlsIavKALLuqoqMGUCs4wHtagiQ5uc8kDyCOBKlP1k78QNTOZnMXCQRxWsbjl6iuskV41SQG2Gj9rikvcR1WcgKFDBa1LOEUK56hqv8BUFV3SGWkVS9JQ6Dsv4wQ1DKMPORUvkm78BhdQMI1CTa5I0yrcwSFqFD+SZ7DQesIkCG5S/JpkHYERQRmuNsrZ7Grc+Ef8/Bcoslkfae8Wc7CUHZ++TuAEBj86pHntjaDKXllPy6PW/gkKFaThwp/K87N8hDcQTTKKFTioSxqB8Q2BNX5JtAljwgAAAABJRU5ErkJggg=="" style=""margin: 0px; border: currentColor; border-image: none; left: 0px; top: 0px; width: 16px; height: 16px; right: 0px; bottom: 0px; overflow: hidden; vertical-align: middle; float: none; display: inline; white-space: nowrap; position: static !important;"" title=""Call: 913-451-3595"" /></a></span><br />
+brynn.morris@rbc.com</span></p>
+
+<p class=""ckePara""><span style=""font-size: 12px;"">NMLS #1733593 through City National Bank</span></p>
+
+<p class=""ckePara"">&nbsp;</p>
+
+<p class=""ckePara""><span style=""font-size: 12px;"">Please visit our website: www.dextermorriswm.com</span></p>
+
+<p class=""ckePara"">&nbsp;</p>
+
+<p class=""ckePara""><span style=""font-size: 12px;"">The highest compliment I can receive is a referral to a friend, family member or colleague. Thank you for your trust.</span></p>","Subscribe"
+".com",".com","Field Digital","Julia Andersen","RSVP","Please fill out and submit the RSVP form below to attend my exclusive event, Investing for Retirement.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c5""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c1""},{""label"":""# of guests attending"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c9""},{""label"":""Dietary restrictions"",""field_type"":""radio"",""required"":false,""field_options"":{""options"":[{""label"":""Vegetarian"",""checked"":false},{""label"":""Vegan"",""checked"":false},{""label"":""Nut allergies"",""checked"":false},{""label"":""Other"",""checked"":false}]},""cid"":""c13""},{""label"":""Which session will you attend?"",""field_type"":""dropdown"",""required"":true,""field_options"":{""options"":[{""label"":""June 7, 2018"",""checked"":false},{""label"":""June 8 2018"",""checked"":false}],""include_blank_option"":true},""cid"":""c24""}]}","<p>Thank you for RSVPing! I look forward to seeing you at my seminar,</p>","","onlinesolutions@rbc.com","Julia Andersen","Thank you for RSVPing","<p>Dear&nbsp;{{Name}},</p>
+
+<p>Thank you for RSVPing for The Art of Protecting Your Portfolio. I&#39;m looking forward to seeing you on&nbsp;{{Which session will you attend?}}. In the meantime, please call me at 555-555-5555 if you have any questions. I&#39;d love to chat with you.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Thank you,</p>
+
+<p><strong>Samantha Mitchell</strong></p>
+
+<p><em>Financial Advisor</em></p>
+
+<p>555-555-5555</p>
+
+<p>samantha.m.mitchell@rbc.com</p>","Submit"
+".com",".com","Online Solutions","Baltimore - OBS","Financial Advisor Opportunities","INSERT TEXT HERE","{""fields"":[{""label"":""Name:"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""medium"",""description"":""Please add your full name to the field above""},""cid"":""c1""},{""label"":""Current Firm:"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""medium""},""cid"":""c5""},{""label"":""Personal Email:"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c9""},{""label"":""Mobile Phone #:"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c13""},{""label"":""Best time to call:"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""description"":""""},""cid"":""c17""}]}","<p>Thank you for your interest, we will be in touch as soon as we review your application.</p>","","mike.crowell@rbc.com","Mike Crowell","Thank you for your interest in the Financial Advisor opportunity.","<p>Thank you for your interest in the Financial Advisor opportunity. We will get back to you as soon as possible.</p>",""
+".com",".com","Lee Edgcomb","Edgcomb Financial Advisors","Simplify it for Me.","We try to keep the sign-up process simple as well. Just fill out the form, and you will be added to our distribution list.","{""fields"":[{""label"":""First Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""medium"",""description"":""""},""cid"":""c25""},{""label"":""Last Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""medium"",""description"":"""",""maxlength"":""250""},""cid"":""c29""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{""description"":""""},""cid"":""c17""},{""label"":""Topic Submission"",""field_type"":""paragraph"",""required"":false,""field_options"":{""size"":""medium"",""description"":""The way this informal periodical keeps running is through topic submissions of real business owners, professionals, and tradesmen. We want to know what you want to know. \n\nTopics will be answered in a generalized fashion with the key aim being education. Not all topics are selected for publication.  ""},""cid"":""c14""}]}","<p>Thank you for your submission. You have been added to the distribution&nbsp;list. I appreciate your interest in learning more about your financial world. Enjoy!&nbsp;&nbsp;&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Sincerely,</p>
+
+<p>&nbsp;</p>
+
+<p>Chris Edgcomb, RICP&reg;&nbsp;</p>
+
+<p>Financial Advisor</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>","","chris.edgcomb@rbc.com","Chris Edgcomb, RICP® - Financial Advisor","Thank you for your interest in,","<p><img alt="""" src=""/documents/520643/520657/SIMPLIFY+IT+FOR+ME.jpg/51a28606-79b9-4d77-978b-34821bf55711?t=1542198473000"" style=""width: 651px; height: 335px;"" /></p>
+
+<p>&nbsp;</p>
+
+<p>{{First Name}},</p>
+
+<p>&nbsp;</p>
+
+<p>I&#39;m delighted that you have honored me by signing up for, <a href=""https://us.rbcwealthmanagement.com/edgcomb/"" target=""_blank"">&quot;Simplify&nbsp;it for Me.&quot;</a> Thank you for your interest, and desire to learn more about a variety of subjects effecting business owners and professionals in the Greater Rochester and Buffalo areas. This is an &quot;informal,&quot; periodical, the topics are crowd-sourced,&nbsp;and you have been added to the distribution list!</p>
+
+<p>&nbsp;</p>
+
+<p>The initial letter is available below. The topic that I received the most submissions for was regarding diversification. Click the link below to be redirected.</p>
+
+<p>&nbsp;</p>
+
+<p><a href=""https://us.rbcwealthmanagement.com/edgcomb/"" target=""_blank"">&quot;Diversify, diversify, diversify.&quot;</a> - A word thrown around often with seemingly endless definitions. We dig into what diversification is, isn&#39;t, and why it is valuable to total return over a long horizon.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Enjoy, and keep an eye out for more in the next installment!</p>
+
+<p>&nbsp;</p>
+
+<p>Cheers,</p>
+
+<p>&nbsp;</p>
+
+<p>Chris Edgcomb, RICP<sup>&reg;</sup></p>
+
+<p>Financial Advisor</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Learn more about <a href=""https://us.rbcwealthmanagement.com/edgcomb/"" target=""_blank"">Edgcomb&nbsp;Financial Advisors</a>&nbsp;- a father-son partnership focused on retirement income planning for professionals and business owners in Rochester and Buffalo.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Be sure to check out our social media. <a href=""https://www.linkedin.com/in/edgcombfinancialadvisors/"" target=""_blank"">LinkedIn</a> | <a href=""https://www.facebook.com/chris.edgcomb"" target=""_blank"">Facebook</a></p>","Sign me up!"
+".com",".com","Stephen A Drake","The Drake Group","Sign up for our monthly e-mail","Please fill out the fields below to receive our monthly e-mail. We will cover a variety of topics designed to increase your financial wisdom.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c4""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c1""},{""label"":""I am interested in receiving a complimentary wealth managment plan"",""field_type"":""checkboxes"",""required"":false,""field_options"":{""options"":[{""label"":""Yes"",""checked"":false}]},""cid"":""c8""}]}","<p>Your Submission has been received!</p>","","drakegroup@rbc.com","The Drake Group","Thank you for subscribing!","<p><span style=""font-size:14px;"">{{Name}},</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=""font-size:14px;"">Thank you for subscribing to&nbsp;<em>Financial wisdom for investment success.&nbsp;</em>A monthly email that will teach important investment lessons to prepare you for and guide you in retirement.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=""font-size:14px;"">Best regards,</span></p>
+
+<p><span style=""font-size:14px;"">The Drake Group</span></p>",""
+".com",".com","Geoff H Brent","The Brent Group","Contact","Please complete the following form to request more information. *indicates a required field","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large""},""cid"":""c1""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c31""},{""label"":""Phone"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c41""},{""label"":""Address"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c5""},{""label"":""City, State, Zip"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c13""},{""label"":""Best Time to Call"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c52""},{""label"":""Comments"",""field_type"":""paragraph"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c58""}]}","","","thebrentgroup@rbc.com","The Brent Group","A message from The Brent Group","<p>Thank you for your inquiry! We will be reaching out to you shortly with the contact information provided.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Kindest Regards,</p>
+
+<p>The Brent Group&nbsp;</p>",""
+".com",".com","Justin Gervais","Justin Gervais, AIF®, CFP®","Financial Advisor Contact","Please complete the following form to request more information. *indicates a required field","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large""},""cid"":""c1""},{""label"":""Address"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c5""},{""label"":""City, State, Zip"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c13""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c31""},{""label"":""Phone"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c41""},{""label"":""Best Time to Call"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c52""},{""label"":""Comments"",""field_type"":""paragraph"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c58""}]}","","","justin.gervais@rbc.com","Justin Gervais","Thanks for the Inquiry!","<p>Thank you!&nbsp; Your message has been received!&nbsp; We will follow up shortly, in the mean time feel free to reach out to me directly&nbsp;at 651-430-5514.</p>",""
+".com",".com","Eric Schulze","Eric Schulze","Contact","Larson Schulze Investment Team","{""fields"":[{""label"":""Contact"",""field_type"":""email"",""required"":true,""field_options"":{""description"":""""},""cid"":""c38""},{""label"":""Direct"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""description"":""""},""cid"":""c42""}]}","","","brandon.dill@rbc.com","Brandon Dill","Thank you!","<p><span style=""font-size: 12px;"">Thank you for contacting us - we will be in touch soon!</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=""font-size: 12px;"">Sincerely,</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=""font-size: 12px;"">The Larson Schulze Investment Team</span></p>
+
+<p><span style=""font-size: 12px;"">RBC Wealth Management</span></p>",""
+".com",".com","Adam Garen","Adam Garen","Get in touch","Please complete the following form to request more information. Thank You!","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large""},""cid"":""c1""},{""label"":""Address"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c5""},{""label"":""City, State, Zip"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c13""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c31""},{""label"":""Phone"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c41""},{""label"":""Best Time to Call"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c52""},{""label"":""Comments"",""field_type"":""paragraph"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c58""}]}","<p>Thanks for getting in touch! You&#39;ll hear from me shortly.</p>
+
+<p>&nbsp;</p>
+
+<p>In the meantime, I invite you to visit this page, outlining <a href=""https://us.rbcwealthmanagement.com/adamgaren/client-experience"">what you&#39;ll experience</a>&nbsp;with me and RBC.</p>
+
+<p>&nbsp;</p>
+
+<p>All the Best,</p>
+
+<p>&nbsp;</p>
+
+<p>Adam</p>","","adam.garen@rbc.com","Adam Garen","Thanks for Getting in Touch!","<p>Hello,</p>
+
+<p>&nbsp;</p>
+
+<p>Thanks for reaching out. You&#39;ll hear&nbsp;from me shortly.</p>
+
+<p>&nbsp;</p>
+
+<p>All the Best,</p>
+
+<p>&nbsp;</p>
+
+<p>Adam</p>",""
+".com",".com","Lee Edgcomb","Edgcomb Financial Advisors","The Edgcomb Financial Advisors Email List","This is Edgcomb Financial Advisor's mixed bag of pieces, delivered by email and written by Chris and Lee at Edgcomb Financial Advisors. We tackle an array of financial topics including: Financial planning, retirement income, behavioral investment management concepts, current events, analysis, and education. Bottom line is that we try to simplify the complex, and we will do it here - with humor - topic by topic.
+
+Remember, we are trying to provide content that is valuable to Rochester business owners and professionals. Please take a moment to make some topic requests, or even specific questions. Who knows? Perhaps the answer to your topic/question will show up in your inbox...
+
+Cheers,
+Chris & Lee - Edgcomb Financial Advisors","{""fields"":[{""label"":""First Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""medium""},""cid"":""c5""},{""label"":""Last Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""medium""},""cid"":""c9""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c13""},{""label"":""Which topics are you interested in?"",""field_type"":""checkboxes"",""required"":true,""field_options"":{""options"":[{""label"":""Financial Planning"",""checked"":false},{""label"":""Retirement Income Planning"",""checked"":false},{""label"":""Behavioral investment coaching"",""checked"":false},{""label"":""Tax efficient investing"",""checked"":false},{""label"":""I'm a plan sponsor - fiduciary requirements"",""checked"":false},{""label"":""I'm a plan sponsor - participant education 404(c)"",""checked"":false},{""label"":""Market commentary"",""checked"":false}]},""cid"":""c21""},{""label"":""Select the option that best describes you:"",""field_type"":""radio"",""required"":true,""field_options"":{""options"":[{""label"":""I'm a Rochester/Buffalo Business Owner"",""checked"":false},{""label"":""I'm and executive at a Rochester/Buffalo Corporation"",""checked"":false},{""label"":""I'm provide professional services in Rochester/Buffalo"",""checked"":false},{""label"":""I'm an employee of a Rochester/Buffalo small business"",""checked"":false}]},""cid"":""c19""},{""label"":""How did you find us?"",""field_type"":""dropdown"",""required"":true,""field_options"":{""options"":[{""label"":""Social media"",""checked"":false},{""label"":""Seach engine"",""checked"":false},{""label"":""Direct email from Edgcomb Financial Advisors"",""checked"":false},{""label"":""Word of mouth"",""checked"":false}],""include_blank_option"":false},""cid"":""c25""},{""label"":""Is there anything specific you would like us to write about?"",""field_type"":""paragraph"",""required"":true,""field_options"":{""size"":""medium"",""maxlength"":""600"",""description"":""Perhaps you will see it in an upcoming newsletter...""},""cid"":""c34""}]}","<h2 style=""text-align: center;"">Thank you for your submission!</h2>
+
+<p class=""ckePara"" style=""text-align: center;"">You will be receiving an email confirming your submission shortly.</p>
+
+<p class=""ckePara"" style=""text-align: center;"">&nbsp;</p>
+
+<p class=""ckePara"" style=""text-align: center;"">- &nbsp;Chris and Lee</p>
+
+<p class=""ckePara"" style=""text-align: center;"">Edgcomb&nbsp;Financial Advisors</p>","","chris.edgcomb@rbc.com","Chris Edgcomb, RICP®","Welcome to the newsletter from Edgcomb Financial Advisors","<p>Hello&nbsp;{{First Name}},</p>
+
+<p>&nbsp;</p>
+
+<p>Thank you for signing up for the Edgcomb&nbsp;Financial Advisors email list!&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>We&#39;re certainly excited. Hopefully you are as well. We wanted to create something that provides a wide range of topics meant to simplify the complex&nbsp;without boring you to tears. We&nbsp;think we have done that successfully through the email medium, and we hope you enjoy it.</p>
+
+<p>&nbsp;</p>
+
+<p>We&#39;ll send new publications to your email&nbsp;- {{Email}} - monthly. Click&nbsp;<a href=""http://us.rbcwealthmanagement.com/web/edgcomb/newsletter"" target=""_blank"">here</a> to be redirected to our newsletter repository.&nbsp;<br />
+&nbsp;</p>
+
+<p>Cheers,</p>
+
+<p>Chris Edgcomb, RICP<sup>&reg;</sup>&nbsp;&amp; Lee Edgcomb, CFP<sup>&reg;</sup>, CIMA<sup>&reg;</sup>, RMA<sup>&reg;</sup></p>
+
+<p>Edgcomb&nbsp;Financial Advisors at&nbsp;RBC Wealth Management</p>","Sign me up!"
+".com",".com","Lee Edgcomb","Edgcomb Financial Advisors","Team Edgcomb Email Sign-up","This is Edgcomb Financial Advisor's mixed bag of pieces, delivered by email and written by Chris and Lee at Edgcomb Financial Advisors. We tackle an array of financial topics including: Financial planning, retirement income, behavioral investment management concepts, current events, analysis, and education. Bottom line is that we try to simplify the complex, and we will do it here - with humor - topic by topic.
+
+Remember, we are trying to provide content that is valuable to Rochester business owners and professionals. Please take a moment to make some topic requests, or even specific questions. Who knows? Perhaps the answer to your topic/question will show up in your inbox...
+
+Cheers,
+Chris & Lee - Edgcomb Financial Advisors","{""fields"":[{""label"":""First Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""medium""},""cid"":""c5""},{""label"":""Last Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""medium""},""cid"":""c9""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c13""},{""label"":""Select the option that best describes you:"",""field_type"":""radio"",""required"":true,""field_options"":{""options"":[{""label"":""I'm a Rochester/Buffalo Small Business Owner"",""checked"":false},{""label"":""I'm and executive at a Rochester/Buffalo Corporation"",""checked"":false},{""label"":""I'm provide professional services in Rochester/Buffalo"",""checked"":false},{""label"":""I'm an employee of a Rochester/Buffalo small business"",""checked"":false},{""label"":""Just interested in learning more"",""checked"":false}]},""cid"":""c19""},{""label"":""How did you find us?"",""field_type"":""dropdown"",""required"":true,""field_options"":{""options"":[{""label"":""Social media"",""checked"":false},{""label"":""Seach engine"",""checked"":false},{""label"":""Direct email from Edgcomb Financial Advisors"",""checked"":false},{""label"":""Word of mouth"",""checked"":false}],""include_blank_option"":false},""cid"":""c25""},{""label"":""Is there anything specific you would like us to write about?"",""field_type"":""paragraph"",""required"":true,""field_options"":{""size"":""medium"",""maxlength"":""600"",""description"":""Perhaps you will see it in an upcoming newsletter...""},""cid"":""c34""}]}","<h2 style=""text-align: center;"">Thank you for your submission!</h2>
+
+<p class=""ckePara"" style=""text-align: center;"">You will be receiving an email confirming your submission shortly.</p>
+
+<p class=""ckePara"" style=""text-align: center;"">&nbsp;</p>
+
+<p class=""ckePara"" style=""text-align: center;"">- &nbsp;Chris and Lee</p>
+
+<p class=""ckePara"" style=""text-align: center;"">Edgcomb&nbsp;Financial Advisors</p>","","chris.edgcomb@rbc.com","Chris Edgcomb, RICP®","Welcome to Team Edgcomb Email!","<p>Hello&nbsp;{{First Name}},</p>
+
+<p>&nbsp;</p>
+
+<p>Thank you for signing up for the Team Edgcomb&nbsp;Email!&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>We&#39;re certainly excited. Hopefully you are as well. We wanted to create something that provides education,&nbsp;insight, and commentary on&nbsp;a wide range of topics. The key aim being&nbsp;to simplify the complex&nbsp;without boring you to tears. We&nbsp;think we have done that successfully through this email medium, and we hope you enjoy it!</p>
+
+<p>&nbsp;</p>
+
+<p>We&#39;ll send new publications to your email&nbsp;- {{Email}} - monthly. Click&nbsp;<a href=""http://us.rbcwealthmanagement.com/web/edgcomb/newsletter"" target=""_blank"">here</a> to be redirected to our newsletter repository.&nbsp;<br />
+&nbsp;</p>
+
+<p>Cheers,</p>
+
+<p>Chris Edgcomb, RICP<sup>&reg;</sup>&nbsp;&amp; Lee Edgcomb, CFP<sup>&reg;</sup>, CIMA<sup>&reg;</sup>, RMA<sup>&reg;</sup></p>
+
+<p>Edgcomb&nbsp;Financial Advisors at&nbsp;RBC Wealth Management</p>","Sign me up!"
+".com",".com","Blaine Christensen","Blaine Christensen","Let's start planning","Whether you're a current client who would like to review your portfolio, or a potential client that would like to learn more about my approach, I would love to hear from you.  To set up a consultation, please complete the form below.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c1""},{""label"":""E-mail"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c5""},{""label"":""Specific planning or financial topics"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large"",""description"":"""",""maxlength"":""500""},""cid"":""c9""}]}","<p>Thank you!</p>","","blaine.christensen@rbc.com","Blaine W. Christensen","Thanks for reaching out!","<p>Hi&nbsp;{{Name}},</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp; Thank you so much for reaching out.&nbsp; I look forward to speaking with you soon.</p>
+
+<p>&nbsp;</p>
+
+<p>Thanks,<br />
+Blaine<a name=""_MailAutoSig""></a></p>
+
+<p>&nbsp;</p>
+
+<p><a name=""_MailAutoSig""><span style=""font-size:10.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:black"">Blaine W. Christensen<br />
+First Vice President - Financial Advisor, Consulting Group<br />
+RBC Wealth Management<br />
+200 S Center St.<br />
+Casper, WY 82601<br />
+P: (307) 237-1400 | F: (307) 235-2151<br />
+Toll Free: (800) 234-3246</span></span></span></a><br />
+<i><span style=""font-family:&quot;Corbel&quot;,sans-serif""><span style=""color:navy"">&rdquo;Bull markets are born on pessimism, grow on skepticism, mature on optimism, and die on euphoria.&rdquo;</span></span></i><br />
+<span style=""font-family:&quot;Corbel&quot;,sans-serif""><b><i><span style=""color:navy"">-Sir John Templeton</span></i></b></span></p>
+
+<p><i><span style=""font-family:&quot;Corbel&quot;,sans-serif""><span style=""color:#6e500a"">&ldquo;Be fearful when others are greedy. Be greedy when others are fearful.&rdquo;<br />
+<b>-Warren Buffett</b></span></span></i></p>",""
+".com",".com","Reva Shakkottai","Manhattan Beach","Let's start the conversation","If you would like to discuss anything in more detail, please fill out the form below.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large""},""cid"":""c1""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{""description"":""""},""cid"":""c5""},{""label"":""Comments"",""field_type"":""paragraph"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c9""}]}","","","reva.shakkottai@rbc.com","Reva Shakkottai","Thank you for your message","<p>You will get a response within 24 hours.</p>",""
+".com",".com","Reva Shakkottai","Reva Shakkottai, CFA","Let's start the conversation","If you'd like to discuss anything you learn about here in more detail, please fill out the form below.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c2""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{""description"":""""},""cid"":""c6""},{""label"":""Comments"",""field_type"":""paragraph"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c10""}]}","","","reva.shakkottai@rbc.com","Reva Shakkottai","Thank you for your message","<p>You will get a response within 24 hours.</p>",""
+".com",".com","Mark W Lininger","Specialized Strategies Group","Let's start the conversation","If you would like to discuss anything in more detail, please fill out the form below.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c1""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{""description"":""""},""cid"":""c5""},{""label"":""Comments"",""field_type"":""paragraph"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c9""}]}","","","reva.shakkottai@rbc.com","Reva Shakkottai","Thank you for your message","<p>You will get a response within 24 hours.</p>",""
+".com",".com","Rea Mayer","The Specialized Strategies Group","Let's start the conversation","If you would like to discuss anything in more detail, please fill out the form below.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c1""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{""description"":""""},""cid"":""c5""},{""label"":""Comments"",""field_type"":""paragraph"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c9""}]}","","","reva.shakkottai@rbc.com","Reva Shakkottai","Thank you for your message","<p>You will get a response within 24 hours.</p>",""
+".com",".com","Patricia Thorpe","Krause & Thorpe Wealth Management Team","Learn More","Please complete the following form to request more information. *indicates a required field","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large""},""cid"":""c1""},{""label"":""Address"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c5""},{""label"":""City, State, Zip"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c13""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{""description"":""""},""cid"":""c31""},{""label"":""Phone"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c41""},{""label"":""Best Time to Call"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c52""},{""label"":""About You"",""field_type"":""dropdown"",""required"":true,""field_options"":{""options"":[{""label"":""Net worth"",""checked"":false},{""label"":""yearly income over $200k"",""checked"":false},{""label"":""I receive/have company stock"",""checked"":false}],""include_blank_option"":false,""description"":""This is to better serve you""},""cid"":""c37""}]}","<p>Thank you for your inquiry. We look forward to connecting with you shortly.</p>","","heather.krause@rbc.com","Heather Krause","Thank you for your inquiry.","<p>We look forward to&nbsp;speaking with you soon.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Sincerely,</p>
+
+<p>&nbsp;</p>
+
+<p>Heather &amp; Pat</p>",""
+".com",".com","Patricia Thorpe","Krause & Thorpe Wealth Management Team","Let's start the conversation","Please complete the following information for us to better serve you. 
+*indicates a required field","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""description"":""""},""cid"":""c25""},{""label"":""Address"",""field_type"":""paragraph"",""required"":true,""field_options"":{""size"":""small"",""description"":""""},""cid"":""c100""},{""label"":""City, State, Zip"",""field_type"":""paragraph"",""required"":true,""field_options"":{""size"":""small"",""description"":""""},""cid"":""c256""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c29""},{""label"":""Phone Number"",""field_type"":""paragraph"",""required"":true,""field_options"":{""size"":""small"",""description"":""""},""cid"":""c105""},{""label"":""Best time to contact you"",""field_type"":""paragraph"",""required"":true,""field_options"":{""size"":""small"",""description"":""""},""cid"":""c109""},{""label"":""About you"",""field_type"":""dropdown"",""required"":true,""field_options"":{""options"":[{""label"":""Net Worth"",""checked"":false},{""label"":""Income of $200k or more"",""checked"":false}],""include_blank_option"":false,""description"":""""},""cid"":""c121""}]}","<p>Thank you for your inquiry. We look forward to connecting with you shortly.</p>","","heather.krause@rbc.com","Heather Krause","Thanks for contacting us.","<p>We look forward to speaking with you soon.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Sincerely,</p>
+
+<p>&nbsp;</p>
+
+<p>Heather &amp; Pat</p>",""
+".com",".com","Joseph LaValle","The LaValle Investment Group","RSVP to:  Extended Care - LTC Event","RSVP to the LTC Event","{""fields"":[{""label"":""First Name:"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c5""},{""label"":""Last Name:"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c9""},{""label"":""Preferred Email Address:"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c14""},{""label"":""Total Number Attending (Including Yourself):"",""field_type"":""dropdown"",""required"":true,""field_options"":{""options"":[{""label"":""1"",""checked"":true},{""label"":""2"",""checked"":false},{""label"":""3"",""checked"":false},{""label"":""4"",""checked"":false}],""include_blank_option"":true},""cid"":""c16""},{""label"":""Comments:"",""field_type"":""paragraph"",""required"":false,""field_options"":{""size"":""small""},""cid"":""c26""}]}","<h4>Thank you for your RSVP, we look forward to seeing you at the event!</h4>","","LaValleInvestmentGroup@rbc.com","The LaValle Investment Group","Thank you for your RSVP!","<h4>{{First Name:}}&nbsp;{{Last Name:}} thank you for your RSVP, we are saving&nbsp;{{Total Number Attending (Including Yourself):}} spaces for you.</h4>
+
+<h5>&nbsp;</h5>
+
+<p>Please don&#39;t hesitate to call or&nbsp;email with any questions.&nbsp; If you would like to have a Long Term Care illustration ran for you before the event please respond to this email with your phone number and a good time to reach you.</p>
+
+<h5>&nbsp;</h5>
+
+<h4>We look forward to seeing you at the event!</h4>
+
+<h5>&nbsp;</h5>
+
+<h3>The LaValle&nbsp;Investment Group</h3>
+
+<p><a href=""http://us.rbcwealthmanagement.com/lavallegroup"">Website</a>&nbsp; |&nbsp; <a href=""http://us.rbcwealthmanagement.com/lavallegroup/contact"">Contact the Team</a></p>","RSVP Now"
+".com",".com","Patricia Thorpe","Krause & Thorpe Wealth Management Team","Let's start the conversation","Please complete the following information for us to better serve you.
+*indicates a required field","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large""},""cid"":""c1""},{""label"":""Address"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c5""},{""label"":""City, State, Zip"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c13""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{""description"":""""},""cid"":""c31""},{""label"":""Phone"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c41""},{""label"":""Best Time to Call"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c52""},{""label"":""Estimated Gross Income"",""field_type"":""dropdown"",""required"":true,""field_options"":{""options"":[{""label"":""$0 - $99,999"",""checked"":false},{""label"":""$100,000 - $199,999"",""checked"":false},{""label"":""$200,000 +"",""checked"":false}],""include_blank_option"":false,""description"":""""},""cid"":""c116""},{""label"":""Estimated Net Worth"",""field_type"":""dropdown"",""required"":true,""field_options"":{""options"":[{""label"":""$0 - $249,999"",""checked"":false},{""label"":""$250,000 - $499,999"",""checked"":false},{""label"":""$500,000 - $999,999"",""checked"":false},{""label"":""$1,000,000 - $1,499,999"",""checked"":false},{""label"":""$1,500,000 +"",""checked"":false}],""include_blank_option"":false,""description"":""""},""cid"":""c37""},{""label"":""Company Stock Recipient"",""field_type"":""checkboxes"",""required"":true,""field_options"":{""options"":[{""label"":""I receive company stock as part of my compensation"",""checked"":false},{""label"":""I own company stock"",""checked"":false}],""description"":""""},""cid"":""c121""}]}","<p>Thank you for your inquiry. We look forward to connecting with you shortly.</p>","","heather.krause@rbc.com","Heather Krause","Thank you for your inquiry.","<p>We look forward to&nbsp;speaking with you soon.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Sincerely,</p>
+
+<p>&nbsp;</p>
+
+<p>Heather &amp; Pat</p>",""
+".com",".com","Patricia Thorpe","Krause & Thorpe Wealth Management Team","Contact Us","Please complete the following information for us to better serve you.
+*indicates a required field","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c1""},{""label"":""Address"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c5""},{""label"":""City, State, Zip"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c13""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{""description"":""""},""cid"":""c31""},{""label"":""Phone"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c41""},{""label"":""Best Time to Call"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c52""}]}","<p>Thank you for your inquiry. We look forward to connecting with you shortly.</p>","","heather.krause@rbc.com","Heather Krause","Thank you for your inquiry.","<p>We look forward to&nbsp;speaking with you soon.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Sincerely,</p>
+
+<p>&nbsp;</p>
+
+<p>Heather &amp; Pat</p>",""
+".com",".com","Patricia Thorpe","Krause & Thorpe Wealth Management Team","Let's start the conversation","Please complete the following information for us to better serve you.
+*indicates a required field","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large""},""cid"":""c1""},{""label"":""Address"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c5""},{""label"":""City, State, Zip"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c13""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{""description"":""""},""cid"":""c31""},{""label"":""Phone"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c41""},{""label"":""Best Time to Call"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c52""}]}","<p>Thank you for your inquiry. We look forward to connecting with you shortly.</p>","","heather.krause@rbc.com","Heather Krause","Thank you for your inquiry.","<p>We look forward to&nbsp;speaking with you soon.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Sincerely,</p>
+
+<p>&nbsp;</p>
+
+<p>Heather &amp; Pat</p>",""
+".com",".com","Adam Garen","Adam Garen","Get Advice","If you'd like to discuss anything you learn about here in more detail, please fill out the form below.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c25""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c29""},{""label"":""How can I help?"",""field_type"":""paragraph"",""required"":false,""field_options"":{""size"":""small""},""cid"":""c33""}]}","<p>Thank you for your submission!</p>
+
+<p>&nbsp;</p>
+
+<p>I will get in touch with you shortly.</p>
+
+<p>&nbsp;</p>
+
+<p>All the Best,</p>
+
+<p><br />
+Adam</p>","","adam.garen@rbc.com","Adam Garen","Thanks for your inquiry!","<p>Hello {{Name}},</p>
+
+<p>&nbsp;</p>
+
+<p>Congratulations on&nbsp;taking&nbsp;your first step towards&nbsp;getting the answers you deserve!</p>
+
+<p>&nbsp;</p>
+
+<p>I&#39;m grateful for the opportunity to serve you and will be in touch shortly.</p>
+
+<p>&nbsp;</p>
+
+<p>All the Best,</p>
+
+<p><br />
+Adam</p>
+
+<p>&nbsp;</p>
+
+<p>--</p>
+
+<p>&nbsp;</p>
+
+<p>Adam C. Garen | Financial Advisor</p>
+
+<p>Direct: (612) 371-2391 | Mobile: (415) 205-6430</p>
+
+<p>RBC Wealth Management | RBC Capital Markets, LLC</p>
+
+<p>RBC Plaza, 60 South 6th St., 10th Floor, Minneapolis, MN 55402</p>","Get Advice"
+".com",".com","Stephen A Drake","The Drake Group","Sign up for our monthly e-mail Clone","Please fill out the fields below to receive our monthly e-mail. We will cover a variety of topics designed to increase your financial wisdom.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""description"":""""},""cid"":""c4""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c1""}]}","<p>Your Submission has been received!</p>","","drakegroup@rbc.com","The Drake Group","Thank you for subscribing!","<p><span style=""font-size: 14px;"">{{Name}},</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=""font-size: 14px;"">Thank you for subscribing to&nbsp;<em>Financial wisdom for investment success.&nbsp;</em>A monthly email that will teach important investment lessons to prepare you for and guide you in retirement.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=""font-size: 14px;"">Best regards,</span></p>
+
+<p><span style=""font-size: 14px;"">The Drake Group</span></p>",""
+".com",".com","Ken Eidson","The Eidson, Doege and Morris Team","Newsletter Subscription Form","If you would like to receive our monthly newsletter with timely articles and market commentary, please subscribe today.","{""fields"":[{""label"":""please provide E-mail address"",""field_type"":""email"",""required"":true,""field_options"":{""description"":""""},""cid"":""c1""}]}","<p><span style=""font-size: 14px;"">Thank you for subscribing to our monthly newsletter! If anything you read in the monthly newsletter spurs a question or investment idea, please contact us at anytime.&nbsp; We&#39;re happy to discuss any of the topics with you.</span></p>","","brynn.morris@rbc.com","Brynn Morris","Thanks for subscribing!","<p><span style=""font-size: 14px;"">Thank you for subscribing to our monthly newsletter!</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=""font-size: 14px;"">If anything you read in the monthly newsletter spurs a question or investment idea, please contact us anytime. We&#39;re happy to discuss any of the topics with you.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=""font-size: 14px;"">Thank you,</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=""font-size: 14px;"">Brynn Morris</span></p>
+
+<p><span style=""font-size: 14px;"">Financial Advisor</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=""font-size: 14px;"">The Eidson, Doege, and Morris Team</span></p>
+
+<p><span style=""font-size: 14px;"">RBC Wealth Management</span></p>
+
+<p><span style=""font-size: 14px;"">4001 West 114th Street, Suite 200<br />
+Leawood, KS 66211</span></p>
+
+<p><span style=""font-size: 14px;"">Direct 913-451-3584<br />
+Fax 913-451-3595<br />
+brynn.morris@rbc.com</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=""font-size: 14px;"">NMLS #1733593 through City National Bank</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=""font-size: 14px;"">Please visit our website: Rbcwmfa.com/eidsondoegemorris</span></p>","Subscribe"
+".com",".com","Field Digital","Testy McTestalot","Contact Brian","If you'd like to discuss anything you learn about here in more detail, please email brian.kroneberger@rbc.com or fill out the form below.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c25""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c29""},{""label"":""Comments"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c10""}]}","<p>Thank you for your submission. We look forward to connecting with you shortly.</p>","","","","","",""
+".com",".com","Michael Gee","Alpha Wealth Management Group","What are your financial concerns?","Tell us about yourself and what you hope to do with your money.","{""fields"":[{""label"":""Would you say that you have the financial freedom you desire?"",""field_type"":""radio"",""required"":true,""field_options"":{""options"":[{""label"":""Yes"",""checked"":false},{""label"":""No"",""checked"":false},{""label"":""Unsure"",""checked"":false}],""description"":""""},""cid"":""c31""},{""label"":""Are you confident in the current state of your finances?"",""field_type"":""radio"",""required"":true,""field_options"":{""options"":[{""label"":""Yes"",""checked"":false},{""label"":""No"",""checked"":false},{""label"":""Unsure"",""checked"":false}],""description"":""""},""cid"":""c12""},{""label"":""Are you confident in your own ability to handle your finances?"",""field_type"":""radio"",""required"":true,""field_options"":{""options"":[{""label"":""Yes"",""checked"":false},{""label"":""No"",""checked"":false},{""label"":""Unsure"",""checked"":false}],""description"":""""},""cid"":""c5""},{""label"":""Have you attempted to plan out your finances before?"",""field_type"":""radio"",""required"":true,""field_options"":{""options"":[{""label"":""Yes"",""checked"":false},{""label"":""No"",""checked"":false},{""label"":""Unsure"",""checked"":false}],""description"":""""},""cid"":""c16""},{""label"":""Are you confident your finances will last through retirement?"",""field_type"":""radio"",""required"":true,""field_options"":{""options"":[{""label"":""Yes"",""checked"":false},{""label"":""No"",""checked"":false},{""label"":""Unsure"",""checked"":false}],""description"":""""},""cid"":""c35""},{""label"":""What is your biggest financial concern or question right now?"",""field_type"":""paragraph"",""required"":true,""field_options"":{""size"":""small"",""description"":""""},""cid"":""c39""},{""label"":""What is your contact information?"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large"",""description"":""Please include your preferred phone number and/or email address.""},""cid"":""c20""}]}","<p>Thank you for your submission! Your team will get back to you shortly.</p>","","Michael.gee@rbc.com","Michael Gee","Thanks for your submission!","<p>Hello!</p>
+
+<p>&nbsp;</p>
+
+<p>Congratulations on taking your first step to a more secure financial future! The Alpha Wealth Management team and Royal Bank of Canada would like to welcome you to our family. We are very excited to help you grow your wealth&nbsp;as well as&nbsp;achieve the financial and life goals you have set for yourself. You will receive a personal response from our team shortly, we look forward to meeting you!</p>
+
+<p>&nbsp;</p>
+
+<p>Sincerely,</p>
+
+<p>The Alpha Wealth Management Group</p>","Submit"
+".com",".com","Bob W Chernow","The Chernow Cowan Group","Let's start the conversation","If you'd like to discuss anything you learn about here in more detail, please fill out the form below.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c25""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c29""},{""label"":""Comments"",""field_type"":""paragraph"",""required"":false,""field_options"":{""size"":""small""},""cid"":""c33""}]}","<p>Thank you for your submission. We look forward to connecting with you shortly.</p>","","andrew.cowan@rbc.com","Andrew Cowan","Thank you for reaching out!","<p>We appreciate your interest, I will be contacting you shortly.</p>",""
+".com",".com","Andrew Leonard","The Leonard Group","Contact","Please complete the following form to request more information. *indicates a required field","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large""},""cid"":""c1""},{""label"":""Address"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c5""},{""label"":""City, State, Zip"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c13""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c31""},{""label"":""Phone"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c41""},{""label"":""Best Method and Time to Contact You"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c52""},{""label"":""Comments"",""field_type"":""paragraph"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c58""}]}","","","Andrew.Leonard@rbc.com","Andrew Leonard","Thank You","<p>Hi,</p>
+
+<p>&nbsp;</p>
+
+<p>Thank you for providing your contact information. One of our team members will be reaching out to you soon.</p>
+
+<p>&nbsp;</p>
+
+<p>All the best,</p>
+
+<p>&nbsp;</p>
+
+<p>Andrew S. Leonard,&nbsp;CFP&reg;</p>
+
+<p><span style=""font-size:8.0pt""><span arial="""" style=""font-family:""><span style=""color:#002d72"">| Senior Vice President - Financial Advisor - Private Client Group| </span></span></span></p>
+
+<p><b><span style=""font-size:8.0pt""><span arial="""" style=""font-family:""><span style=""color:#002d72"">RBC Wealth Management, a division of</span></span></span></b><span style=""font-size:8.0pt""><span arial="""" style=""font-family:""><span style=""color:#002d72""> <b>RBC Capital Markets, LLC</b> </span></span></span></p>
+
+<p><span style=""font-size:8.0pt""><span arial="""" style=""font-family:""><span style=""color:#002d72"">1700 Pennsylvania Ave. N.W., Suite 700 Washington, DC 20006 </span></span></span></p>
+
+<p><span style=""font-size:8.0pt""><span arial="""" style=""font-family:""><span style=""color:#002d72"">T: 202-661-9533 F: 202-661-9706 </span></span></span></p>
+
+<p><span style=""font-size:8.0pt""><span arial="""" style=""font-family:""><span style=""color:#002d72"">NMLS# 1540168 through City National Bank</span></span></span></p>
+
+<p><span style=""font-size:8.0pt""><span arial="""" style=""font-family:""><span style=""color:#002d72""><a href=""http://www.rbcwmfa.com/theleonardgroup/""><span style=""color:blue"">http://www.rbcwmfa.com/theleonardgroup/</span></a> </span></span></span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>",""
+".com",".com","Lee Edgcomb","Edgcomb Financial Advisors","Request an Appointment","Schedule a meeting, call, or Webex Session with Edgcomb Financial Advisors.","{""fields"":[{""label"":""First Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""medium""},""cid"":""c1""},{""label"":""Last Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""medium""},""cid"":""c5""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c9""},{""label"":""Phone"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""medium"",""maxlength"":""""},""cid"":""c35""},{""label"":""What are you looking to accomplish?"",""field_type"":""paragraph"",""required"":true,""field_options"":{""size"":""medium"",""description"":""No need for a long explanation. Keep it simple and we'll dig into it at our meeting.""},""cid"":""c18""},{""label"":""What are your preferred days to meet?"",""field_type"":""checkboxes"",""required"":true,""field_options"":{""options"":[{""label"":""Monday"",""checked"":false},{""label"":""Tuesday"",""checked"":false},{""label"":""Wednesday"",""checked"":false},{""label"":""Thursday"",""checked"":false},{""label"":""Friday"",""checked"":false}],""description"":""Let us know what works best for you, and we'll do our best to accomodate!""},""cid"":""c37""},{""label"":""Time of day?"",""field_type"":""dropdown"",""required"":true,""field_options"":{""options"":[{""label"":""Morning"",""checked"":false},{""label"":""Afternoon"",""checked"":false}],""include_blank_option"":false},""cid"":""c43""}]}","<p style=""text-align: center;"">Thank you for using our online system for requesting appointments with Chris and Lee. Please allow up to one (1) business day for us to respond.</p>
+
+<p style=""text-align: center;"">&nbsp;</p>
+
+<p style=""text-align: center;"">We look forward to seeing you!</p>","","chris.edgcomb@rbc.com","Chris Edgcomb, RICP®, AIF®","Meeting Request Submission","<p>Good day!</p>
+
+<p>&nbsp;</p>
+
+<p>We have received your message. Please allow up to one (1) business day&nbsp;for a response. Below you will find a summary of your submission.</p>
+
+<p>&nbsp;</p>
+
+<p>{{First Name}} {{Last Name}}</p>
+
+<p>{{Email}}</p>
+
+<p>{{Phone}}</p>
+
+<p>What you are looking to accomplish:&nbsp;{{What are you looking to accomplish?}}</p>
+
+<p>Preferred Days: {{What are your preferred days to meet?}}</p>
+
+<p>Time of Day: {{Time of day?}}</p>
+
+<p>&nbsp;</p>
+
+<p>Please review, and if any information is incorrect, shoot us an email so we can get it corrected in our system.</p>
+
+<p>&nbsp;</p>
+
+<p>Thank you for your request, and I look forward to speaking with you!</p>
+
+<p>&nbsp;</p>
+
+<p><span style=""font-size:10.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif"">Cheers,</span></span></p>
+
+<p><span style=""font-size:10.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif"">Chris</span></span></p>
+
+<p><b><span style=""font-size:10.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#002060"">____________________________</span></span></span></b></p>
+
+<p>&nbsp;</p>
+
+<p><b><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#002060"">Edgcomb Financial Advisors</span></span></b></p>
+
+<p><span style=""font-size:10.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#002060"">Wealth Management for Upstate Business Owners and Professionals</span></span></span></p>
+
+<p>&nbsp;</p>
+
+<p><i><span style=""font-size:10.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#002060"">&ldquo;We begin with your dreams; for your family, business, recreation and money. </span></span></span></i></p>
+
+<p><i><span style=""font-size:10.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#002060"">We end with your plan, and stay with you for the journey.&rdquo;</span></span></span></i></p>
+
+<p>&nbsp;</p>
+
+<p><b><u><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#002060""><a href=""https://us.rbcwealthmanagement.com/edgcomb/""><span style=""color:blue"">Edgcomb Financial Advisors Website</span></a></span></span></span></u></b></p>
+
+<p>&nbsp;</p>
+
+<p><b><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:blue""><a href=""https://www.linkedin.com/in/leeedgcomb/""><span style=""color:blue"">Lee&rsquo;s LinkedIn</span></a> </span></span></span></b><b><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#a6a6a6"">|</span></span></span></b><b><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:blue""> <a href=""https://www.linkedin.com/in/edgcombfinancialadvisors/""><span style=""color:blue"">Chris&rsquo;s LinkedIn</span></a> </span></span></span></b><b><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#a6a6a6"">|</span></span></span></b><b><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:blue""> <a href=""https://www.facebook.com/edgcombfinancialadvisorsRBC/""><span style=""color:blue"">EFA Facebook</span></a> </span></span></span></b><b><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#a6a6a6"">|</span></span></span></b><b><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:blue""> <a href=""https://us.rbcwealthmanagement.com/edgcomb/corporate-retirement-plan-services""><span style=""color:blue"">401(K)</span></a> </span></span></span></b><b><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#a6a6a6"">|</span></span></span></b><b><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:blue""> <a href=""https://us.rbcwealthmanagement.com/edgcomb/rbcwmonline""><span style=""color:blue"">RBC WM Online</span></a> </span></span></span></b><b><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#a6a6a6"">|</span></span></span></b><b><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:blue""> <a href=""https://us.rbcwealthmanagement.com/edgcomb/rbc-wealthplan""><span style=""color:blue"">RBC Wealth Plan</span></a></span></span></span></b></p>
+
+<p>&nbsp;</p>
+
+<p><b><span style=""font-size:10.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#002060"">Chris Edgcomb, RICP<sup>&reg;</sup></span></span></span></b><b><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#002060"">, </span></span></span></b><b><span style=""font-size:10.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#002060"">AIF<sup>&reg;</sup></span></span></span></b></p>
+
+<p><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#1f497d"">Financial Advisor </span></span></span></p>
+
+<p><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#1f497d"">NMLS number </span></span></span><span style=""font-size:10.0pt""><span style=""font-family:&quot;Verdana&quot;,sans-serif""><span style=""color:#1f497d"">1542135</span></span></span><i> </i><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#1f497d"">through City National Bank</span></span></span></p>
+
+<p><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#002060"">Direct:<b>&nbsp; </b></span></span></span><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#1f497d"">(585) 423-2168</span></span></span></p>
+
+<p>&nbsp;</p>
+
+<p><b><span style=""font-size:10.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#002060"">Lee Edgcomb, CFP<sup>&reg;</sup>, CIMA<sup> &reg;</sup>, RMA<sup> &reg;</sup></span></span></span></b></p>
+
+<p><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#1f497d"">Senior Vice President - Financial Advisor</span></span></span></p>
+
+<p><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#1f497d"">Portfolio Manager - Portfolio FOCUS </span></span></span></p>
+
+<p><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#1f4e79"">NMLS number <i>1541149<b> </b></i>through City National Bank</span></span></span></p>
+
+<p><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#1f497d"">Direct:&nbsp; (585) 423-2155 | Toll Free: (800) 200- 5311</span></span></span></p>
+
+<p>&nbsp;</p>
+
+<p><b><span style=""font-size:10.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#002060"">Ellen Francati</span></span></span></b></p>
+
+<p><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#1f497d"">Investment Associate | (585) 423-2182</span></span></span></p>
+
+<p>&nbsp;</p>
+
+<p><b><span style=""font-size:10.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#002060"">Kyle Lilly</span></span></span></b></p>
+
+<p><span style=""font-size:10.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#002060"">Client Associate | (585) 423-2180</span></span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#1f497d"">RBC Wealth Management, LLC</span></span></span></p>
+
+<p><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#1f497d"">80 Linden Oaks Suite 220</span></span></span></p>
+
+<p><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#1f497d"">Rochester, NY 14625</span></span></span></p>
+
+<p><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#1f497d"">Toll Free: (800) 200-5311</span></span></span></p>
+
+<p><span style=""font-size:9.0pt""><span style=""font-family:&quot;Arial&quot;,sans-serif""><span style=""color:#1f497d"">Fax: (585) 423-2121</span></span></span></p>","Submit"
+".com",".com","George Castrillon","George Castrillon, CEPA®, CFP®, CPFA","RSVP Today","Please complete form below to RSVP","{""fields"":[{""label"":""First Name:"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c1""},{""label"":""Last Name: "",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c5""},{""label"":""Profession:"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""small""},""cid"":""c9""},{""label"":""E-mail:"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c17""},{""label"":""Phone Number:"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c13""}]}","","","george.castrillon@rbc.com","George Castrillion","Thank you for RSVPing!","<p>Thank you for RSVPing for our Hosted Happy Hour Networking Event on Tuesday, 12/10/19 from 5:00 &ndash; 6:30pm at the Tin Roof Bistro (3500 N. Sepulveda, Manhattan Beach, CA 90266). If you have any questions or updates please email&nbsp;george.castrillon@rbc.com&nbsp;or call&nbsp;#310-647-8053.</p>",""
+".com",".com","Brandon Fancher","Brandon Fancher","RSVP for The Impact Collective","To attend this private event, please complete this form.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c25""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c29""},{""label"":""Cell"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c14""},{""label"":""How did you hear about this event?"",""field_type"":""dropdown"",""required"":true,""field_options"":{""options"":[{""label"":""From a friend"",""checked"":false},{""label"":""Social media"",""checked"":false},{""label"":""In the news"",""checked"":false}],""include_blank_option"":false},""cid"":""c22""}]}","<p>Thank you for your submission. We look forward to connecting with you shortly.</p>","","brandon.fancher@rbc.com","Brandon Fancher","RE: Looking forward to it....","<p>{{Name}}</p>
+
+<p>&nbsp;</p>
+
+<p>We&#39;ve got your reservation all set! If something comes up and you can&#39;t attend, not a problem at all!&nbsp;All we ask is that you reply to this email 48 hours prior to the date&nbsp;- we often don&#39;t have enough seats to go around, so we want to make sure we can accommodate all requests.</p>
+
+<p>&nbsp;</p>
+
+<p>If you could, please take a moment to head over to a one of the below social channel to give us a follow. Enter the&nbsp;comment &quot;see you soon&quot; on one of our posts so we can make sure and follow you back.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>www.facebook.com/bfancherRBC</p>
+
+<p>www.twitter.com/bfancherRBC</p>
+
+<p>www.linkedin.com/in/bfancherRBC</p>
+
+<p>&nbsp;</p>
+
+<p>Here&#39;s the info we have as registered, if it is incorrect please reply back to this email.</p>
+
+<p>{{Name}}</p>
+
+<p>{{Email}}</p>
+
+<p>{{Cell}}</p>
+
+<p>&nbsp;</p>
+
+<p>Thanks in advance!&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><span style=""line-height:19.65pt""><a name=""_MailAutoSig""><b><span style=""font-family:&quot;Fira Sans&quot;""><span style=""color:#002d72"">Brandon Fancher </span></span></b></a><span style=""font-family:&quot;Fira Sans&quot;""><span style=""color:#002d72"">| First Vice President - Financial Advisor, Portfolio Manager &ndash; Portfolio Focus | </span></span></span></p>
+
+<p style=""margin-left:.5in""><span style=""line-height:19.65pt""><b><span style=""font-family:&quot;Fira Sans&quot;""><span style=""color:#002d72"">RBC Wealth Management, a division of</span></span></b><span style=""font-family:&quot;Fira Sans&quot;""><span style=""color:#002d72""> <b>RBC Capital Markets, LLC</b> | 4001 West 114<sup>th</sup>, Suite 200 Leawood, KS 66211 | Cell 913-225-4341| Office 913-451-3553 | Fax 913-451-3595 |&nbsp; </span></span><a href=""https://us.rbcwm.com/B.Fancher""><span style=""font-size:10.0pt""><span style=""font-family:&quot;Times New Roman&quot;,serif""><span style=""color:#0563c1"">https://us.rbcwm.com/</span></span></span><span style=""font-size:10.5pt""><span style=""background:#e3f6fc""><span style=""font-family:&quot;Times New Roman&quot;,serif""><span style=""color:#0563c1"">B.Fancher</span></span></span></span></a></span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>","Attend"
+".com",".com","John Randolph","Randolph Wealth Management Group","Contact","Please complete the following form to request more information. *indicates a required field","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large""},""cid"":""c1""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c31""},{""label"":""Phone"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c41""},{""label"":""Best Time to Call"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c52""},{""label"":""Comments"",""field_type"":""paragraph"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c58""}]}","","us.rbcwealthmanagement.com/rwmg/home","","","","",""
+".com",".com","Mark V. Dyer","Mark V. Dyer","Contact Brian","Please email me at brian.kroneberger@rbc.com or fill out the form below.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c9""},{""label"":""Email Address"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c1""},{""label"":""Comments"",""field_type"":""paragraph"",""required"":true,""field_options"":{""size"":""medium""},""cid"":""c13""}]}","<p>Thank you! We will respond to your message shortly.</p>","","","","","",""
+".com",".com","Brian Kroneberger Jr","The Kroneberger Group","Contact Brian","Please email me at brian.kroneberger@rbc.com or fill out the form below.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c9""},{""label"":""Email Address"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c1""},{""label"":""Comments"",""field_type"":""paragraph"",""required"":true,""field_options"":{""size"":""medium""},""cid"":""c13""}]}","<p>Thank you! We will respond to your message shortly.</p>","","","","","",""
+".com",".com","Brian Kroneberger Jr","The Kroneberger Group","Contact Brian","Please email me at brian.kroneberger@rbc.com or fill out the form below.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large""},""cid"":""c110""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c114""},{""label"":""Comments"",""field_type"":""paragraph"",""required"":true,""field_options"":{""size"":""large""},""cid"":""c119""}]}","<p>Thank you! We will respond to your message shortly.</p>","","","","","",""
+".com",".com","Field Digital","Your FA website program","Yes, redesign my website into Theme 1!","Please fill out and submit the form below to select Theme 1 for your newly redesigned FA or team website.","{""fields"":[{""label"":""Advisor or team name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c9""},{""label"":""Name of person submitting request"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c13""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c1""},{""label"":""Current Website URL"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c15""},{""label"":""Are you having new photos taken?"",""field_type"":""checkboxes"",""required"":true,""field_options"":{""options"":[{""label"":""Yes, I am having photos taken for the website BEFORE MY SITE GOES LIVE and will send them to onlinesolutions@rbc.com. "",""checked"":false},{""label"":""No, I am not providing new photos right now. Please use my existing or preapproved images."",""checked"":false}],""description"":""""},""cid"":""c13""}]}","<p><strong>Thank you for selecting <a href=""./theme-1"" target=""_blank"">Theme 1</a> for your newly redesigned FA or team website. </strong><br />
+<br />
+When your website is ready for your review, you will receive an email from <a href=""mailto:fielddigital@rbc.com"">fielddigital@rbc.com</a>. In the meantime, please don&#39;t hesitate to contact us with any questions.&nbsp;</p>","","","","","","Submit"
+".com",".com","Field Digital","Your FA website program","Yes, redesign my website into Theme 2!","Please fill out and submit the form below to select Theme 2 for your newly redesigned FA or team website.","{""fields"":[{""label"":""Advisor or team name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c9""},{""label"":""Name of person submitting request"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c13""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c1""},{""label"":""Current Website URL"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c15""},{""label"":""Are you having new photos taken?"",""field_type"":""checkboxes"",""required"":true,""field_options"":{""options"":[{""label"":""Yes, I am having photos taken for the website BEFORE MY SITE GOES LIVE and will send them to onlinesolutions@rbc.com."",""checked"":false},{""label"":""No, I am not providing new photos right now. Please use my existing or preapproved images."",""checked"":false}],""description"":""""},""cid"":""c13""}]}","<p><strong>Thank you for selecting <a href=""./theme-2"" target=""_blank"">Theme 2</a> for your newly redesigned FA or team website. </strong><br />
+<br />
+When your website is ready for your review, you will receive an email from <a href=""mailto:fielddigital@rbc.com"">fielddigital@rbc.com</a>. In the meantime, please don&#39;t hesitate to contact us with any questions.&nbsp;</p>","","","","","","Submit"
+".com",".com","Field Digital","Your FA website program","Yes, redesign my website into Theme 3!","Please fill out and submit the form below to select Theme 3 for your newly redesigned FA or team website.","{""fields"":[{""label"":""Advisor or team name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c9""},{""label"":""Name of person submitting request"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c13""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c1""},{""label"":""Current Website URL"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c15""},{""label"":""Are you having new photos taken?"",""field_type"":""checkboxes"",""required"":true,""field_options"":{""options"":[{""label"":""Yes, I am having photos taken for the website BEFORE MY SITE GOES LIVE and will send them to onlinesolutions@rbc.com. "",""checked"":false},{""label"":""No, I am not providing new photos right now. Please use my existing or preapproved images."",""checked"":false}],""description"":""""},""cid"":""c13""}]}","<p><strong>Thank you for selecting <a href=""./theme-3"" target=""_blank"">Theme 3</a> for your newly redesigned FA or team website. </strong><br />
+<br />
+When your website is ready for your review, you will receive an email from <a href=""mailto:fielddigital@rbc.com"">fielddigital@rbc.com</a>. In the meantime, please don&#39;t hesitate to contact us with any questions.&nbsp;</p>","","","","","","Submit"
+".com",".com","Field Digital","Your FA website program","Digital enrollment form","Please fill out the categories below to enroll in the FA websites, LinkedIn for Business,  Facebook for Business and/or Twitter for Business programs.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""description"":""""},""cid"":""c13""},{""label"":""Title"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c17""},{""label"":""Branch"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c22""},{""label"":""Email address"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c9""},{""label"":""Login ID"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c54""},{""label"":""8-digit employee ID"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""maxlength"":""8""},""cid"":""c58""},{""label"":""Team name (if applicable):"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""description"":""""},""cid"":""c30""},{""label"":""Enter your team email address (if applicable):"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c34""},{""label"":""Check all categories that apply to you:"",""field_type"":""checkboxes"",""required"":true,""field_options"":{""options"":[{""label"":""Branch Director"",""checked"":false},{""label"":""Chairman's Council"",""checked"":false},{""label"":""Chairman's team member"",""checked"":false},{""label"":""President's Council"",""checked"":false},{""label"":""Senior Financial Associate"",""checked"":false}]},""cid"":""c46""},{""label"":""I want to sign up for:"",""field_type"":""checkboxes"",""required"":true,""field_options"":{""options"":[{""label"":""An individual advisor website"",""checked"":false},{""label"":""A team website"",""checked"":false},{""label"":""LinkedIn for Business"",""checked"":false},{""label"":""Facebook for Business - Team page"",""checked"":false},{""label"":""Facebook for Business - Individual page"",""checked"":false}]},""cid"":""c5""},{""label"":""Name of the ADVISOR that will be the primary workspace user (applicable to Facebook only):"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c102""},{""label"":""FA website link (complete only if you already have a website)"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c62""},{""label"":""Do you currently have a LinkedIn profile?"",""field_type"":""radio"",""required"":true,""field_options"":{""options"":[{""label"":""Yes"",""checked"":false},{""label"":""No"",""checked"":false}]},""cid"":""c66""},{""label"":""Are you currently subscribed to a paid LinkedIn premium account?"",""field_type"":""radio"",""required"":true,""field_options"":{""options"":[{""label"":""Yes - Blah blah blah"",""checked"":false},{""label"":""Yes - Woot woot"",""checked"":false},{""label"":""No"",""checked"":false}],""description"":""If you sign up for one in the future, you are required to notify BSG.""},""cid"":""c82""},{""label"":""Do you currently have a personal Facebook account?"",""field_type"":""radio"",""required"":true,""field_options"":{""options"":[{""label"":""Yes"",""checked"":false},{""label"":""No"",""checked"":false}]},""cid"":""c74""},{""label"":""If you answered YES to the question above, please provide the email address you use for your personal Facebook account."",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c93""},{""label"":""Enter your name to attest that you have reviewed and agree to the FA Website, LinkedIn for Business, and/or Facebook for Business policies, available on InfoNET. "",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c38""},{""label"":""I understand and agree to pay a monthly fee of $25 for an advisor website and/or a social media fee of $35, respective to the programs i have elected on this form. "",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""description"":""Please note, the fee for social media is a max of $35; discounts may be available based on council level.""},""cid"":""c42""},{""label"":""Rep ID for billing"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""description"":""Only ONE rep ID can be charged for website/social media fees. A split rep ID is acceptable. If your branch or complex is paying for your website, please have the BD or CD email Online Solutions with your name and their explicit agreement to pay for your web or social fees."",""maxlength"":""3""},""cid"":""c26""},{""label"":""SFAs & SBAs Only - Provide the name of the FA responsible for your Hearsay Social fee"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c50""}]}","<p>Thank you for enrolling in the website, Linkedin, Facebook and/or Twitter for Business programs at RBC Wealth Management. Please look for an email from us in 2-3 business days.</p>","","onlinesolutions@rbc.com","Online Solutions","Next steps in your digital marketing.","<p>Dear&nbsp;Name,</p>
+
+<p>&nbsp;</p>
+
+<p>Thank you for signing up for&nbsp;I want to sign up for:. We will be in contact in the next few days. In the meantime, do this and this and this.</p>",""
+".com",".com","John H Garlock","The Garlock Wealth Planning Group","Sign up for our newsletter!","Newsletter","{""fields"":[{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{""description"":""""},""cid"":""c24""},{""label"":""Name"",""field_type"":""email"",""required"":true,""field_options"":{""description"":""""},""cid"":""c28""}]}","","","janelle.ford@rbc.com","Janelle Ford","Thank you for subscribing!","",""
+".com",".com","Field Digital","Testy McTestalot","Voting","Please choose one charity below for us to send a donation.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""medium""},""cid"":""c2""},{""label"":""Phone Number"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""medium""},""cid"":""c14""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c6""},{""label"":""Choose a charity"",""field_type"":""checkboxes"",""required"":false,""field_options"":{""options"":[{""label"":""Boys and Girls Club"",""checked"":false},{""label"":""Homeless Veterans of America"",""checked"":false},{""label"":""Neighborhood Animal Shelter"",""checked"":false}],""description"":""Please select one charity above for us to sponsor this holiday season or nominate a charity below.""},""cid"":""c10""},{""label"":""Nominate a charity"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c20""}]}","","","tina.strelau@rbc.com","Tina Strelau","Thank you! Your vote has been submitted.","<p>Thank you for participating. Voting will be open until October and we will communicate which charities we will be supporting.</p>",""
+".com",".com","Linda Sama","Linda Sama, CFP®","Insights articles request","Please fill out the form below to receive a direct link to my Insight blog page and timely RBC articles.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c2""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c6""}]}","<p>Thank you for your submission. I look forward to connecting with you shortly.</p>","","linda.sama@rbc.com","Linda Sama","","",""
+".com",".com","Blaine Christensen","Central Wyoming Wealth Management Group","Let's start planning","Whether you're a current client who would like to review your portfolio, or a potential client that would like to learn more about our approach, we would love to hear from you.  To set up a consultation, please complete the form below.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c1""},{""label"":""E-mail"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c5""},{""label"":""Specific planning or financial topics"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large"",""description"":"""",""maxlength"":""500""},""cid"":""c9""}]}","<p>Thank you!</p>","","cwwmg@rbc.com","Central Wyoming Wealth Management Group","Thanks for reaching out!","<p>Hi&nbsp;{{Name}},</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp; Thank you so much for reaching out.&nbsp; We look forward to speaking with you soon.</p>
+
+<p>&nbsp;</p>
+
+<p>Thank you,&nbsp;<a name=""_MailAutoSig""></a></p>
+
+<p><a name=""_MailAutoSig""><span style=""font-size:10.0pt""><span arial="""" style=""font-family:""><span style=""color:black"">Central Wyoming Wealth Management Group</span></span></span></a></p>
+
+<p><a name=""_MailAutoSig""><br />
+<span style=""font-size:10.0pt""><span arial="""" style=""font-family:""><span style=""color:black"">RBC Wealth Management<br />
+200 S Center St.<br />
+Casper, WY 82601<br />
+P: (307) 237-1400 | F: (307) 235-2151<br />
+Toll Free: (800) 234-3246</span></span></span></a><br />
+<i><span corbel="""" style=""font-family:""><span style=""color:navy"">&rdquo;Bull markets are born on pessimism, grow on skepticism, mature on optimism, and die on euphoria.&rdquo;</span></span></i><br />
+<span corbel="""" style=""font-family:""><b><i><span style=""color:navy"">-Sir John Templeton</span></i></b></span></p>
+
+<p><i><span corbel="""" style=""font-family:""><span style=""color:#6e500a"">&ldquo;Be fearful when others are greedy. Be greedy when others are fearful.&rdquo;<br />
+<b>-Warren Buffett</b></span></span></i></p>",""
+".com",".com","Brendan Fitzsimmons","The Fitzsimmons Group","Let's take the next step together","We help you simplify your financial life so you can focus on what matters most. Please contact us at (240) 313-4309 or fill out the form below to schedule a meeting. We look forward to hearing from you.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c25""},{""label"":""Address"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c26""},{""label"":""City, State, Zip"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c30""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c29""},{""label"":""Phone"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c34""},{""label"":""Best Time to Call"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c38""},{""label"":""Comments"",""field_type"":""paragraph"",""required"":false,""field_options"":{""size"":""small""},""cid"":""c33""}]}","<p>Thank you for your submission. We look forward to connecting with you shortly.</p>","","gretchen.gawler@rbc.com","The Fitzsimmons Group","Thank You","<p>We look forward to connecting with you shortly.&nbsp;</p>
+
+<p>&nbsp;</p>",""
+".com",".com","Linda Sama","Linda Sama, CFP®","Let's start the conversation","Thank you for requesting my latest blog post on Investing with a Plan for Success.  The article will arrive in your inbox shortly.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c25""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c29""},{""label"":""Comments"",""field_type"":""paragraph"",""required"":false,""field_options"":{""size"":""small""},""cid"":""c33""}]}","<p>Thank you for requesting my latest blog post on Investing with a Plan for Success. &nbsp;The article will arrive in your inbox shortly.</p>","","linda.sama@rbc.com","Linda Sama","Thanks for your interest in my latest blog post.","<p>So glad you found my article interesting.&nbsp; I write new ones approximately every month on current financial topics to improve your results.</p>
+
+<p>&nbsp;</p>
+
+<p>If there is a specific topic you would like to learn more about, please send me your feedback.</p>
+
+<p>&nbsp;</p>
+
+<p>Linda Sama, CFP&reg;</p>
+
+<p>&nbsp;</p>
+
+<p>Financial Advisor <strong><em>|</em> </strong>Senior Vice President &ndash; Consulting Group<em><strong> |&nbsp;</strong></em>NMLS #1845838 through City National Bank</p>
+
+<p>RBC Wealth Management a division of RBC Capital Markets, LLC</p>
+
+<p>One Jericho Plaza<strong> <em>| </em></strong>Suite 202<strong> <em>|</em> </strong>Jericho, NY&nbsp; 11753</p>
+
+<p>Phone:&nbsp;516.733.2037&nbsp;<em><strong>|</strong></em>&nbsp;fax:&nbsp;516.733.2095&nbsp;<em><strong>|&nbsp;</strong></em>mobile: 631.680.3962 <em><strong>|&nbsp;</strong></em>www.lindasama.com</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><span style=""font-size:9px;"">RBC Wealth Management was ranked &ldquo;Highest in Investor Satisfaction with Full-Service Brokerage Firms&rdquo; in the J.D. Power 2020 Full-Service Investor Satisfaction Study. We believe this achievement reflects our firm&rsquo;s strong commitment to putting client interests first and carefully managing the wealth that clients entrust to our care. For more information, view the&nbsp;J.D. Power press release.</span></p>
+
+<p><span style=""font-size:9px;"">RBC Wealth Management does not accept buy, sell, or cancel orders by email, or any instructions by email that would require your signature. Please visit&nbsp;RBC Wealth Management Email Disclosures&nbsp;for material details about our products and accounts, as well as for other important information.</span></p>
+
+<p><span style=""font-size:9px;"">Investment and insurance products offered through RBC Wealth Management are not insured by the FDIC or any other federal government agency, are not deposits or other obligations of, or guaranteed by, a bank or any bank affiliate, and are subject to investment risks, including possible loss of the principal amount invested.</span></p>
+
+<p><span style=""font-size:9px;"">Disclosure information regarding potential conflicts of interest on the part of RBC Capital Markets, LLC in connection with companies that are the subject of any third-party research report included in this email message may be found at&nbsp;Third-Party Research Disclosures.</span></p>
+
+<p><span style=""font-size:9px;"">RBC Wealth Management, a division of RBC Capital Markets, LLC, Member NYSE/FINRA/SIPC.</span></p>",""
+".com",".com","Linda Sama","Linda Sama, CFP®","Let's start the conversation","""With so many uncertainties facing us, we naturally fear the worst financial outcomes. How do you gain the confidence to move forward?  The secret is…""
+
+
+If you want to continue reading my latest blog post on Investing with a Plan for Success, please fill in the 2 fields below.  The article will arrive in your inbox shortly.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c25""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c29""},{""label"":""Comments"",""field_type"":""paragraph"",""required"":false,""field_options"":{""size"":""small""},""cid"":""c33""}]}","<p><em>&quot;With so many uncertainties facing us, we naturally fear the worst financial outcomes. How do you gain the confidence to move forward?&nbsp; The secret is&hellip;&quot;</em></p>
+
+<p><br />
+If you want to continue reading my latest blog post on Investing with a Plan for Success, please fill in the 2 fields below.&nbsp; The article will arrive in your inbox shortly.The article will arrive in your inbox shortly.</p>","","linda.sama@rbc.com","Linda Sama","Thanks for your interest in my latest blog post.","<p>Hi ,</p>
+
+<p>&nbsp;</p>
+
+<p>So glad you&nbsp;want to learn more. &nbsp;I write new&nbsp;blogs approximately every month on current financial topics to improve your results.&nbsp; <a href=""https://us.rbcwealthmanagement.com/linda.sama/blog/912841-Invest-with-a-plan-for-success"">You&#39;ll find the article here</a></p>
+
+<p>&nbsp;</p>
+
+<p>If there is a specific topic you would like to learn more about, please send me your feedback.</p>
+
+<p>&nbsp;</p>
+
+<p>Linda Sama, CFP&reg;</p>
+
+<p>&nbsp;</p>
+
+<p>Financial Advisor <strong><em>|</em> </strong>Senior Vice President &ndash; Consulting Group<em><strong> |&nbsp;</strong></em>NMLS #1845838 through City National Bank</p>
+
+<p>RBC Wealth Management a division of RBC Capital Markets, LLC</p>
+
+<p>One Jericho Plaza<strong> <em>| </em></strong>Suite 202<strong> <em>|</em> </strong>Jericho, NY&nbsp; 11753</p>
+
+<p>Phone:&nbsp;516.733.2037&nbsp;<em><strong>|</strong></em>&nbsp;fax:&nbsp;516.733.2095&nbsp;<em><strong>|&nbsp;</strong></em>mobile: 631.680.3962 <em><strong>|&nbsp;</strong></em>www.lindasama.com</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><span style=""font-size: 9px;"">RBC Wealth Management was ranked &ldquo;Highest in Investor Satisfaction with Full-Service Brokerage Firms&rdquo; in the J.D. Power 2020 Full-Service Investor Satisfaction Study. We believe this achievement reflects our firm&rsquo;s strong commitment to putting client interests first and carefully managing the wealth that clients entrust to our care. For more information, view the&nbsp;J.D. Power press release.</span></p>
+
+<p><span style=""font-size: 9px;"">RBC Wealth Management does not accept buy, sell, or cancel orders by email, or any instructions by email that would require your signature. Please visit&nbsp;RBC Wealth Management Email Disclosures&nbsp;for material details about our products and accounts, as well as for other important information.</span></p>
+
+<p><span style=""font-size: 9px;"">Investment and insurance products offered through RBC Wealth Management are not insured by the FDIC or any other federal government agency, are not deposits or other obligations of, or guaranteed by, a bank or any bank affiliate, and are subject to investment risks, including possible loss of the principal amount invested.</span></p>
+
+<p><span style=""font-size: 9px;"">Disclosure information regarding potential conflicts of interest on the part of RBC Capital Markets, LLC in connection with companies that are the subject of any third-party research report included in this email message may be found at&nbsp;Third-Party Research Disclosures.</span></p>
+
+<p><span style=""font-size: 9px;"">RBC Wealth Management, a division of RBC Capital Markets, LLC, Member NYSE/FINRA/SIPC.</span></p>",""
+".com",".com","Linda Sama","Linda Sama, CFP®","Register here","Register to subscribe to my latest blog posts.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c25""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c29""},{""label"":""Comments"",""field_type"":""paragraph"",""required"":false,""field_options"":{""size"":""small""},""cid"":""c33""}]}","<p><span style=""font-size: 20px;""><strong>Register here </strong>to subscribe to my latest blog posts.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=""font-size: 14px;"">Please be sure to include any comments or suggestions of requested topics of interest to you.</span><br />
+&nbsp;</p>","","linda.sama@rbc.com","Linda Sama","Thanks for your interest in reading my blogs.","<p>Hi&nbsp;{{Name}},</p>
+
+<p>&nbsp;</p>
+
+<p>So glad you&nbsp;want to receive my insights. &nbsp;I write new&nbsp;blogs approximately every month on current financial topics to improve your results.&nbsp; I will be sure that you receive them in your inbox as soon as they are available.</p>
+
+<p>&nbsp;</p>
+
+<p>If there is a specific topic you would like to learn more about, please send me your feedback.</p>
+
+<p>&nbsp;</p>
+
+<p>Thank you!</p>
+
+<p>Linda Sama, CFP&reg;</p>
+
+<p>&nbsp;</p>
+
+<p>Financial Advisor <strong><em>|</em> </strong>Senior Vice President &ndash; Consulting Group<em><strong> |&nbsp;</strong></em>NMLS #1845838 through City National Bank</p>
+
+<p>RBC Wealth Management a division of RBC Capital Markets, LLC</p>
+
+<p>One Jericho Plaza<strong> <em>| </em></strong>Suite 202<strong> <em>|</em> </strong>Jericho, NY&nbsp; 11753</p>
+
+<p>Phone:&nbsp;516.733.2037&nbsp;<em><strong>|</strong></em>&nbsp;fax:&nbsp;516.733.2095&nbsp;<em><strong>|&nbsp;</strong></em>mobile: 631.680.3962 <em><strong>|&nbsp;</strong></em>www.lindasama.com</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><span style=""font-size: 9px;"">RBC Wealth Management was ranked &ldquo;Highest in Investor Satisfaction with Full-Service Brokerage Firms&rdquo; in the J.D. Power 2020 Full-Service Investor Satisfaction Study. We believe this achievement reflects our firm&rsquo;s strong commitment to putting client interests first and carefully managing the wealth that clients entrust to our care. For more information, view the&nbsp;J.D. Power press release.</span></p>
+
+<p><span style=""font-size: 9px;"">RBC Wealth Management does not accept buy, sell, or cancel orders by email, or any instructions by email that would require your signature. Please visit&nbsp;RBC Wealth Management Email Disclosures&nbsp;for material details about our products and accounts, as well as for other important information.</span></p>
+
+<p><span style=""font-size: 9px;"">Investment and insurance products offered through RBC Wealth Management are not insured by the FDIC or any other federal government agency, are not deposits or other obligations of, or guaranteed by, a bank or any bank affiliate, and are subject to investment risks, including possible loss of the principal amount invested.</span></p>
+
+<p><span style=""font-size: 9px;"">Disclosure information regarding potential conflicts of interest on the part of RBC Capital Markets, LLC in connection with companies that are the subject of any third-party research report included in this email message may be found at&nbsp;Third-Party Research Disclosures.</span></p>
+
+<p><span style=""font-size: 9px;"">RBC Wealth Management, a division of RBC Capital Markets, LLC, Member NYSE/FINRA/SIPC.</span></p>",""
+".com",".com","Linda Sama","Linda Sama, CFP®","Register here Clone","Register to subscribe to my latest blog posts.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c25""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c29""},{""label"":""Comments"",""field_type"":""paragraph"",""required"":false,""field_options"":{""size"":""small""},""cid"":""c33""}]}","<p><span style=""font-size: 20px;""><strong>Register here </strong>to subscribe to my latest blog posts.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style=""font-size: 14px;"">Please be sure to include any comments or suggestions of requested topics of interest to you.</span><br />
+&nbsp;</p>","","linda.sama@rbc.com","Linda Sama","Thanks for your interest in reading my blogs.","<p>Hi&nbsp;{{Name}},</p>
+
+<p>&nbsp;</p>
+
+<p>So glad you&nbsp;want to receive my insights. &nbsp;I write new&nbsp;blogs approximately every month on current financial topics to improve your results.&nbsp; I will be sure that you receive them in your inbox as soon as they are available.</p>
+
+<p>&nbsp;</p>
+
+<p>If there is a specific topic you would like to learn more about, please send me your feedback.</p>
+
+<p>&nbsp;</p>
+
+<p>Thank you!</p>
+
+<p>Linda Sama, CFP&reg;</p>
+
+<p>&nbsp;</p>
+
+<p>Financial Advisor <strong><em>|</em> </strong>Senior Vice President &ndash; Consulting Group<em><strong> |&nbsp;</strong></em>NMLS #1845838 through City National Bank</p>
+
+<p>RBC Wealth Management a division of RBC Capital Markets, LLC</p>
+
+<p>One Jericho Plaza<strong> <em>| </em></strong>Suite 202<strong> <em>|</em> </strong>Jericho, NY&nbsp; 11753</p>
+
+<p>Phone:&nbsp;516.733.2037&nbsp;<em><strong>|</strong></em>&nbsp;fax:&nbsp;516.733.2095&nbsp;<em><strong>|&nbsp;</strong></em>mobile: 631.680.3962 <em><strong>|&nbsp;</strong></em>www.lindasama.com</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><span style=""font-size: 9px;"">RBC Wealth Management was ranked &ldquo;Highest in Investor Satisfaction with Full-Service Brokerage Firms&rdquo; in the J.D. Power 2020 Full-Service Investor Satisfaction Study. We believe this achievement reflects our firm&rsquo;s strong commitment to putting client interests first and carefully managing the wealth that clients entrust to our care. For more information, view the&nbsp;J.D. Power press release.</span></p>
+
+<p><span style=""font-size: 9px;"">RBC Wealth Management does not accept buy, sell, or cancel orders by email, or any instructions by email that would require your signature. Please visit&nbsp;RBC Wealth Management Email Disclosures&nbsp;for material details about our products and accounts, as well as for other important information.</span></p>
+
+<p><span style=""font-size: 9px;"">Investment and insurance products offered through RBC Wealth Management are not insured by the FDIC or any other federal government agency, are not deposits or other obligations of, or guaranteed by, a bank or any bank affiliate, and are subject to investment risks, including possible loss of the principal amount invested.</span></p>
+
+<p><span style=""font-size: 9px;"">Disclosure information regarding potential conflicts of interest on the part of RBC Capital Markets, LLC in connection with companies that are the subject of any third-party research report included in this email message may be found at&nbsp;Third-Party Research Disclosures.</span></p>
+
+<p><span style=""font-size: 9px;"">RBC Wealth Management, a division of RBC Capital Markets, LLC, Member NYSE/FINRA/SIPC.</span></p>",""
+".com",".com","George Castrillon","George Castrillon, CEPA®, CFP®, CPFA","Contact Information","Please provide contact information below. Someone on our team will be in contact with you shortly.","{""fields"":[{""label"":""First and Last Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c2""},{""label"":""Phone Number"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c6""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c10""},{""label"":""Comments/Questions"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c14""}]}","<p>Please provide contact information below. Someone on our team will be in contact with you shortly.&nbsp;</p>","","george.castrillon@rbc.com","George Castrillon","APM ESOP - 1042 Election","<p>Greetings&nbsp;{{First and Last Name}},&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Thank you for providing us your contact information. Someone on our team will be in touch with you shortly to discuss your options related to sale of your privately held stock and the tax benefits available to you through 1042. Should you need immediate assistance, feel free to contact our team at the number below.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Regards,&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><b><span style=""font-size:12.0pt""><span arial="""" style=""font-family:""><span style=""color:#0051a5"">George B. Castrillon, CFP&reg;, CEPA&reg;, CPFA</span></span></span></b></p>
+
+<p><span arial="""" style=""font-family:""><span style=""color:#0051a5"">Vice President &ndash; Financial Advisor</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><b><span arial="""" style=""font-family:""><span style=""color:#0051a5"">RBC Wealth Management</span></span></b></p>
+
+<p><span arial="""" style=""font-family:""><span style=""color:#0051a5"">2631 Rosecrans Ave</span></span></p>
+
+<p><span arial="""" style=""font-family:""><span style=""color:#0051a5"">Suite 460</span></span></p>
+
+<p><span arial="""" style=""font-family:""><span style=""color:#0051a5"">El Segundo, CA 90245-7910</span></span></p>
+
+<p><span arial="""" style=""font-family:""><span style=""color:#0051a5"">T 310.647.8053 F 310.647.8099</span></span></p>","Submit"
+".com",".com","Kerry Withrow","Business Exit Planning Advisors","Contact information","Please provide contact information below. Someone on our team will be in contact with you shortly.","{""fields"":[{""label"":""First and last name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""description"":""""},""cid"":""c2""},{""label"":""Phone number"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""description"":""""},""cid"":""c11""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{""description"":""""},""cid"":""c15""},{""label"":""Comments / questions"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""description"":""""},""cid"":""c19""}]}","<p>Thank you for submitting your information. Someone on our team will be in contact with you shortly.</p>","","kerry.withrow@rbc.com","Kerry Withrow","APM ESOP - 1042 Shareholder Election","<p>{{First and last name}},</p>
+
+<p>&nbsp;</p>
+
+<p>Thank you for providing your contact information. Someone on our team will be in touch with you shortly to discuss your options related to the sale of your privately held stock, and the tax considerations available to you through 1042. Should you need immediate assistance, feel free to contact our team at the number below.</p>
+
+<p>&nbsp;</p>
+
+<p>Regards,</p>
+
+<p>Kerry Withrow, CEPA, AWM| Senior Vice President | Senior Consulting Group Director</p>
+
+<p>Portfolio Manager &ndash; Portfolio Focus- NMLS # 1782335 through City National Bank</p>
+
+<p>RBC Wealth Management, a division of RBC Capital Markets, LLC</p>
+
+<p>10801 W Charleston Blvd Suite #650 Las Vegas, NV 89135</p>
+
+<p>P 702-893-8749 | T 888-881-1020</p>
+
+<p>C 702-204-4275 | F 702-893-8790</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>","Submit"
+".com",".com","Paul Keats Jr.","The Keats Group","Contact","Please complete the following form to request more information. *indicates a required field","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large""},""cid"":""c1""},{""label"":""Address"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c5""},{""label"":""City, State, Zip"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c13""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c31""},{""label"":""Phone"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c41""},{""label"":""Best Time to Call"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c52""},{""label"":""Comments"",""field_type"":""paragraph"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c58""}]}","","","John.Keats@rbc.com","John Keats","We'll be in Touch Shortly","<p>Your message is being reviewed, and we will be in touch with a response shortly.&nbsp;</p>",""
+".com",".com","Kerry Withrow","Business Exit Planning Advisors","Contact","Please complete the following form to request more information. *indicates a required field","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c1""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{""description"":""""},""cid"":""c31""},{""label"":""Phone"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c41""},{""label"":""Service of Interest"",""field_type"":""dropdown"",""required"":true,""field_options"":{""options"":[{""label"":""Employee Stock Ownership Plan"",""checked"":false},{""label"":""Management Buyout"",""checked"":false},{""label"":""Intergenerational Family Transfer"",""checked"":false},{""label"":"" Private Equity "",""checked"":false},{""label"":""Strategic M&A Transaction"",""checked"":false},{""label"":""Initial Public Offerring "",""checked"":false}],""include_blank_option"":false,""description"":""We specialize in various ways for you to sell, liquidate, and transition  your privately held business. \n\n ""},""cid"":""c50""}]}","<p>Thank you for submission. Someone from our team will be in contact with you shortly.</p>","us.rbcwealthmanagement.com/hwgroup/business_owner","","","","","Submit"
+".com",".com","Patricia Thorpe","Krause & Thorpe Wealth Management Team","Contact Us Clone","Please complete the following information for us to better serve you.
+*indicates a required field","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c1""},{""label"":""Address"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c5""},{""label"":""City, State, Zip"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c13""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{""description"":""""},""cid"":""c31""},{""label"":""Phone"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c41""},{""label"":""Best Time to Call"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c52""}]}","<p>Thank you for your inquiry. We look forward to connecting with you shortly.</p>","","heather.krause@rbc.com","Heather Krause","Thank you for your inquiry.","<p>We look forward to&nbsp;speaking with you soon.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Sincerely,</p>
+
+<p>&nbsp;</p>
+
+<p>Heather &amp; Pat</p>",""
+".com",".com","Rick S Hegge","The Hegge Rykken Team","Contact","Please complete the following form to request more information. *indicates a required field","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large""},""cid"":""c1""},{""label"":""Address"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c5""},{""label"":""City, State, Zip"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c13""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c31""},{""label"":""Phone"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c41""},{""label"":""Best Time to Call"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c52""},{""label"":""Comments"",""field_type"":""paragraph"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c58""}]}","","","alex.rykken@rbc.com","Alex Rykken","Thanks for your message!","<p>Hello -&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>We have received your submission through the website - a member of the team will respond to you as quickly as possible, typically within one business day.&nbsp; For urgent questions, please call my&nbsp;cell at 651-283-0321.&nbsp; Thank you!</p>
+
+<p>&nbsp;</p>
+
+<p>Alex</p>",""
+".com",".com","Field Digital","Julia Andersen","Contact","Please complete the following form to request more information. *indicates a required field","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large""},""cid"":""c1""},{""label"":""Address"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c5""},{""label"":""City, State, Zip"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c13""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c31""},{""label"":""Phone"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c41""},{""label"":""Comments"",""field_type"":""paragraph"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c58""}]}","<p>Thank you for reaching out!</p>","","samantha.mitchell@rbc.com","DMARC test","Thanks for your submission","<p>Thank you!</p>",""
+".com",".com","Lee Edgcomb","Edgcomb Financial Advisors","Our antidote to the 24-hr news cycle...","Sign up for our emails to receive content designed to help inform and encourage you to remain unafraid in the face of uncertainty.","{""fields"":[{""label"":""First"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c8""},{""label"":""Last"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c12""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c4""},{""label"":""Lastly"",""field_type"":""checkboxes"",""required"":true,""field_options"":{""options"":[{""label"":""By clicking here you agree to receive email communications from Edgcomb Financial Advisors"",""checked"":false}]},""cid"":""c16""}]}","<h3 style=""text-align: center;"">Thanks for subscribing!&nbsp;</h3>
+
+<h3 style=""text-align: center;"">- Chris &amp; Lee</h3>","","chris.edgcomb@rbc.com","Chris & Lee Edgcomb","Thanks for subscribing!","<p><img alt="""" src=""/documents/520643/520657/RBC+EMAIL+BANNER.jpg/43b8034d-9cc4-44ad-8d13-040e529bea9a?t=1617155853103"" style=""width: 700px; height: 188px;"" /></p>
+
+<h1>Edgcomb Financial Advisors</h1>
+
+<h2>Thank you for subscribing!</h2>
+
+<h3>Dear&nbsp;{{First}},</h3>
+
+<div>Lee and I provide <a href=""https://bit.ly/2OiATrV"" target=""_blank"">wealth and retirement income management for successful American families.</a> We believe in educating&nbsp;and providing&nbsp;tools/information that cut through the noise.&nbsp;We know that the best clients are also the most educated investors. That is why&nbsp;our&nbsp;goal is to provide relevant financial education, and to encourage you to remain unafraid in the face of uncertainty. Thank you for your interest and future readership!</div>
+
+<div><strong>We are consultative advisors.</strong>&nbsp;We set solutions on the table&nbsp;and allow them to speak for themselves. This is why we freely offer the exact same content to you that we deliver to our clients.&nbsp;With that said:</div>
+
+<ul>
+	<li>We love feedback. Reply directly to any email we send.</li>
+	<li>You can us as a resource. <a href=""http://bit.ly/3cD6n9l"" target=""_blank"">Ask us anything</a>.</li>
+	<li>You can unsubscribe anytime.</li>
+	<li>You may receive information about products and services from RBC Wealth Management&nbsp;in the due course of keeping our clients informed. As a subscriber, you will NOT be directly solicited.&nbsp;</li>
+</ul>
+
+<p>Once again, thank you for subscribing. Be sure to check out the links below, and you will be hearing from us soon.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><a href=""http://bit.ly/EFA-RBC-CHRIS"" target=""_blank"">LinkedIn</a>&nbsp; &nbsp;|&nbsp; &nbsp;<a href=""https://bit.ly/2Es9zFI"" target=""_blank"">Facebook</a>&nbsp; &nbsp;|&nbsp; &nbsp;<a href=""https://bit.ly/38SqYm6"" target=""_blank"">Twitter</a>&nbsp; &nbsp;|&nbsp; &nbsp;<a href=""https://bit.ly/2OiATrV"" target=""_blank"">EFA Website</a>&nbsp; &nbsp;|&nbsp; &nbsp;<a href=""https://bit.ly/2ZqEESp"">Request Appointment</a></p>
+
+<p>&nbsp;</p>
+
+<div>Thank you,</div>
+
+<div>Chris &amp; Lee</div>","Count me in!"
+".com",".com","Lee Edgcomb","Edgcomb Financial Advisors","Our antidote to the 24-hr news cycle...","Sign up for our emails to receive content designed to help inform and encourage you to remain unafraid in the face of uncertainty.","{""fields"":[{""label"":""First"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c8""},{""label"":""Last"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c12""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c4""},{""label"":""Lastly"",""field_type"":""checkboxes"",""required"":true,""field_options"":{""options"":[{""label"":""By clicking here you agree to receive email communications from Edgcomb Financial Advisors"",""checked"":false}]},""cid"":""c16""}]}","<h3 style=""text-align: center;"">&nbsp;</h3>
+
+<h3 style=""text-align: center;"">Thanks for subscribing!&nbsp;</h3>
+
+<h3 style=""text-align: center;"">- Chris &amp; Lee</h3>","","chris.edgcomb@rbc.com","Chris & Lee Edgcomb","Thanks for subscribing!","<p>Dear&nbsp;{{First}},</p>
+
+<p>&nbsp;</p>
+
+<p>Thank you for subscribing!&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div>Lee and I provide <a href=""https://bit.ly/2OiATrV"" target=""_blank"">wealth and retirement income management for successful American families.</a> We believe in educating&nbsp;and providing&nbsp;tools/information that cut through the noise.&nbsp;We know that the best clients are also the most educated investors. That is why&nbsp;our&nbsp;goal is to provide relevant financial education, and to encourage you to remain unafraid in the face of uncertainty. Thank you for your interest and future readership!</div>
+
+<div>&nbsp;</div>
+
+<div><strong>We are consultative advisors.</strong>&nbsp;We set solutions on the table&nbsp;and allow them to speak for themselves. This is why we freely offer the exact same content to you that we deliver to our clients.&nbsp;With that said:</div>
+
+<ul>
+	<li>We love feedback. Reply directly to any email we send.</li>
+	<li>You can us as a resource. <a href=""http://bit.ly/3cD6n9l"" target=""_blank"">Ask us anything</a>.</li>
+	<li>You can unsubscribe anytime.</li>
+	<li>You may receive information about products and services from RBC Wealth Management&nbsp;in the due course of keeping our clients informed. As a subscriber, you will NOT be directly solicited.&nbsp;</li>
+</ul>
+
+<p>Once again, thank you for subscribing. Be sure to check out the links below, and you will be hearing from us soon.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><a href=""http://bit.ly/EFA-RBC-CHRIS"" target=""_blank"">LinkedIn</a>&nbsp; &nbsp;|&nbsp; &nbsp;<a href=""https://bit.ly/2Es9zFI"" target=""_blank"">Facebook</a>&nbsp; &nbsp;|&nbsp; &nbsp;<a href=""https://bit.ly/38SqYm6"" target=""_blank"">Twitter</a>&nbsp; &nbsp;|&nbsp; &nbsp;<a href=""https://bit.ly/2OiATrV"" target=""_blank"">EFA Website</a>&nbsp; &nbsp;|&nbsp; &nbsp;<a href=""https://bit.ly/2ZqEESp"">Request Appointment</a></p>
+
+<p>&nbsp;</p>
+
+<div>Thank you,</div>
+
+<div>Chris &amp; Lee</div>","Count me in!"
+".com",".com","Frank W Dingle","The Brinton Dingle Vaughan Wealth Management Group","Let's start the conversation","If you'd like to discuss anything you learn about here in more detail, please fill out the form below.","{""fields"":[{""label"":""First Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""description"":""""},""cid"":""c25""},{""label"":""Last Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""description"":""""},""cid"":""c82""},{""label"":""Phone"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""description"":""""},""cid"":""c86""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c29""},{""label"":""Best Time to Call"",""field_type"":""paragraph"",""required"":true,""field_options"":{""size"":""small"",""description"":""""},""cid"":""c68""},{""label"":""How can we help?"",""field_type"":""paragraph"",""required"":""true"",""field_options"":{""size"":""small"",""description"":""""},""cid"":""c33""}]}","<p>Thank you for your submission. We look forward to connecting with you shortly.</p>","","rachel.kral@rbc.com","Rachel Kral","Thank you for Reaching Out!","<p>Hello {{First Name}},</p>
+
+<p>&nbsp;</p>
+
+<p>Thank you for contacting the Brinton Dingle Vaughan Wealth Management Group. One of our advisors will reach out shortly to speak with you regarding your financial needs.</p>
+
+<p>&nbsp;</p>
+
+<p>Best,</p>
+
+<p>The Brinton Dingle Vaughan WM Group</p>",""
+".com",".com","Matthew G Lanham","GEN Group","Contact","GEN Group
+
+gengroup@rbc.com
+
+Please complete the following form to request more information. *indicates a required field","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""large"",""description"":""""},""cid"":""c1""},{""label"":""Address"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c5""},{""label"":""City, State, Zip"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c13""},{""label"":""Phone"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c41""},{""label"":""Best Time to Call"",""field_type"":""text"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c52""},{""label"":""Comments"",""field_type"":""paragraph"",""required"":false,""field_options"":{""size"":""large""},""cid"":""c58""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{""description"":""""},""cid"":""c161""}]}","","","","","","",""
+".com",".com","C. Michael Luck","C. Michael Luck, CFP®","Office Hours Registration (5 person limit)","Please use this form to submit your registration for Mike's office hours. You can ask any personal finance or investment questions. This is a small group setting so please do not divulge sensitive information.  Office Hours will last one hour and is complimentary.","{""fields"":[{""label"":""Registration Details"",""field_type"":""email"",""required"":true,""cid"":""c1"",""field_options"":{""description"":""Your Email""}},{""label"":""Terms & Conditions"",""field_type"":""checkboxes"",""required"":true,""cid"":""c2"",""field_options"":{""description"":""By providing your email and submitting this form you agree to use your real contact information. You also agree that you understand that the investment and financial advice provided during Office Hours is not binding nor is the opinion of RBC Wealth Management. RBC Financial Advisors and C. Michael Luck are not legal or tax professionals, therefore you agree to consult your own tax and legal professionals before acting on anything discussed during Office Hours."",""options"":[{""label"":""I agree to the above terms and conditions of C. Michael Luck's Office Hours"",""checked"":false},{""label"":""I agree to allow C. Michael Luck, CFP® and RBC Wealth Management to send correspondence to the email provided."",""checked"":false}]}}]}","<p>Thank you for registering for Office hours. You will receive a WebEx meeting invitation at the email you provided. I look forward to our discussion.</p>","","michael.luck@rbc.com","C. Michael Luck","Thanks for registering for Office Hours.","<p>You can ask me anything about the markets, personal finance or investing. I look forward to our discussion.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Mike</p>",""
+".com",".com","Michael McMurtrey","The McMurtrey Financial Group","Let's start the conversation","We look forward to meeting you.","{""fields"":[{""label"":""Name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c25""},{""label"":""Email"",""field_type"":""email"",""required"":true,""field_options"":{},""cid"":""c29""},{""label"":""Comments"",""field_type"":""paragraph"",""required"":false,""field_options"":{""size"":""small""},""cid"":""c33""}]}","<p>Thank you for your submission. We&nbsp;look forward to connecting with you shortly.</p>","","michael.mcmurtrey@rbc.com","Michael McMurtrey","Thank you for reaching out","<p>Someone from The McMurtrey Financial Group will contact you shortly.</p>",""
+".com",".com","","General","Contact us","Please fill in all the mandatory fields.
+
+To protect your privacy, we ask that you not send any confidential information, such as bank account numbers, credit card information or account details, through this contact us form.","{""fields"":[{""label"":""oid"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c9"",""name"":""oid"",""value"":"" 00D80000000b3Tf""},{""label"":""debug"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c99"",""name"":""debug"",""value"":""1""},{""label"":""debugEmail"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c103"",""name"":""debugEmail"",""value"":""fielddigital@rbc.com""},{""label"":""First name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""maxlength"":""40""},""cid"":""c1"",""name"":""first_name""},{""label"":""Last name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""maxlength"":""80""},""cid"":""c5"",""name"":""last_name""},{""label"":""Email"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""maxlength"":""80""},""cid"":""c23"",""name"":""email""},{""label"":""Phone"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""maxlength"":""40""},""cid"":""c27"",""name"":""phone""},{""label"":""Street"",""field_type"":""paragraph"",""required"":true,""field_options"":{""size"":""small""},""cid"":""c35"",""name"":""street""},{""label"":""City"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""maxlength"":""40""},""cid"":""c47"",""name"":""city""},{""label"":""State"",""field_type"":""dropdown"",""required"":true,""field_options"":{""options"":[{""label"":""Alabama"",""checked"":false},{""label"":""Alaska"",""checked"":false},{""label"":""Arizona"",""checked"":false},{""label"":""Arkansas"",""checked"":false},{""label"":""California"",""checked"":false},{""label"":""Colorado"",""checked"":false},{""label"":""Connecticut"",""checked"":false},{""label"":""Delaware"",""checked"":false},{""label"":""Florida"",""checked"":false},{""label"":""Georgia"",""checked"":false},{""label"":""Hawaii"",""checked"":false},{""label"":""Idaho"",""checked"":false},{""label"":""Illinois"",""checked"":false},{""label"":""Indiana"",""checked"":false},{""label"":""Iowa"",""checked"":false},{""label"":""Kansas"",""checked"":false},{""label"":""Kentucky"",""checked"":false},{""label"":""Louisiana"",""checked"":false},{""label"":""Maine"",""checked"":false},{""label"":""Maryland"",""checked"":false},{""label"":""Massachusetts"",""checked"":false},{""label"":""Michigan"",""checked"":false},{""label"":""Minnesota"",""checked"":false},{""label"":""Mississippi"",""checked"":false},{""label"":""Missouri"",""checked"":false},{""label"":""Montana"",""checked"":false},{""label"":""Nebraska"",""checked"":false},{""label"":""Nevada"",""checked"":false},{""label"":""New Hampshire"",""checked"":false},{""label"":""New Jersey"",""checked"":false},{""label"":""New Mexico"",""checked"":false},{""label"":""New York"",""checked"":false},{""label"":""North Carolina"",""checked"":false},{""label"":""North Dakota"",""checked"":false},{""label"":""Ohio"",""checked"":false},{""label"":""Oklahoma"",""checked"":false},{""label"":""Oregon"",""checked"":false},{""label"":""Pennsylvania"",""checked"":false},{""label"":""Rhode Island"",""checked"":false},{""label"":""South Carolina"",""checked"":false},{""label"":""South Dakota"",""checked"":false},{""label"":""Tennessee"",""checked"":false},{""label"":""Texas"",""checked"":false},{""label"":""Utah"",""checked"":false},{""label"":""Vermont"",""checked"":false},{""label"":""Virginia"",""checked"":false},{""label"":""Washington"",""checked"":false},{""label"":""West Virginia"",""checked"":false},{""label"":""Wisconsin"",""checked"":false},{""label"":""Wyoming"",""checked"":false}],""include_blank_option"":true},""cid"":""c168"",""name"":""state""},{""label"":""Zip"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""maxlength"":""20""},""cid"":""c39"",""name"":""zip""},{""label"":""Comments or questions"",""field_type"":""paragraph"",""required"":""false"",""field_options"":{""size"":""small""},""cid"":""c56"",""name"":""description""},{""label"":""country"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c60"",""name"":""country"",""value"":""United States""},{""label"":""Google_Client_ID__c"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c64"",""name"":""Google_Client_ID__c"",""value"":"""",""dynamicFieldName"":""GOOGLE_CUSTOMER_ID""},{""label"":""Transaction_ID__c"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c68"",""dynamicFieldName"":""SUBMISSION_ID"",""value"":"""",""name"":""Transaction_ID__c""},{""label"":""Web_Employee_ID__c"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c72"",""name"":""Web_Employee_ID__c"",""dynamicFieldName"":""EMPLOYEE_ID"",""value"":""""},{""label"":""Web_Team_ID__c"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c79"",""dynamicFieldName"":""TEAM_ID"",""value"":"""",""name"":""Web_Team_ID__c""},{""label"":""Web_Branch__c"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c83"",""dynamicFieldName"":""BRANCH_TITLE"",""value"":"""",""name"":""Web_Branch__c""},{""label"":""Web_Complex__c"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c87"",""dynamicFieldName"":""REGION_TITLE"",""value"":"""",""name"":""Web_Complex__c""},{""label"":""Web_Source_Page__c"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c91"",""dynamicFieldName"":""PAGE_URL"",""value"":"""",""name"":""Web_Source_Page__c""},{""label"":""Web_SiteURL__c"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c95"",""dynamicFieldName"":""WEBSITE_URL"",""value"":"""",""name"":""Web_SiteURL__c""}]}","<p>Thank you!<br />
+Thank you for providing the requested information.</p>","","","","","",""
+".com",".com","","General","Let's start the conversation","If you want to discuss your portfolio or have financial questions, please fill out the below form.
+
+To protect your privacy, we ask that you not send any confidential information, such as bank account numbers, credit card information or account details, through this contact us form.","{""fields"":[{""label"":""oid"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c69"",""name"":""oid"",""value"":""00D80000000b3Tf""},{""label"":""debug"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c73"",""name"":""debug"",""value"":""1""},{""label"":""debugEmail"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c77"",""name"":""debugEmail"",""value"":""fielddigital@rbc.com""},{""label"":""First name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""maxlength"":""40""},""cid"":""c81"",""name"":""first_name""},{""label"":""Last name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""maxlength"":""40""},""cid"":""c85"",""name"":""last_name""},{""label"":""Email"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""maxlength"":""80""},""cid"":""c89"",""name"":""email""},{""label"":""Phone"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""maxlength"":""40""},""cid"":""c93"",""name"":""phone""},{""label"":""Comments or questions"",""field_type"":""paragraph"",""required"":""false"",""field_options"":{""size"":""small""},""cid"":""c101"",""name"":""description""},{""label"":""Google_Client_ID__c"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c105"",""dynamicFieldName"":""GOOGLE_CUSTOMER_ID"",""value"":"""",""name"":""Google_Client_ID__c""},{""label"":""Transaction_ID__c"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c109"",""dynamicFieldName"":""SUBMISSION_ID"",""value"":"""",""name"":""Transaction_ID__c""},{""label"":""Web_Employee_ID__c"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c113"",""dynamicFieldName"":""EMPLOYEE_ID"",""value"":"""",""name"":""Web_Employee_ID__c""},{""label"":""Web_Team_ID__c"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c117"",""dynamicFieldName"":""TEAM_ID"",""value"":"""",""name"":""Web_Team_ID__c""},{""label"":""Web_Branch__c"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c121"",""dynamicFieldName"":""BRANCH_TITLE"",""value"":"""",""name"":""Web_Branch__c""},{""label"":""Web_Complex__c"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c125"",""dynamicFieldName"":""REGION_TITLE"",""value"":"""",""name"":""Web_Complex__c""},{""label"":""Web_Source_Page__c"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c129"",""dynamicFieldName"":""PAGE_URL"",""value"":"""",""name"":""Web_Source_Page__c""},{""label"":""Web_SiteURL__c"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c133"",""dynamicFieldName"":""WEBSITE_URL"",""value"":"""",""name"":""Web_SiteURL__c""}]}","<p>Thank you!<br />
+Thank you for providing the requested information.&nbsp;</p>","","","","","",""
+".com",".com","","Advisor Only","Complimentary Workbook: Family Inventory Workbook","Please fill out the fields below. After you click “submit” a link to the workbook will be provided here.","{""fields"":[{""label"":""oid"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c10"",""name"":""oid"",""value"":"" 00D80000000b3Tf""},{""label"":""debug"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c14"",""name"":""debug"",""value"":""1""},{""label"":""debugEmail"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c18"",""name"":""debugEmail"",""value"":""fielddigital@rbc.com""},{""label"":""First name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""maxlength"":""40""},""cid"":""c22"",""name"":""first_name""},{""label"":""Last name"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""maxlength"":""40""},""cid"":""c26"",""name"":""last_name""},{""label"":""Email"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""maxlength"":""80""},""cid"":""c30"",""name"":""email""},{""label"":""Phone"",""field_type"":""text"",""required"":true,""field_options"":{""size"":""small"",""maxlength"":""40""},""cid"":""c34"",""name"":""phone""},{""label"":""description"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c46"",""name"":""description"",""value"":""Family Inventory Workbook download""},{""label"":""Google_Client_ID__c"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c50"",""dynamicFieldName"":""GOOGLE_CUSTOMER_ID"",""value"":"""",""name"":""Google_Client_ID__c""},{""label"":""Transaction_ID__c"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c54"",""name"":""Transaction_ID__c"",""dynamicFieldName"":""SUBMISSION_ID"",""value"":""""},{""label"":""Web_Employee_ID__c"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c58"",""name"":""Web_Employee_ID__c"",""dynamicFieldName"":""EMPLOYEE_ID"",""value"":""""},{""label"":""Web_Team_ID__c"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c62"",""name"":""Web_Team_ID__c"",""dynamicFieldName"":""TEAM_ID"",""value"":""""},{""label"":""Web_Branch__c"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c66"",""name"":""Web_Branch__c"",""dynamicFieldName"":""BRANCH_TITLE"",""value"":""""},{""label"":""Web_Source_Page__c"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c70"",""name"":""Web_Source_Page__c"",""dynamicFieldName"":""PAGE_URL"",""value"":""""},{""label"":""Web_SiteURL__c"",""field_type"":""hiddenfield"",""required"":true,""field_options"":{},""cid"":""c74"",""name"":""Web_SiteURL__c"",""dynamicFieldName"":""WEBSITE_URL"",""value"":""""}]}","<p>Thank you!</p>
+
+<p>&nbsp;</p>
+
+<p>Please click the link to download a PDF of the Family Inventory Workbook.<br />
+&nbsp;</p>
+
+<p><a href=""/documents/10192/0/FamilyInventory+-+2018-09.pdf/066891ca-1fda-4b40-a001-79fbfc1cefe0"" target=""_blank"">Family Inventory Workbook</a></p>
+
+<p>&nbsp;</p>","","","","","",""

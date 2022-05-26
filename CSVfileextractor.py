@@ -8,6 +8,17 @@ import glob #glob is a filepath manager
 from tkinter import Tk, filedialog # tkinter is for file selection popup dialogues
 import sys # early termination
 
+folder_paths = []
+
+def getPath(Mainfile_path):
+    for name in os.listdir(Mainfile_path):
+        if name == ".DS_Store":
+            continue
+        if os.path.isfile(Mainfile_path + "/" + name):
+            folder_paths.append(Mainfile_path)
+            return
+        getPath(Mainfile_path + "/" + name)
+
 pd.set_option('display.max_rows', None)
 
 root = Tk() # pointing root to Tk() to use it as Tk() in program.
@@ -17,12 +28,11 @@ root.update()
 
 # Main file path where all digital agent folders are located
 Mainfile_path = filedialog.askdirectory()
+getPath(Mainfile_path)
+for name in folder_paths:
+    print(name)
 
-# File path for the 4 subfiles 
-folder_path1 = Mainfile_path + "/DigitalAgent.com"
-folder_path2 = Mainfile_path + "/DigitalAgent.ca"
-folder_path3 = Mainfile_path + "/DigitalAgent.net"
-folder_path4 = Mainfile_path + "/DigitalAgent.org"
+
 
 # Checks whether you selected the right directory to merge files
 if os.path.isdir(folder_path1) == False:
@@ -30,12 +40,14 @@ if os.path.isdir(folder_path1) == False:
     sys.exit("Wrong folder selected. Please see documentation for details")
 
 # Array of all file paths
-folder_paths = [folder_path1,folder_path2,folder_path3,folder_path4]
+
 file_names = ["BlogAudit", "ComplianceQueueAudit", "ContentAudit", 
 "DirectoryAudit", "DisclosureAudit", "EventAudit", "FileAudit", "OfficeVersionAudit", 
 "OptionsAudit", "OrganizationalGroupAudit", "PageAudit", "ProfileAudit", "RepositoryAudit", "ResourceAudit", 
 "SettingsAudit", "SubmissionFormVersionAudit", "TenantAudit", "UserAudit", "WebsiteAudit"]
 file_tail = ".sql.csv"
+
+for path in folder_paths
 
 # Getting all the files from their respective folders and putting it into one variable. There are 
 # 19 different combined files, so we will loop through and create 19 combined files

@@ -1,0 +1,726 @@
+"Target String","URL Safe String","User","Hub","Hub Type","Blog Title","Blog Locale","Blog Value","Blog AuthorAlias","Blog Description","Blog Excert","Blog AltTextPhoto","Blog CannonicalURL"
+".net",".net","","Insights Articles (blog posts)","MARKETING","Artificial intelligence: Investing in the age of transformation","en_US","<?xml version=""1.0"" encoding=""UTF-8"" standalone=""yes""?><root xmlns=""http://www.veriday.com/xsd/content/content-base""><static-content><value>&lt;p&gt;Artificial intelligence (AI) has been dominating the headlines&amp;mdash;all the way from the transformative opportunities it can bring to society, businesses, and governments, to the science fiction doomsday scenarios. There is a great amount of hype surrounding AI, and the first step to assess the extent of its impact is to remove the mystery and understand what it has to offer.&lt;/p&gt;
+
+&lt;div class=""clearfix spacer-20""&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=""spacer-40"" style=""position: relative; display: block; max-width: 100%;""&gt;
+&lt;div style=""padding-top: 56.25%;""&gt;
+&lt;video class=""video-js"" controls="""" data-account=""3187797751001"" data-application-id="""" data-embed=""default"" data-player=""rkR67t63"" data-video-id=""5969475428001"" style=""position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;""&gt;&amp;nbsp;&lt;/video&gt;
+&lt;script src=""//players.brightcove.net/3187797751001/rkR67t63_default/index.min.js""&gt;&lt;/script&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;AI is an &amp;ldquo;umbrella&amp;rdquo; concept, covering a wide range of disciplines and technologies, including machine learning, deep learning, and cognitive computing, among others.&lt;/p&gt;
+
+&lt;p&gt;The &amp;ldquo;intelligence&amp;rdquo; aspect of AI is at the root of what the technology can do&amp;mdash;intelligence is the capacity to connect comprehension with logic, which results in the ability to draw conclusions from previous experiences. Humans process information like this day in and day out, without even thinking about it. As such, AI can be interpreted as a set of algorithms (logic), programs (instructions to a computer), and statistical models that interact to replicate an output very similar to that of human intelligence.&lt;/p&gt;
+
+&lt;p&gt;However, AI is unable to connect insights or understand specifically &lt;strong&gt;why&lt;/strong&gt; something is happening&amp;mdash;another key aspect of human thinking. A book published by New Scientist on the topic states that &amp;ldquo;AI can&amp;rsquo;t strip us of our jobs, our dignity or our human rights. Only other humans can do that.&amp;rdquo; This suggests that humans are ultimately responsible for their future. In other words, at this stage it&amp;rsquo;s humans who control AI, not the other way around.&lt;/p&gt;
+
+&lt;h5&gt;Subsets of AI&lt;/h5&gt;
+
+&lt;p&gt;&lt;img alt="""" src=""/documents/10192/0/artificial-intelligence-chart-1-in-page.png/ba385e99-8fe3-4c94-9f42-5894c790d42c?t=1550708832058"" style=""width: 90%;"" /&gt;&lt;/p&gt;
+
+&lt;div class=""row spacer-10""&gt;
+&lt;div class=""col-lg-10 col-md-8 col-sm-8 col-xs-10 col-xxs-12""&gt;
+&lt;p class=""disclaimer"" style=""color:#222222;font-family:'Helvetica','Arial',sans-serif;font-size:8.5px;font-weight:normal;line-height:17px;margin:0 0 10px;padding:0;text-align:left;""&gt;Source - Goodfellow, Ian, Bengio, Yoshua, and Courville, Aaron. &lt;em&gt;Deep Learning&lt;/em&gt;. MIT Press, 2016. &lt;a class=""link-ext"" href=""http://www.deeplearningbook.org/contents/intro.html"" target=""_blank""&gt;www.deeplearningbook.org/contents/intro.html&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4&gt;Revival of AI&lt;/h4&gt;
+
+&lt;p&gt;While AI might seem like a very 21st century concept, it is not new. The term was coined in 1956 and AI went through alternating phases of early development followed by hibernation. During the 1970s and later in the 1990s, research progress completely stalled for nearly two decades&amp;mdash;what became dubbed the &amp;ldquo;AI winters&amp;rdquo;&amp;mdash;due to unfulfilled promises and lack of funding.&lt;/p&gt;
+
+&lt;p&gt;Its revival has been driven by a simultaneous improvement of factors never seen before: the availability of immensely large volumes of data (big data), the advancement of machine learning algorithms, cheap data storage, and increased computing capacity via graphics processing units (GPUs) that meaningfully reduce computation time. AI would not be fully viable without any one of these improvements. For example, consider the dramatic decline in storage costs that enables AI users to store previously unimagined quantities of data, so much data that it is doubling in size every two years. In 1980 one gigabyte of storage cost $437,000; by 2016 the cost had plunged to just under $0.02.&lt;/p&gt;
+
+&lt;h4&gt;Human + Machine&lt;/h4&gt;
+
+&lt;p&gt;Even though we can loosely define AI, there is no uniform definition that everyone agrees on. A philosopher would look at it from an existential point of view, but a computer scientist would evaluate a machine&amp;rsquo;s ability to perform tasks requiring human intelligence and an economist might look at AI&amp;rsquo;s impact on GDP growth.&lt;/p&gt;
+
+&lt;p&gt;In general, most references to AI revolve around three main stages of development: Artificial Narrow Intelligence, Artificial General Intelligence, and Artificial Super Intelligence (defined in the table below). However, it is crucial to recognize that only one, Artificial Narrow Intelligence, is mature today, while the hype about AI taking over the world refers to the other two areas in nascent stages.&lt;/p&gt;
+
+&lt;p&gt;Some see the potential for significant leaps in AI, especially related to the human brain. Futurist and Google&amp;rsquo;s Director of Engineering Ray Kurzweil suggests that for the last 4,000 years the human brain has been &amp;ldquo;limited by a fixed architecture of enclosure&amp;rdquo; and AI has the ability to &amp;ldquo;expand our neocortex&amp;rdquo;&amp;mdash;the part of the brain responsible for higher functions&amp;mdash;in quantity and quality. During a TED Talk he said that &amp;ldquo;if you need some extra neocortex, you&amp;rsquo;ll be able to connect to it on the cloud directly from your brain. That additional quantity will again be an enabling factor for another qualitative leap in culture and technology.&amp;rdquo;&lt;/p&gt;
+
+&lt;h5&gt;Three main stages of AI development&lt;/h5&gt;
+
+&lt;div class=""table-responsive""&gt;
+&lt;table class=""spacer-10 b-carbon""&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;
+			&lt;th&gt;Stage&lt;/th&gt;
+			&lt;th&gt;Applications&lt;/th&gt;
+			&lt;th&gt;Status&lt;/th&gt;
+		&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Artificial Narrow Intelligence&lt;/td&gt;
+			&lt;td&gt;Restricted to one function, task, or purpose such as: image and speech recognition, data clustering, optimization, prediction, and natural language understanding.&lt;/td&gt;
+			&lt;td&gt;Most mature&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Artificial General Intelligence&lt;/td&gt;
+			&lt;td&gt;Not restricted to one field; it includes problem-solving, reasoning, and cognition. It understands why something is happening and draws on many experiences and conceptualizing models to develop actual scenarios (e.g., action plans, projections, etc.).&lt;/td&gt;
+			&lt;td&gt;Not mature&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Artificial Super Intelligence&lt;/td&gt;
+			&lt;td&gt;Covers all fields and surpasses human intelligence in many aspects.&lt;/td&gt;
+			&lt;td&gt;Pre-embryonic&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p class=""disclaimer"" style=""color:#222222;font-family:'Helvetica','Arial',sans-serif;font-size:8.5px;font-weight:normal;line-height:17px;margin:0 0 10px;padding:0;text-align:left;""&gt;Source - RBC Wealth Management&lt;/p&gt;
+
+&lt;p&gt;This prospect might be exciting to some and dreadful to others. While it&amp;rsquo;s intriguing to contemplate future scenarios, it is yet to be seen to what extent far-reaching projections such as these will materialize. Even without massive leaps, today the opportunities for AI are vast and we believe it is evident that human expertise has the potential to be augmented by a combination of human and machine intelligence, which surpasses that of either a human or a machine on a standalone basis.&lt;/p&gt;
+
+&lt;h4&gt;AI transformation journey has just begun&lt;/h4&gt;
+
+&lt;p&gt;AI is already beginning to make its mark in a wide variety of industries. For the first time in its decades-long history it has become commercialized. Internet giants use it for search optimization and product recommendation, among other applications, while businesses outside of the technology industry have begun to implement AI for uses such as fraud detection, facial recognition, mapping the customer journey, and much more. It has even made some headway in art and media&amp;mdash;a painting created by AI recently sold at a Christie&amp;rsquo;s auction for $432,500 and the world&amp;rsquo;s first AI news anchor has gone live in China.&lt;/p&gt;
+
+&lt;p&gt;Currently, the global market for AI is estimated to be approximately $7.3B and is forecast to reach some $90B by 2025, based on Statista data. North America is expected to be the biggest consumer in the market with its widening usage of AI applications across numerous business verticals, while Asia Pacific will likely experience the fastest growth in uptake of the new technology, according to Reuters. AI is rapidly emerging as an industry in itself.&lt;/p&gt;
+
+&lt;h4&gt;Impact of AI on major sectors&lt;/h4&gt;
+
+&lt;p&gt;Because AI&amp;rsquo;s commercialization and presence in public equity markets are relatively new, so far AI offers limited opportunities for pure-play investment. The direct beneficiaries are confined to areas like software, where some companies have established a first-mover advantage. As time passes, as happened with previous technological breakthroughs (e.g., the internet), the massive number of private AI startups likely will be reduced to only a comparatively few winners, in our view.&lt;/p&gt;
+
+&lt;p&gt;Another approach would be to invest in indirect beneficiaries, companies that would benefit from incorporating AI technologies in their business. In addition to technology and communication services, we expect five industries to benefit in the near future:&lt;/p&gt;
+
+&lt;h5&gt;Health care&lt;/h5&gt;
+
+&lt;p&gt;New AI innovations in the health care industry are appearing with great rapidity, making it the most promising industry, in our view, where image recognition has dramatically improved diagnostics&amp;mdash;detecting melanoma skin cancer with 95 percent accuracy, for example&amp;mdash;adding decision-making support and improved patient monitoring. Big data combined with AI is opening up the possibilities of customized, individual therapies replacing the &amp;ldquo;one-size-fits-all&amp;rdquo; protocols that have characterized cancer treatment for decades. Heart disease diagnosis and treatment could benefit in the same way. Deep learning and predictive analytics tools are reducing the costs and time of drug development by predicting the therapeutic use of new drugs, thus driving significant efficiency gains.&lt;/p&gt;
+
+&lt;h5&gt;Transportation&lt;/h5&gt;
+
+&lt;p&gt;Industry practitioners expect autonomous vehicles to transform the future of transport along with other AI solutions that will: predict traffic flow and analyze pedestrian patterns to reduce accidents, speed traffic flow and the efficient movement of goods, reduce congestion, air pollution, and energy consumption; not to mention free up valuable land and physical assets currently dedicated to housing and storing autos that are often in use for less than an hour each day.&lt;/p&gt;
+
+&lt;h5&gt;Manufacturing&lt;/h5&gt;
+
+&lt;p&gt;AI supports production forecasting and quality control with robotics and sensor technologies. In its 10-year strategic plan, &amp;ldquo;Made in China 2025,&amp;rdquo; China is revamping its industrial base, and the International Federation of Robotics expects China to account for 40 percent of the total worldwide sales of robots by 2019.&lt;/p&gt;
+
+&lt;h5&gt;Retail&lt;/h5&gt;
+
+&lt;p&gt;AI&amp;rsquo;s applications in e-commerce include product discovery tools such as visual search, 3D virtual reality, customized product recommendations, targeted marketing, and potentially delivery through AI-powered drones or other self-driving vehicles. Importantly, AI&amp;rsquo;s predictive analytics could provide, and in some cases already are, the rapid just-in-time inventory management that would permit brick-and-mortar retailers the capacity to compete more effectively against the online threat.&lt;/p&gt;
+
+&lt;h5&gt;Financials&lt;/h5&gt;
+
+&lt;p&gt;AI is making strides in the form of virtual assistants, chatbots, speech recognition, alternative data sources, sophisticated trading models, real-time risk assessment, the development of innovative new financial instruments, and much more.&lt;/p&gt;
+
+&lt;h4&gt;Investments ex machina&lt;/h4&gt;
+
+&lt;p&gt;We believe AI offers transformative opportunities for society, governments, and businesses, even though the state of the technology still lags the hype. Like other periods of rapid industrial/technological change, we expect AI&amp;rsquo;s emergence will create a substantial increase in global wealth in the coming decades. However, it is unlikely that increased wealth will be delivered equitably or &amp;ldquo;fairly.&amp;rdquo; There will undoubtedly be large dislocations that produce both winners and losers.&lt;/p&gt;
+
+&lt;p&gt;What is clear to us is that AI is here to stay. As with the arrival of computers, automation, and the internet, those companies that pursue the opportunities AI presents and understand the competitive threats it may pose, will likely fare better than those who choose to ignore it or fight a rearguard action to forestall it. We believe factoring its impact into investment decisions and choices will rapidly become a &amp;ldquo;must have&amp;rdquo; rather than a &amp;ldquo;nice to have.&amp;rdquo;&lt;/p&gt;
+</value></static-content></root>","Iryna Drobysheva & Juan Aronna","The explosion of AI technology is creating real opportunities for investment strategy. Find out how:","The explosion of AI technology is creating real opportunities for investment strategy as these transformative innovations are here to stay.","woman pointing at wall of video screens","https://www.rbcwealthmanagement.com/us/en/research-insights/artificial-intelligence-investing-in-the-age-of-transformation/detail/"
+".net",".net","","Insights Articles (blog posts)","MARKETING","Artificial intelligence: Investing in the age of transformation","en_US","<?xml version=""1.0"" encoding=""UTF-8"" standalone=""yes""?><root xmlns=""http://www.veriday.com/xsd/content/content-base""><static-content><value>&lt;p&gt;Artificial intelligence (AI) has been dominating the headlines&amp;mdash;all the way from the transformative opportunities it can bring to society, businesses, and governments, to the science fiction doomsday scenarios. There is a great amount of hype surrounding AI, and the first step to assess the extent of its impact is to remove the mystery and understand what it has to offer.&lt;/p&gt;
+
+&lt;div class=""clearfix spacer-20""&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=""spacer-40"" style=""position: relative; display: block; max-width: 100%;""&gt;
+&lt;div style=""padding-top: 56.25%;""&gt;
+&lt;video class=""video-js"" controls="""" data-account=""3187797751001"" data-application-id="""" data-embed=""default"" data-player=""rkR67t63"" data-video-id=""5969475428001"" style=""position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;""&gt;&amp;nbsp;&lt;/video&gt;
+&lt;script src=""//players.brightcove.net/3187797751001/rkR67t63_default/index.min.js""&gt;&lt;/script&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;AI is an &amp;ldquo;umbrella&amp;rdquo; concept, covering a wide range of disciplines and technologies, including machine learning, deep learning, and cognitive computing, among others.&lt;/p&gt;
+
+&lt;p&gt;The &amp;ldquo;intelligence&amp;rdquo; aspect of AI is at the root of what the technology can do&amp;mdash;intelligence is the capacity to connect comprehension with logic, which results in the ability to draw conclusions from previous experiences. Humans process information like this day in and day out, without even thinking about it. As such, AI can be interpreted as a set of algorithms (logic), programs (instructions to a computer), and statistical models that interact to replicate an output very similar to that of human intelligence.&lt;/p&gt;
+
+&lt;p&gt;However, AI is unable to connect insights or understand specifically &lt;strong&gt;why&lt;/strong&gt; something is happening&amp;mdash;another key aspect of human thinking. A book published by New Scientist on the topic states that &amp;ldquo;AI can&amp;rsquo;t strip us of our jobs, our dignity or our human rights. Only other humans can do that.&amp;rdquo; This suggests that humans are ultimately responsible for their future. In other words, at this stage it&amp;rsquo;s humans who control AI, not the other way around.&lt;/p&gt;
+
+&lt;h5&gt;Subsets of AI&lt;/h5&gt;
+
+&lt;p&gt;&lt;img alt="""" src=""/documents/10192/0/artificial-intelligence-chart-1-in-page.png/ba385e99-8fe3-4c94-9f42-5894c790d42c?t=1550708832058"" style=""width: 90%;"" /&gt;&lt;/p&gt;
+
+&lt;div class=""row spacer-10""&gt;
+&lt;div class=""col-lg-10 col-md-8 col-sm-8 col-xs-10 col-xxs-12""&gt;
+&lt;p class=""disclaimer"" style=""color:#222222;font-family:'Helvetica','Arial',sans-serif;font-size:8.5px;font-weight:normal;line-height:17px;margin:0 0 10px;padding:0;text-align:left;""&gt;Source - Goodfellow, Ian, Bengio, Yoshua, and Courville, Aaron. &lt;em&gt;Deep Learning&lt;/em&gt;. MIT Press, 2016. &lt;a class=""link-ext"" href=""http://www.deeplearningbook.org/contents/intro.html"" target=""_blank""&gt;www.deeplearningbook.org/contents/intro.html&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4&gt;Revival of AI&lt;/h4&gt;
+
+&lt;p&gt;While AI might seem like a very 21st century concept, it is not new. The term was coined in 1956 and AI went through alternating phases of early development followed by hibernation. During the 1970s and later in the 1990s, research progress completely stalled for nearly two decades&amp;mdash;what became dubbed the &amp;ldquo;AI winters&amp;rdquo;&amp;mdash;due to unfulfilled promises and lack of funding.&lt;/p&gt;
+
+&lt;p&gt;Its revival has been driven by a simultaneous improvement of factors never seen before: the availability of immensely large volumes of data (big data), the advancement of machine learning algorithms, cheap data storage, and increased computing capacity via graphics processing units (GPUs) that meaningfully reduce computation time. AI would not be fully viable without any one of these improvements. For example, consider the dramatic decline in storage costs that enables AI users to store previously unimagined quantities of data, so much data that it is doubling in size every two years. In 1980 one gigabyte of storage cost $437,000; by 2016 the cost had plunged to just under $0.02.&lt;/p&gt;
+
+&lt;h4&gt;Human + Machine&lt;/h4&gt;
+
+&lt;p&gt;Even though we can loosely define AI, there is no uniform definition that everyone agrees on. A philosopher would look at it from an existential point of view, but a computer scientist would evaluate a machine&amp;rsquo;s ability to perform tasks requiring human intelligence and an economist might look at AI&amp;rsquo;s impact on GDP growth.&lt;/p&gt;
+
+&lt;p&gt;In general, most references to AI revolve around three main stages of development: Artificial Narrow Intelligence, Artificial General Intelligence, and Artificial Super Intelligence (defined in the table below). However, it is crucial to recognize that only one, Artificial Narrow Intelligence, is mature today, while the hype about AI taking over the world refers to the other two areas in nascent stages.&lt;/p&gt;
+
+&lt;p&gt;Some see the potential for significant leaps in AI, especially related to the human brain. Futurist and Google&amp;rsquo;s Director of Engineering Ray Kurzweil suggests that for the last 4,000 years the human brain has been &amp;ldquo;limited by a fixed architecture of enclosure&amp;rdquo; and AI has the ability to &amp;ldquo;expand our neocortex&amp;rdquo;&amp;mdash;the part of the brain responsible for higher functions&amp;mdash;in quantity and quality. During a TED Talk he said that &amp;ldquo;if you need some extra neocortex, you&amp;rsquo;ll be able to connect to it on the cloud directly from your brain. That additional quantity will again be an enabling factor for another qualitative leap in culture and technology.&amp;rdquo;&lt;/p&gt;
+
+&lt;h5&gt;Three main stages of AI development&lt;/h5&gt;
+
+&lt;div class=""table-responsive""&gt;
+&lt;table class=""spacer-10 b-carbon""&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;
+			&lt;th&gt;Stage&lt;/th&gt;
+			&lt;th&gt;Applications&lt;/th&gt;
+			&lt;th&gt;Status&lt;/th&gt;
+		&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Artificial Narrow Intelligence&lt;/td&gt;
+			&lt;td&gt;Restricted to one function, task, or purpose such as: image and speech recognition, data clustering, optimization, prediction, and natural language understanding.&lt;/td&gt;
+			&lt;td&gt;Most mature&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Artificial General Intelligence&lt;/td&gt;
+			&lt;td&gt;Not restricted to one field; it includes problem-solving, reasoning, and cognition. It understands why something is happening and draws on many experiences and conceptualizing models to develop actual scenarios (e.g., action plans, projections, etc.).&lt;/td&gt;
+			&lt;td&gt;Not mature&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;Artificial Super Intelligence&lt;/td&gt;
+			&lt;td&gt;Covers all fields and surpasses human intelligence in many aspects.&lt;/td&gt;
+			&lt;td&gt;Pre-embryonic&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p class=""disclaimer"" style=""color:#222222;font-family:'Helvetica','Arial',sans-serif;font-size:8.5px;font-weight:normal;line-height:17px;margin:0 0 10px;padding:0;text-align:left;""&gt;Source - RBC Wealth Management&lt;/p&gt;
+
+&lt;p&gt;This prospect might be exciting to some and dreadful to others. While it&amp;rsquo;s intriguing to contemplate future scenarios, it is yet to be seen to what extent far-reaching projections such as these will materialize. Even without massive leaps, today the opportunities for AI are vast and we believe it is evident that human expertise has the potential to be augmented by a combination of human and machine intelligence, which surpasses that of either a human or a machine on a standalone basis.&lt;/p&gt;
+
+&lt;h4&gt;AI transformation journey has just begun&lt;/h4&gt;
+
+&lt;p&gt;AI is already beginning to make its mark in a wide variety of industries. For the first time in its decades-long history it has become commercialized. Internet giants use it for search optimization and product recommendation, among other applications, while businesses outside of the technology industry have begun to implement AI for uses such as fraud detection, facial recognition, mapping the customer journey, and much more. It has even made some headway in art and media&amp;mdash;a painting created by AI recently sold at a Christie&amp;rsquo;s auction for $432,500 and the world&amp;rsquo;s first AI news anchor has gone live in China.&lt;/p&gt;
+
+&lt;p&gt;Currently, the global market for AI is estimated to be approximately $7.3B and is forecast to reach some $90B by 2025, based on Statista data. North America is expected to be the biggest consumer in the market with its widening usage of AI applications across numerous business verticals, while Asia Pacific will likely experience the fastest growth in uptake of the new technology, according to Reuters. AI is rapidly emerging as an industry in itself.&lt;/p&gt;
+
+&lt;h4&gt;Impact of AI on major sectors&lt;/h4&gt;
+
+&lt;p&gt;Because AI&amp;rsquo;s commercialization and presence in public equity markets are relatively new, so far AI offers limited opportunities for pure-play investment. The direct beneficiaries are confined to areas like software, where some companies have established a first-mover advantage. As time passes, as happened with previous technological breakthroughs (e.g., the internet), the massive number of private AI startups likely will be reduced to only a comparatively few winners, in our view.&lt;/p&gt;
+
+&lt;p&gt;Another approach would be to invest in indirect beneficiaries, companies that would benefit from incorporating AI technologies in their business. In addition to technology and communication services, we expect five industries to benefit in the near future:&lt;/p&gt;
+
+&lt;h5&gt;Health care&lt;/h5&gt;
+
+&lt;p&gt;New AI innovations in the health care industry are appearing with great rapidity, making it the most promising industry, in our view, where image recognition has dramatically improved diagnostics&amp;mdash;detecting melanoma skin cancer with 95 percent accuracy, for example&amp;mdash;adding decision-making support and improved patient monitoring. Big data combined with AI is opening up the possibilities of customized, individual therapies replacing the &amp;ldquo;one-size-fits-all&amp;rdquo; protocols that have characterized cancer treatment for decades. Heart disease diagnosis and treatment could benefit in the same way. Deep learning and predictive analytics tools are reducing the costs and time of drug development by predicting the therapeutic use of new drugs, thus driving significant efficiency gains.&lt;/p&gt;
+
+&lt;h5&gt;Transportation&lt;/h5&gt;
+
+&lt;p&gt;Industry practitioners expect autonomous vehicles to transform the future of transport along with other AI solutions that will: predict traffic flow and analyze pedestrian patterns to reduce accidents, speed traffic flow and the efficient movement of goods, reduce congestion, air pollution, and energy consumption; not to mention free up valuable land and physical assets currently dedicated to housing and storing autos that are often in use for less than an hour each day.&lt;/p&gt;
+
+&lt;h5&gt;Manufacturing&lt;/h5&gt;
+
+&lt;p&gt;AI supports production forecasting and quality control with robotics and sensor technologies. In its 10-year strategic plan, &amp;ldquo;Made in China 2025,&amp;rdquo; China is revamping its industrial base, and the International Federation of Robotics expects China to account for 40 percent of the total worldwide sales of robots by 2019.&lt;/p&gt;
+
+&lt;h5&gt;Retail&lt;/h5&gt;
+
+&lt;p&gt;AI&amp;rsquo;s applications in e-commerce include product discovery tools such as visual search, 3D virtual reality, customized product recommendations, targeted marketing, and potentially delivery through AI-powered drones or other self-driving vehicles. Importantly, AI&amp;rsquo;s predictive analytics could provide, and in some cases already are, the rapid just-in-time inventory management that would permit brick-and-mortar retailers the capacity to compete more effectively against the online threat.&lt;/p&gt;
+
+&lt;h5&gt;Financials&lt;/h5&gt;
+
+&lt;p&gt;AI is making strides in the form of virtual assistants, chatbots, speech recognition, alternative data sources, sophisticated trading models, real-time risk assessment, the development of innovative new financial instruments, and much more.&lt;/p&gt;
+
+&lt;h4&gt;Investments ex machina&lt;/h4&gt;
+
+&lt;p&gt;We believe AI offers transformative opportunities for society, governments, and businesses, even though the state of the technology still lags the hype. Like other periods of rapid industrial/technological change, we expect AI&amp;rsquo;s emergence will create a substantial increase in global wealth in the coming decades. However, it is unlikely that increased wealth will be delivered equitably or &amp;ldquo;fairly.&amp;rdquo; There will undoubtedly be large dislocations that produce both winners and losers.&lt;/p&gt;
+
+&lt;p&gt;What is clear to us is that AI is here to stay. As with the arrival of computers, automation, and the internet, those companies that pursue the opportunities AI presents and understand the competitive threats it may pose, will likely fare better than those who choose to ignore it or fight a rearguard action to forestall it. We believe factoring its impact into investment decisions and choices will rapidly become a &amp;ldquo;must have&amp;rdquo; rather than a &amp;ldquo;nice to have.&amp;rdquo;&lt;/p&gt;
+</value></static-content></root>","Iryna Drobysheva & Juan Aronna","The explosion of AI technology is creating real opportunities for investment strategy. Find out how:","The explosion of AI technology is creating real opportunities for investment strategy as these transformative innovations are here to stay.","woman pointing at wall of video screens","https://www.rbcwealthmanagement.com/us/en/research-insights/artificial-intelligence-investing-in-the-age-of-transformation/detail/"
+".net",".net","","Insights Articles (blog posts)","MARKETING","Stories of empowerment: Basketball champion Lindsay Whalen talks about success through losing","en_US","<?xml version=""1.0"" encoding=""UTF-8"" standalone=""yes""?><root xmlns=""http://www.veriday.com/xsd/content/content-base""><static-content><value>&lt;p&gt;Two-time Olympic gold medalist Lindsay Whalen knows about success. As one of the most decorated players in women&amp;#39;s basketball history, she helped lead the Minnesota Lynx to four WNBA championships and was a key piece in dominant play from Team USA.&lt;/p&gt;
+
+&lt;p&gt;Despite all of her wins, the now head coach of the University of Minnesota Gopher women&amp;#39;s basketball team also learned from losing.&lt;/p&gt;
+
+&lt;p&gt;To celebrate International Women&amp;#39;s Day, Whalen sat down with award-winning journalist Soledad O&amp;#39;Brien to share her stories of empowerment.&lt;/p&gt;
+
+&lt;p&gt;Here is an excerpt from Whalen&amp;#39;s conversation with O&amp;#39;Brien, which has been edited and condensed.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;What does empowerment mean to you?&lt;/p&gt;
+
+&lt;p&gt;If you&amp;#39;re trying to empower someone, I think it&amp;#39;s generally trying to give them knowledge, things that have worked for you before to let them be their best selves, whether it&amp;#39;s in sports, in school, in their daily lives.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;Was there anything you learned from losing in sports? People often talk about all the amazing things they won by being great. But are there lessons in something not going well?&lt;/p&gt;
+
+&lt;p&gt;Absolutely. I think that throughout a season, those are the times when you really come together as a team, when you have a losing streak, or a time when you weren&amp;#39;t able to achieve that goal. Every season when we had a championship, we had a three- or four-game losing streak where we had to figure out, how do we want to turn this around and how do we want to make this season better?&lt;/p&gt;
+
+&lt;p&gt;I think when you have that adversity, then you have to come together even more and you find out people&amp;#39;s true selves and what they&amp;#39;re about when their back&amp;#39;s against the wall or when things aren&amp;#39;t going well. I think any championship team I&amp;#39;ve been on, you have to go through that because then you&amp;#39;re so much tougher as a team, you&amp;#39;re so much stronger after that adversity that you&amp;#39;ve gone through to be able to know that you might lose. The sun comes up the next day, you still have your same family and friends, and you have to gather yourself and move on to the next thing. I think that that definitely builds a lot of team chemistry and team toughness.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;You had two jobs for a while. You were a player in the WNBA, and you were also a coach. How was that?&lt;/p&gt;
+
+&lt;p&gt;That was a crazy, crazy summer I had. About three or four weeks in, I kind of knew this was going to be my last WNBA season, just because of the responsibility on each end. To be able to be a starting point guard on a WNBA team and then a head coach of a division one, major university, it was a hectic summer for sure. Thank goodness on each end I had a lot of support and a great staff at the University of Minnesota, and then great coaches as well with the Lynx. They were able to help me through some different things.&lt;/p&gt;
+
+&lt;p&gt;I knew I wouldn&amp;#39;t be able to do it for more than a year because it&amp;#39;s really hard to do those two jobs with one foot in each bucket, but I learned a lot. There were times I didn&amp;#39;t know if I could make it through, honestly, because there were lots of ups and downs and times when you feel like you should be doing more in this job or more in that job.&lt;/p&gt;
+
+&lt;p&gt;It didn&amp;#39;t finish the way we wanted with a championship, but overall, I feel like it was a good summer and I learned a lot about myself for sure.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;Was it hard to transition to coach? You were new at coaching.&lt;/p&gt;
+
+&lt;p&gt;Yeah. To be basically writing up a practice and putting a team through it rather than going through a practice [as a player] and just doing what your coach says, that&amp;#39;s a lot different for sure. But it&amp;#39;s been a good transition. I feel really comfortable with what I&amp;#39;m doing.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;What would you say is the reason you&amp;#39;ve been successful? What are the personal attributes that have made you successful?&lt;/p&gt;
+
+&lt;p&gt;Just hard work. I got that from my parents. I really love playing the game, and I love sports. So being in the gym and working hard and doing all the extra things is what I tried to do.&lt;/p&gt;
+
+&lt;p&gt;And then along the way, being a good teammate, being a good person, doing all those things that my parents taught me. I&amp;#39;m from a big family, so it was always about family and loyalty and teamwork. So now I try to bring that into my professional career as well as in my personal life.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;What do you look for in a recruit?&lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s a combination. You want them to be talented in doing great things on the court, but then they have to fit into the team and they have to fit into your standards as a team and your values as a team. So we want people to be good to each other, who want to be good leaders, have discipline, and overall, be leaders in our community.&lt;/p&gt;
+
+&lt;p&gt;Because we want to win games, we want to do the right thing now for our program, but then you&amp;#39;re also always building for the next generation. You&amp;#39;re building for the next group, you&amp;#39;re building for the younger girls who are at your games, and you always want to be good role models. You always have to be thinking of who&amp;#39;s watching and who&amp;#39;s out there because you never know who&amp;#39;s going to be the next Lindsay Whalen or Diana Taurasi.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;You sit on the board of the Empower Leadership Academy for Girls, and you have many jobs, a million things pulling at you. Why is that one of the things that stays on your plate?&lt;/p&gt;
+
+&lt;p&gt;Coach [Pam] Borton, she was one of my coaches at the university [of Minnesota] who empowered me. And so I feel like giving back to something that she&amp;#39;s really passionate about was a no-brainer. I&amp;#39;ve been to a couple of her academies, and the way she&amp;#39;s able to teach and mentor these young girls and young women is really amazing. They leave feeling more confident, they leave with a new group of friends. It&amp;#39;s amazing how good you feel as a person when you leave after doing something like that.&lt;/p&gt;
+
+&lt;p class=""italic""&gt;Watch Lindsay Whalen&amp;rsquo;s interview in the video below.&lt;/p&gt;
+
+&lt;div style=""position: relative; display: block; max-width: 100%;""&gt;
+&lt;div style=""padding-top: 56.25%;""&gt;
+&lt;video class=""video-js"" controls="""" data-account=""3835386791001"" data-application-id="""" data-embed=""default"" data-player=""B1nmIAHN"" data-video-id=""6008596955001"" style=""position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;""&gt;&amp;nbsp;&lt;/video&gt;
+&lt;script src=""//players.brightcove.net/3835386791001/B1nmIAHN_default/index.min.js""&gt;&lt;/script&gt;&lt;/div&gt;
+&lt;/div&gt;
+</value></static-content></root>","RBC Wealth Management","Basketball champion Lindsay Whalen talks about her success through hard work and the importance of mentoring young girls.","Basketball champion Lindsay Whalen talks about her success through hard work and the importance of mentoring young girls.","lindsay whalen talking in an interview","https://www.rbcwealthmanagement.com/us/en/news-events/events/stories-of-empowerment-basketball-champion-lindsay-whalen-talks-about-success-through-losing/detail/"
+".net",".net","","Insights Articles (blog posts)","MARKETING","Stories of empowerment: Cynthia Vernón no longer a ‘hidden figure’ after NASA career unveiled","en_US","<?xml version=""1.0"" encoding=""UTF-8"" standalone=""yes""?><root xmlns=""http://www.veriday.com/xsd/content/content-base""><static-content><value>&lt;p&gt;Dr. Cynthia Vern&amp;oacute;n joined NASA as a mathematician when she graduated from college in 1963. Her experience as an African American woman working as a mathematician at NASA in the early 1960s, quietly making significant contributions, went undiscovered until just recently.&lt;/p&gt;
+
+&lt;p&gt;Similar to hardships told in the blockbuster movie Hidden Figures, Vern&amp;oacute;n&amp;rsquo;s story is brought to life during an interview led by award-winning journalist Soledad O&amp;rsquo;Brien.&lt;/p&gt;
+
+&lt;p&gt;To celebrate International Women&amp;rsquo;s Day, four trailblazing women, including Vern&amp;oacute;n, share their stories of empowerment.&lt;/p&gt;
+
+&lt;p&gt;Here is an excerpt from Vern&amp;oacute;n&amp;rsquo;s conversation with O&amp;rsquo;Brien, which has been edited and condensed.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;What was the hardest thing [about working at NASA]?&lt;/p&gt;
+
+&lt;p&gt;The hardest thing was I didn&amp;rsquo;t know Fortran programming and that was very essential to communicating with the engineers and making sure their runs were correct. And there was [no] math training. You had to be self-taught.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;So, how did you learn it? Just taught yourself?&lt;/p&gt;
+
+&lt;p&gt;I learned it by reading the manuals and asking questions, but I was the only black when I first got hired. Later on, there was a black male who got hired also but for a time there, I was the only black female.&lt;/p&gt;
+
+&lt;p&gt;There was a group I found there, but they were all white and a few women. There weren&amp;rsquo;t a lot of women.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;Was it lonely?&lt;/p&gt;
+
+&lt;p&gt;I didn&amp;rsquo;t find it lonely because I liked the challenge of learning something new and I was so busy trying to learn, trying to be good at it and spending time focusing on that, that I didn&amp;rsquo;t have time to worry about being lonely. The other engineers communicated with me and everyone I worked with was supportive.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;When [your daughter] heard that actually you were a hidden figure, somebody whose early career was doing something so incredibly remarkable but that history kind of missed, what was her reaction?&lt;/p&gt;
+
+&lt;p&gt;Well, she egged me on, &amp;lsquo;Well, Mom, tell the kids more.&amp;rsquo; And then she came down ... to my area and brought me a glass of wine and sat down and we had this conversation in which she could get the real story and so, she was very surprised.&lt;/p&gt;
+
+&lt;p&gt;And then she immediately wrote a little passage and put it on the internet. And all of a sudden, my cell phone starts bing, bing, bing, bing. I&amp;rsquo;m like, &amp;lsquo;What&amp;rsquo;s going on?&amp;rsquo; and she says, &amp;lsquo;Mom, I put your story online.&amp;rsquo;&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;Were you surprised?&lt;/p&gt;
+
+&lt;p&gt;I was surprised anybody would be interested in it.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;Really? You&amp;rsquo;d just seen a whole entire movie about it.&lt;/p&gt;
+
+&lt;p&gt;It was life for me. The difficulties and the challenge; but I was still surprised that in this day and age people are interested in this little story.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;Why do you think that is? Why do you think people are interested in this day and age?&lt;/p&gt;
+
+&lt;p&gt;Well, I think they&amp;rsquo;ve read some things in history about segregation, about the Jim Crow laws, the civil rights movement, etc. But to have someone who actually lived through it, is still here today, to tell the story and to just be so active and alert, telling the story as if they&amp;rsquo;re living it now.&lt;/p&gt;
+
+&lt;p&gt;And it wasn&amp;rsquo;t long ago for those of us who lived it but for many of the young people now, it was only a story in a book. And here is a real, live person &amp;mdash; those were some of the comments I got.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;Why do you think you&amp;rsquo;ve been successful?&lt;/p&gt;
+
+&lt;p&gt;I think the principles my family instilled in me and my sister, the supportive community I was raised in, the background of New Orleans, the Catholic schools where your teachers didn&amp;rsquo;t put you down but they encouraged you; that there was a dream that you could reach. All of this support helped me, and when I look at some of my other friends who were very successful too, we all went through similar things and it helped them. I see support being very critical to your achievements. And not just support of your immediate family but I say the community &amp;mdash; the village as it is said.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;Do you see yourself today as a role model for young women?&lt;/p&gt;
+
+&lt;p&gt;Well, I always try to be an example and a role model; I&amp;rsquo;ve always tried to share what I can do, what I&amp;rsquo;ve learned, whether it was through classroom teaching or being involved in other community projects where I helped with sciences and STEM programs or academically competitive projects with young people. So, I&amp;rsquo;ve tried to at least exhibit that I want to be that role model.&lt;/p&gt;
+
+&lt;p&gt;I think it&amp;rsquo;s important young people have role models in front of them and particularly in the underserved communities. That&amp;rsquo;s important to be their supporters, to give them opportunities as youngsters. If they don&amp;rsquo;t get the opportunities as youngsters, I don&amp;rsquo;t know how they&amp;rsquo;ll ever see themselves in these roles.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;Are you glad that your hidden figure story is no longer hidden?&lt;/p&gt;
+
+&lt;p&gt;Yes, I am. I think I can use it to the advantage, as I said of reaching out and helping others with it.&lt;/p&gt;
+
+&lt;p&gt;And if I had not seen that through my daughter reaching out to make sure this story got exposed, it would just be buried and, unfortunately, not enough stories like these are told. I think there are a lot more around that could be told.&lt;/p&gt;
+
+&lt;p class=""italic""&gt;Watch Cynthia Vern&amp;oacute;n&amp;rsquo;s interview in the video below.&lt;/p&gt;
+
+&lt;div style=""display: block; position: relative; max-width: 100%;""&gt;
+&lt;div style=""padding-top: 56.25%;""&gt;
+&lt;video class=""video-js"" controls="""" data-account=""3835386791001"" data-application-id="""" data-embed=""default"" data-player=""B1nmIAHN"" data-video-id=""6005264817001"" style=""left: 0px; top: 0px; width: 100%; height: 100%; right: 0px; bottom: 0px; position: absolute;""&gt;&amp;nbsp;&lt;/video&gt;
+&lt;script src=""//players.brightcove.net/3835386791001/B1nmIAHN_default/index.min.js""&gt;&lt;/script&gt;&lt;/div&gt;
+&lt;/div&gt;
+</value></static-content></root>","RBC Wealth Management","Dr. Cynthia Vernns experience as an African American woman working at NASA is brought to life during an interview with Soledad OBrien.","Dr. Cynthia Vernns experience as an African American woman working at NASA is brought to life during an interview with Soledad OBrien.","Cynthia Vernon talking in an interview","https://www.rbcwealthmanagement.com/us/en/news-events/events/stories-of-empowerment-cynthia-vernon-no-longer-a-hidden-figure-after-nasa-career-unveiled/detail/"
+".net",".net","","Insights Articles (blog posts)","MARKETING","Stories of empowerment: Former aide is shaping the next generation of political leaders","en_US","<?xml version=""1.0"" encoding=""UTF-8"" standalone=""yes""?><root xmlns=""http://www.veriday.com/xsd/content/content-base""><static-content><value>&lt;p&gt;Susannah Wellford has seen firsthand the power of politics. A graduate of the University of Virginia School of Law and Davidson College, Wellford worked in the White House in the 1990s. She&amp;#39;s also seen the lack of female voices in politics, which is what prompted her to found Running Start, which aims to spark an interest in politics among young women so that they will run for office and become decision makers helping shape the direction of the country.&lt;/p&gt;
+
+&lt;p&gt;To celebrate International Women&amp;#39;s Day, four trailblazing women, including Wellford, share their stories of empowerment with acclaimed journalist Soledad O&amp;#39;Brien.&lt;/p&gt;
+
+&lt;p&gt;Here is an excerpt from Wellford&amp;#39;s conversation with O&amp;#39;Brien, which has been edited and condensed.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;I find it very interesting that you are all about empowerment, but your vehicle is politics. Why politics?&lt;/p&gt;
+
+&lt;p&gt;People don&amp;#39;t talk to young women about politics; they talk to them about all sorts of leadership, you know, almost every powerful woman has been a girl scout at some point in their life. But politics is this taboo place, where nobody really wants to go.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;What do [the youngest girls in Running Start] ask you? What do they want to know?&lt;/p&gt;
+
+&lt;p&gt;A lot of them come from communities where things are deeply wrong and they don&amp;#39;t see people stepping up to make change. And so, they want to know how to get the power. They want to know how they can become the person who actually makes things happen for the better. They&amp;#39;re so much more sophisticated and in tune with real issues than you would ever imagine. It&amp;#39;s really great.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;And you do this not just domestically but internationally as well; is there a difference in the kinds of conversations you have domestically and internationally?&lt;/p&gt;
+
+&lt;p&gt;If you&amp;#39;re in a country like Sierra Leone, you face a lot of external barriers to not just get into politics, but to empowerment in general and just to having a voice in society. And American women, for the most part, we&amp;#39;re so lucky because we do have that power. We have that opportunity, but that&amp;#39;s not what we talk about. What we talk about, whether I&amp;#39;m here or I&amp;#39;m in some other country, it&amp;#39;s all about the internal barriers that hold women back from thinking that they&amp;#39;re powerful people.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;So, it&amp;#39;s really more the obstacles you create for yourself sometimes?&lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s not like we&amp;#39;re doing something wrong; it&amp;#39;s that all along we don&amp;#39;t see a lot of role models; we don&amp;#39;t see power as a place where we belong and so, it&amp;#39;s socialization that says to us that we shouldn&amp;#39;t seek power, that we&amp;#39;re not powerful people. But it is those things, those voices inside us, I think, that holds women back the most from actually deciding to do something audacious and big and seek power.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;A lot of politics today is sometimes about opening yourself up to attacks. So, what kind of advice do you give, especially to young women about that?&lt;/p&gt;
+
+&lt;p&gt;We don&amp;#39;t sugarcoat it; we don&amp;#39;t tell them, &amp;quot;Politics is going to be this wonderful place where everybody&amp;#39;s going to be supportive and they&amp;#39;ll say, &amp;#39;You look great all the time.&amp;#39;&amp;quot; It&amp;#39;s about saying, &amp;ldquo;Politics is not going to be easy, but neither is being a leader in any sphere and you&amp;#39;re always going to be under scrutiny. People are going to be watching your every move. You&amp;#39;re going to have to make difficult decisions. People are going to judge you &amp;mdash; but it&amp;#39;s worth it. It&amp;#39;s really worth it because we need people like you in power.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;That&amp;#39;s our message all the time. &amp;ldquo;We need people like you to see themselves as leaders at the highest level because if you don&amp;#39;t see yourself as that leader, then we&amp;#39;re just going to have more of the same.&amp;quot;&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;Why has empowering women been so important for you?&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m so passionate about empowering women because I grew up, all of my teen years through college, young adulthood, not feeling empowered myself. And I was feeling a lot of self-doubt. And I got into my 30s, when I went to work for Governor Ann Richards from Texas, who&amp;#39;s this incredible, wonderful role model and feminist. And it was in my early 30s when I heard or really understood for the first time that all this self-doubt, all this second-guessing of myself and my abilities and thinking, &amp;ldquo;Well, I&amp;#39;m a behind-the-scenes person; I could never be somebody who&amp;#39;s in the spotlight,&amp;quot; that it wasn&amp;#39;t a Susannah problem; it wasn&amp;#39;t about me. It was something that women feel universally, or they face universally.&lt;/p&gt;
+
+&lt;p&gt;And so, working for Ann Richards, she was able to say, &amp;ldquo;Well, honey, this is the way it is for women; this is something that we need to solve.&amp;quot; And that was such an awakening for me, realizing if somebody had talked to me when I was younger and said, &amp;ldquo;You&amp;#39;re going to doubt yourself; you&amp;#39;re going to think you don&amp;#39;t belong in that room or you shouldn&amp;#39;t have a seat at the table. But this is something that women do and you do belong,&amp;quot; I would be a different person.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;What are your predictions for 10 years from now? Will there ever be a time when we see the same number of women who are serving in the Senate and the House as men?&lt;/p&gt;
+
+&lt;p&gt;After this amazing election, people are saying, &amp;ldquo;It&amp;#39;s going to be so great and so exciting,&amp;quot; and I think it will be, but then I heard just recently that maybe we&amp;#39;ll be at 24 percent [of Congressional seats represented by women], which is not that great. So, I think the more we can do to talk to women, I think that&amp;#39;s really important to changing how they feel about themselves and having them recognize the barriers that might be put in their way so that they can overcome them.&lt;/p&gt;
+
+&lt;p&gt;But you know what I also think? I think we have to talk to boys too. You need that buy-in from the boys to say, &amp;ldquo;You want these women by your side because it&amp;#39;s going to make a stronger society; it&amp;#39;s going to be a better life for you too.&amp;quot;&lt;/p&gt;
+
+&lt;p class=""italic""&gt;Watch Susannah Wellford&amp;rsquo;s interview in the video below.&lt;/p&gt;
+
+&lt;div style=""position: relative; display: block; max-width: 100%;""&gt;
+&lt;div style=""padding-top: 56.25%;""&gt;
+&lt;video class=""video-js"" controls="""" data-account=""3835386791001"" data-application-id="""" data-embed=""default"" data-player=""B1nmIAHN"" data-video-id=""6009870450001"" style=""position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;""&gt;&amp;nbsp;&lt;/video&gt;
+&lt;script src=""//players.brightcove.net/3835386791001/B1nmIAHN_default/index.min.js""&gt;&lt;/script&gt;&lt;/div&gt;
+&lt;/div&gt;
+</value></static-content></root>","RBC Wealth Management","To celebrate #iwd2019 we asked Susannah Wellford to share her empowering stories of growth, leadership, and struggle.","To celebrate #iwd2019 we asked Susannah Wellford to share her empowering stories of growth, leadership, and struggle.","Susannah Wellford talking in an interview","https://www.rbcwealthmanagement.com/us/en/news-events/events/stories-of-empowerment-former-aide-is-shaping-the-next-generation-of-political-leaders/detail/"
+".net",".net","","Insights Articles (blog posts)","MARKETING","Ignore that voice that says “you can’t.” Time to say “I will.”","en_US","<?xml version=""1.0"" encoding=""UTF-8"" standalone=""yes""?><root xmlns=""http://www.veriday.com/xsd/content/content-base""><static-content><value>&lt;p&gt;I grew up in a small town in northern Minnesota where opportunities for career-minded women were limited.&lt;/p&gt;
+
+&lt;p&gt;In fact my mother, the executive director for the Head Start program in the area, was one of the few mothers in my group of friends who worked outside the home.&lt;/p&gt;
+
+&lt;p&gt;What I didn&amp;rsquo;t realize then that I do now is how fortunate I was to have her as a role model. I saw her passion and dedication for her work. I saw the difference she made in the lives of the people the program supported, and the difference she made for the organization itself. But most importantly, I saw a woman in a leadership role.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Through her example, my mother empowered me to pursue a career in financial services &amp;ndash; a declaration that caught my high school guidance counselor by complete surprise &amp;ndash; and eventually a leadership role in financial services.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;There are many, many young girls and women, however, who do not feel empowered to dream big and buck social norms or stereotypes. And that&amp;rsquo;s why, to celebrate International Women&amp;rsquo;s Day this year (and beyond this day), RBC Wealth Management is shining a spotlight on the importance of empowerment.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;When a person feels empowered, there is no limit to what they can do. When a person feels empowered, that voice that says &amp;ldquo;I can&amp;rsquo;t&amp;rdquo; is replaced with one that says &amp;ldquo;I will.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;To illustrate the power of empowerment, we asked four pioneering women from athletics, entertainment, aerospace and political activism to share their stories in their own words with acclaimed journalist Soledad O&amp;rsquo;Brien.&lt;/p&gt;
+
+&lt;p&gt;We captured each of those stories on video and now we&amp;rsquo;re sharing those videos with everyone on &lt;a href=""https://www.rbcwealthmanagement.com/us/en/stories-of-empowerment"" target=""_blank""&gt;our website&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+
+&lt;div style=""position: relative; display: block; max-width: 100%;""&gt;
+&lt;div style=""padding-top: 56.25%;""&gt;
+&lt;video class=""video-js"" controls="""" data-account=""3835386791001"" data-application-id="""" data-embed=""default"" data-player=""B1nmIAHN"" data-video-id=""6009901351001"" style=""position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;""&gt;&amp;nbsp;&lt;/video&gt;
+&lt;script src=""//players.brightcove.net/3835386791001/B1nmIAHN_default/index.min.js""&gt;&lt;/script&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Women featured in the new video initiative include:&amp;nbsp;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;strong&gt;Lindsay Whalen&lt;/strong&gt;, head coach of the University of Minnesota women&amp;rsquo;s basketball team and former Women&amp;rsquo;s National Basketball Association (WNBA) world champion;&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Dessa&lt;/strong&gt;, a singer, rapper and writer whose album reached the top 200 on the Billboard charts and whose writing has been published in&amp;nbsp;The New York Times Magazine;&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Cynthia Vernon&lt;/strong&gt;,&amp;nbsp;Ph.D.,&amp;nbsp;an educator and &amp;ldquo;Hidden Figure,&amp;rdquo; who in 1963 was the only black employee in the NASA Data Center; and&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;Susannah Wellford&lt;/strong&gt;, who has founded two organizations, Running Start and Women Under Forty Political Action Committee (WUFPAC), designed to raise the political voice of young women in America.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A few of these women were told &amp;ldquo;You can&amp;rsquo;t,&amp;rdquo; but they nonetheless felt empowered to persist. Others are actively focused on breaking down barriers for the next generation of female leaders.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;As you watch these videos and hear from the women themselves, I challenge you to ask yourself what empowerment means to you. Reflect on how you&amp;rsquo;ve been empowered to pursue your dreams. Most importantly, ask what you can do to inspire and empower the next generation of female leaders &amp;ndash; in finance, politics, science, athletics and beyond.&amp;nbsp;&lt;/p&gt;
+</value></static-content></root>","Kristen Kimmell","RBC Wealth Management's Head of Business Development Kristen Kimmell shares how her mother empowered her to pursue a career in the financial services industry.","RBC Wealth Management's Head of Business Development Kristen Kimmell shares how her mother empowered her to pursue a career in the financial services industry.","","https://www.linkedin.com/pulse/ignore-voice-says-you-cant-time-say-i-kristen-kimmell/"
+".net",".net","","Insights Articles (blog posts)","MARKETING","Stories of empowerment: Cynthia Vernón no longer a ‘hidden figure’ after NASA career unveiled","en_US","<?xml version=""1.0"" encoding=""UTF-8"" standalone=""yes""?><root xmlns=""http://www.veriday.com/xsd/content/content-base""><static-content><value>&lt;p&gt;Dr. Cynthia Vern&amp;oacute;n joined NASA as a mathematician when she graduated from college in 1963. Her experience as an African American woman working as a mathematician at NASA in the early 1960s, quietly making significant contributions, went undiscovered until just recently.&lt;/p&gt;
+
+&lt;p&gt;Similar to hardships told in the blockbuster movie Hidden Figures, Vern&amp;oacute;n&amp;rsquo;s story is brought to life during an interview led by award-winning journalist Soledad O&amp;rsquo;Brien.&lt;/p&gt;
+
+&lt;p&gt;To celebrate International Women&amp;rsquo;s Day, four trailblazing women, including Vern&amp;oacute;n, share their stories of empowerment.&lt;/p&gt;
+
+&lt;p&gt;Here is an excerpt from Vern&amp;oacute;n&amp;rsquo;s conversation with O&amp;rsquo;Brien, which has been edited and condensed.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;What was the hardest thing [about working at NASA]?&lt;/p&gt;
+
+&lt;p&gt;The hardest thing was I didn&amp;rsquo;t know Fortran programming and that was very essential to communicating with the engineers and making sure their runs were correct. And there was [no] math training. You had to be self-taught.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;So, how did you learn it? Just taught yourself?&lt;/p&gt;
+
+&lt;p&gt;I learned it by reading the manuals and asking questions, but I was the only black when I first got hired. Later on, there was a black male who got hired also but for a time there, I was the only black female.&lt;/p&gt;
+
+&lt;p&gt;There was a group I found there, but they were all white and a few women. There weren&amp;rsquo;t a lot of women.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;Was it lonely?&lt;/p&gt;
+
+&lt;p&gt;I didn&amp;rsquo;t find it lonely because I liked the challenge of learning something new and I was so busy trying to learn, trying to be good at it and spending time focusing on that, that I didn&amp;rsquo;t have time to worry about being lonely. The other engineers communicated with me and everyone I worked with was supportive.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;When [your daughter] heard that actually you were a hidden figure, somebody whose early career was doing something so incredibly remarkable but that history kind of missed, what was her reaction?&lt;/p&gt;
+
+&lt;p&gt;Well, she egged me on, &amp;lsquo;Well, Mom, tell the kids more.&amp;rsquo; And then she came down ... to my area and brought me a glass of wine and sat down and we had this conversation in which she could get the real story and so, she was very surprised.&lt;/p&gt;
+
+&lt;p&gt;And then she immediately wrote a little passage and put it on the internet. And all of a sudden, my cell phone starts bing, bing, bing, bing. I&amp;rsquo;m like, &amp;lsquo;What&amp;rsquo;s going on?&amp;rsquo; and she says, &amp;lsquo;Mom, I put your story online.&amp;rsquo;&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;Were you surprised?&lt;/p&gt;
+
+&lt;p&gt;I was surprised anybody would be interested in it.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;Really? You&amp;rsquo;d just seen a whole entire movie about it.&lt;/p&gt;
+
+&lt;p&gt;It was life for me. The difficulties and the challenge; but I was still surprised that in this day and age people are interested in this little story.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;Why do you think that is? Why do you think people are interested in this day and age?&lt;/p&gt;
+
+&lt;p&gt;Well, I think they&amp;rsquo;ve read some things in history about segregation, about the Jim Crow laws, the civil rights movement, etc. But to have someone who actually lived through it, is still here today, to tell the story and to just be so active and alert, telling the story as if they&amp;rsquo;re living it now.&lt;/p&gt;
+
+&lt;p&gt;And it wasn&amp;rsquo;t long ago for those of us who lived it but for many of the young people now, it was only a story in a book. And here is a real, live person &amp;mdash; those were some of the comments I got.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;Why do you think you&amp;rsquo;ve been successful?&lt;/p&gt;
+
+&lt;p&gt;I think the principles my family instilled in me and my sister, the supportive community I was raised in, the background of New Orleans, the Catholic schools where your teachers didn&amp;rsquo;t put you down but they encouraged you; that there was a dream that you could reach. All of this support helped me, and when I look at some of my other friends who were very successful too, we all went through similar things and it helped them. I see support being very critical to your achievements. And not just support of your immediate family but I say the community &amp;mdash; the village as it is said.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;Do you see yourself today as a role model for young women?&lt;/p&gt;
+
+&lt;p&gt;Well, I always try to be an example and a role model; I&amp;rsquo;ve always tried to share what I can do, what I&amp;rsquo;ve learned, whether it was through classroom teaching or being involved in other community projects where I helped with sciences and STEM programs or academically competitive projects with young people. So, I&amp;rsquo;ve tried to at least exhibit that I want to be that role model.&lt;/p&gt;
+
+&lt;p&gt;I think it&amp;rsquo;s important young people have role models in front of them and particularly in the underserved communities. That&amp;rsquo;s important to be their supporters, to give them opportunities as youngsters. If they don&amp;rsquo;t get the opportunities as youngsters, I don&amp;rsquo;t know how they&amp;rsquo;ll ever see themselves in these roles.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;Are you glad that your hidden figure story is no longer hidden?&lt;/p&gt;
+
+&lt;p&gt;Yes, I am. I think I can use it to the advantage, as I said of reaching out and helping others with it.&lt;/p&gt;
+
+&lt;p&gt;And if I had not seen that through my daughter reaching out to make sure this story got exposed, it would just be buried and, unfortunately, not enough stories like these are told. I think there are a lot more around that could be told.&lt;/p&gt;
+
+&lt;p class=""italic""&gt;Watch Cynthia Vern&amp;oacute;n&amp;rsquo;s interview in the video below.&lt;/p&gt;
+
+&lt;div style=""display: block; position: relative; max-width: 100%;""&gt;
+&lt;div style=""padding-top: 56.25%;""&gt;
+&lt;video class=""video-js"" controls="""" data-account=""3835386791001"" data-application-id="""" data-embed=""default"" data-player=""B1nmIAHN"" data-video-id=""6005264817001"" style=""left: 0px; top: 0px; width: 100%; height: 100%; right: 0px; bottom: 0px; position: absolute;""&gt;&amp;nbsp;&lt;/video&gt;
+&lt;script src=""//players.brightcove.net/3835386791001/B1nmIAHN_default/index.min.js""&gt;&lt;/script&gt;&lt;/div&gt;
+&lt;/div&gt;
+</value></static-content></root>","RBC Wealth Management","Dr. Cynthia Vernón's  experience as an African American woman working at NASA is brought to life during an interview with Soledad OBrien.","Dr. Cynthia Vernón's experience as an African American woman working at NASA is brought to life during an interview with Soledad OBrien.","Cynthia Vernón talking in an interview","https://www.rbcwealthmanagement.com/us/en/news-events/events/stories-of-empowerment-cynthia-vernon-no-longer-a-hidden-figure-after-nasa-career-unveiled/detail/"
+".net",".net","","Insights Articles (blog posts)","MARKETING","Stories of empowerment: Dessa uses her love of language to empower others","en_US","<?xml version=""1.0"" encoding=""UTF-8"" standalone=""yes""?><root xmlns=""http://www.veriday.com/xsd/content/content-base""><static-content><value>&lt;p&gt;As a singer, rapper, writer and former record company executive, Dessa has appeared in front of crowds at Lollapalooza and Glastonbury festivals, performed with the Minnesota Orchestra and earned Billboard top-200 entries for her albums &amp;quot;Parts of Speech&amp;quot; and &amp;quot;Chime.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;As a writer, she&amp;#39;s been published by &lt;em&gt;The New York Times&lt;/em&gt;, broadcast by Minnesota Public Radio and published literary and nonfiction collections.&lt;/p&gt;
+
+&lt;p&gt;To celebrate International Women&amp;#39;s Day, we asked four trailblazing women, including Dessa, to share their empowering stories of growth, leadership, struggle and accomplishment during interviews with award-winning journalist Soledad O&amp;#39;Brien.&lt;/p&gt;
+
+&lt;p&gt;Here is an excerpt from the interview with Dessa, which has been edited and condensed.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;What&amp;#39;s been the most amazing thing and the most difficult thing about being a rapper?&lt;/p&gt;
+
+&lt;p&gt;There are plenty of both; I think it&amp;#39;s a scale that&amp;#39;s laden on both sides. I think one of the most glorious opportunities associated with being a rapper is the opportunity to travel. And because you&amp;#39;re often hanging out late at night after a show talking to people, you get to have genuine conversations with people from a really wide range of fields, maybe like a taxi driver would. So you get just little glimpses through these tiny, evening-sized portals into a lot of ways to live a human life.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, the travel is really hard; my knees are lousy, you&amp;#39;re sitting still for eight hours a day.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;You ended up as a medical writer.&lt;/p&gt;
+
+&lt;p&gt;I did. I was out of college, I knew that I loved language, I was attracted to the arts but I wasn&amp;#39;t really sure how to get a foothold. And I knew I wanted a job that had a high hourly (wage) so that I could bail if I got a music opportunity. And so, I ended up as a medical technical writer doing a lot of the kind of implantation manuals for pacemakers and defibrillators. And then at night I was trying to get my art career off the ground with a rap crew named &amp;ldquo;Doomtree&amp;quot; based in Minneapolis.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;Was it rewarding? When I hear medical technical writer, it doesn&amp;#39;t feel like it would be creative and fulfilling, and maybe it&amp;#39;s just a gig and it pays money.&lt;/p&gt;
+
+&lt;p&gt;It didn&amp;#39;t feel artistically rewarding but it did feel like parts of my brain were being honed and those parts I enjoyed the sharpening of. So, learning how to take a lot of information that just sort of arrives in a Ziploc bag and then figure out a scaffolding on which you could file it, so someone else could learn it easily.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;You talk a lot about vulnerability. And it&amp;#39;s so rare that people talk about empowerment and vulnerability in the same sentence. Aren&amp;#39;t they contradictory?&lt;/p&gt;
+
+&lt;p&gt;I think for a lot of us, there&amp;#39;s a concern that someone, our bosses or the public at large, will find out our secrets, either what we&amp;#39;re not good at or what we&amp;#39;re scared of. For the most part, I&amp;#39;ve found that airing out even those intimate kinds of vulnerable details feels less scary than you thought it would, and then feels brave as hell later because you can&amp;#39;t hurt me; you can&amp;#39;t hurt me because there&amp;#39;s no laundry to air.&lt;/p&gt;
+
+&lt;p&gt;I think real recognizes real; when somebody gets up and does something honest, we&amp;#39;re really good as animals at sniffing that out. You can tell when someone is singing a song but they don&amp;#39;t really have any investment in it, they just learned the notes. You can tell even when someone misses their notes that they feel it. And I think we&amp;#39;re all the more inclined to give more leeway to that second category of person. When you watch the Olympics, and they&amp;#39;re going, &amp;ldquo;Is she going to do the triple?&amp;quot;, and your heart goes out if she or he stumbles. And then, when they finish the routine even after they lost the gig but with their arms out. That&amp;#39;s a person that&amp;#39;s easy to root for, at least for me.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;What do you do that makes you feel most empowered?&lt;/p&gt;
+
+&lt;p&gt;For me, it&amp;#39;s words. You know that phrase, &amp;#39;A picture tells a thousand words&amp;#39;? As soon as I heard it I was like, &amp;#39;No, it doesn&amp;#39;t.&amp;#39; Being able to manipulate language almost anywhere; there&amp;#39;s the page or the stage, I probably spend more time on audio, on stupid jokes and emails, because I just like it; I really enjoy language. So, any time I have the opportunity to do something innovative there, particularly if I have a shot to have access to a larger audience, it&amp;#39;s really exciting.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;Have you developed a positive self-image?&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;d give myself a B minus on a positive self-image.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;Really? It comes across as a solid A.&lt;/p&gt;
+
+&lt;p&gt;I think there are parts of my personality I present really confidently. But I&amp;#39;ve been disappointed as an adult to realize that intellectually identifying a problem does not render that problem solved. I still sweat how I look in a swimsuit way more than I think is reasonable; that bothers me because it&amp;#39;s a waste of time.&lt;/p&gt;
+
+&lt;p class=""meta-bold spacer-10""&gt;How do you advise other people &amp;mdash; women &amp;mdash; if you feel like you&amp;#39;re at a B?&lt;/p&gt;
+
+&lt;p&gt;Well, maybe the question would also be, &amp;#39;What advice would I take from other women who&amp;#39;ve gotten a vowel on their report card?&amp;#39; I do notice that in the same way you are what you eat, I think you think what you read. So, to imagine you can consume mainstream pop culture without it informing your standards of beauty, normalcy, decency, communications, you kind of flatter yourself; right?&lt;/p&gt;
+
+&lt;p&gt;In the same way, it&amp;#39;s like reading a fashion magazine. That&amp;#39;s in your head and it&amp;#39;s redesigning the furniture there.&lt;/p&gt;
+
+&lt;p&gt;So, how do you wade there but not emerge radioactive? I don&amp;#39;t know. But, I find listening to women who do not suffer fools makes me say, &amp;#39;Yeah, I don&amp;#39;t suffer fools either.&amp;#39; I think exposure helps; at least it does for me. So, the things I&amp;#39;m good at, okay; I hope I&amp;#39;m communicating those well. The things I&amp;#39;m not good at, I hope I&amp;#39;m seeking out people who communicate those strengths more naturally than I do.&lt;/p&gt;
+
+&lt;p class=""italic""&gt;Watch Dessa&amp;#39;s interview in the video below.&lt;/p&gt;
+
+&lt;div style=""display: block; position: relative; max-width: 100%;""&gt;
+&lt;div style=""padding-top: 56.25%;""&gt;
+&lt;video class=""video-js"" controls="""" data-account=""3835386791001"" data-application-id="""" data-embed=""default"" data-player=""B1nmIAHN"" data-video-id=""6005263435001"" style=""left: 0px; top: 0px; width: 100%; height: 100%; right: 0px; bottom: 0px; position: absolute;""&gt;&amp;nbsp;&lt;/video&gt;
+&lt;script src=""//players.brightcove.net/3835386791001/B1nmIAHN_default/index.min.js""&gt;&lt;/script&gt;&lt;/div&gt;
+&lt;/div&gt;
+</value></static-content></root>","RBC Wealth Management","To celebrate #iwd2019, we asked rapper, singer and writer Dessa to share her empowering stories of growth, leadership, and struggle.","To celebrate #iwd2019, we asked rapper, singer and writer Dessa to share her empowering stories of growth, leadership, and struggle.","Dessa talking in an interview","https://www.rbcwealthmanagement.com/us/en/news-events/events/stories-of-empowerment-dessa-uses-her-love-of-language-to-empower-others/detail/"
+".net",".net","","Insights Articles (blog posts)","MARKETING","10-Minute Take: King Dollar Steps Back","en_US","<?xml version=""1.0"" encoding=""UTF-8"" standalone=""yes""?><root xmlns=""http://www.veriday.com/xsd/content/content-base""><static-content><value>&lt;p&gt;While stocks have been surging, the US dollar has been on a week-long slide. The correction comes after an extraordinary run-up in the dollar in early March, when investors fled to the greenback&amp;rsquo;s higher ground and corporates followed, to ensure they were dollar-funded heading into an economic crisis. The prospects now of massive fiscal stimulus and concerted central bank intervention have investors looking anew to the euro, pound and even the Canadian dollar. George Davis, RBC Capital Markets&amp;rsquo; currency strategist, explains what lies ahead.&lt;/p&gt;
+
+&lt;div class=""spacer-20"" style=""position: relative; display: block; max-width: 960px;""&gt;
+&lt;div&gt;&lt;video-js class=""vjs-fluid"" controls=""controls"" data-account=""3187797751001"" data-application-id="""" data-embed=""default"" data-player=""WPRgH3TcC"" data-playlist-id="""" data-video-id=""6145255485001""&gt;&lt;/video-js&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src=""https://players.brightcove.net/3187797751001/WPRgH3TcC_default/index.min.js""&gt;&lt;/script&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</value></static-content></root>","RBC Economics","Investors are looking anew to the euro, pound and even the Canadian dollar. George Davis, RBC Capital Markets' currency strategist explains what lies ahead.","George Davis, RBC Capital Markets’ currency strategist, explains what lies ahead.","Hands holding tablet on empty table","https://www.rbcwealthmanagement.com/us/en/research-insights/coronavirus-latest-market-updates/detail/?utm_id=wm1557319578247030#myId19"
+".net",".net","","Insights Articles (blog posts)","MARKETING","Family members with disabilities need special planning","en_US","<?xml version=""1.0"" encoding=""UTF-8"" standalone=""yes""?><root xmlns=""http://www.veriday.com/xsd/content/content-base""><static-content><value>&lt;p&gt;It&amp;rsquo;s not uncommon for families caring for loved ones with special needs to spend so much time ensuring the day-to-day needs of their child, spouse or sibling are met that they don&amp;rsquo;t consider how the academic, emotional, financial and physical support they provide will continue even after they, the primary caregivers, are gone.&lt;/p&gt;
+
+&lt;div class=""article-body flipboard-keep""&gt;
+&lt;p&gt;However, the process of ensuring long-term needs of a loved one with a disability or medical condition are met can be complex, and delaying such planning can often result in more headaches and hurdles than are necessary. This applies not only to parents of a child with a disability, but to spouses whose partner suffers from something like dementia, too.&lt;/p&gt;
+
+&lt;p&gt;In fact, while a child is the traditional beneficiary in an estate plan, financial advisors are finding they are crafting estate plans for a growing number of families with someone who has age-related disabilities, such as Alzheimer&amp;rsquo;s disease or Multiple Sclerosis. Thirty million households provide care for a parent or other adult over age 50, and that number is expected to double in the next 25 years as more baby boomers age, according to AARP.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Families are justifiably worried that if something happens to the primary caregiver of a child with special needs or an adult with a disability that care will continue, no matter how old that dependent is,&amp;rdquo; says Catherine Walker, a senior trust consultant for RBC Wealth Management-U.S. &amp;ldquo;Starting to plan early can give everyone greater peace of mind.&amp;rdquo;&lt;/p&gt;
+
+&lt;h4&gt;Getting started&lt;/h4&gt;
+
+&lt;p&gt;Families planning to leave an inheritance to someone with special needs should create a comprehensive plan that addresses not only the needs of their loved one, but of his or her future caregivers as well, says Robert Stern, a wealth planning consultant for RBC Wealth Management-U.S.&lt;/p&gt;
+
+&lt;p&gt;A plan should include: a will, financial power of attorney, a medical directive, and a trust. It should address the person&amp;rsquo;s long-term care and supervision, money management, guardianship or conservatorship, funeral arrangements and naming other people who want to help care for the person.&lt;/p&gt;
+
+&lt;p&gt;If the disabled child is young, parents might want to create a life care plan, or a road map with educational, living and career planning to help the individual transition to adulthood, Stern says. Parents may also want to write a letter of intent that summarizes details, such as likes, dislikes, habits and aspirations of the dependent in order to help smooth their transition.&lt;/p&gt;
+
+&lt;p&gt;Such a plan is best crafted as an addendum to an estate plan, Stern says, so that families and caregivers are working off of one document. Families should consult a special needs or disabilities lawyer to help plan and draft documents properly.&lt;/p&gt;
+
+&lt;p&gt;For families constructing a plan for children under 18, it&amp;rsquo;s usually wise to name someone you trust as a guardian or conservator. And it&amp;rsquo;s best to do it early, Stern says, because it becomes more difficult once the child is legally considered an adult (between age 18 and 21 in all states).&lt;/p&gt;
+
+&lt;p&gt;Not everyone needs a guardian, however. The process of naming one can be costly and involves going to court, says Laurie Hanson, an elder and special needs lawyer with Long, Reher, Hanson &amp;amp; Price in Minneapolis. For disabled people who work and lead an independent life, a power of attorney and health directive may suffice.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Our goal is to maximize the independence of the person with the disability,&amp;rdquo; says Hanson. &amp;ldquo;We have all of these tools to help people.&amp;rdquo;&lt;/p&gt;
+
+&lt;h4&gt;Special trusts for special needs&lt;/h4&gt;
+
+&lt;p&gt;Families that intend to leave an inheritance to loved ones with special needs should be aware that such gifts could jeopardize other important benefits that the individual receives.&lt;/p&gt;
+
+&lt;p&gt;Bequeathing money, retirement accounts or other assets directly could disqualify the beneficiary from receiving government benefits, such as Supplemental Security Income and Medicaid.&lt;/p&gt;
+
+&lt;p&gt;To prevent this from happening, parents often plan to leave funds to another child with the direction that they use the funds to care for their special needs sibling. However, the child with the funds cannot legally be compelled to use them for the other&amp;rsquo;s care.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Special needs trusts are one option open to parents, grandparents, friends or anyone else wishing to leave an inheritance or other assistance to care for someone. These trusts, by their very nature, may have restrictive distribution provisions and may require &amp;lsquo;Medicaid payback&amp;rsquo; to the state when the individual passes away. However, special needs trusts funded with assets from a third party don&amp;rsquo;t require Medicaid reimbursement and allow the assets to pass to other beneficiaries upon the death of the special needs beneficiary, says Stern.&lt;/p&gt;
+
+&lt;p&gt;For a smaller inheritance or for families who don&amp;rsquo;t have a reliable trustee candidate, a pooled special needs trust might work well, suggests Walker. Such trusts are managed by a nonprofit organization, but their fees, services and contracts vary.&lt;/p&gt;
+
+&lt;p&gt;Benefits of pooled trusts include working with managers who are knowledgeable and able to deal with the Social Security Administration and Medicaid. There are drawbacks, however. Such trusts can be expensive &amp;mdash; there&amp;rsquo;s usually a one-time enrollment fee, plus an annual fee. As well, many don&amp;rsquo;t accept real estate or other nontraditional investments, and some distribute assets only at certain times of the year.&lt;/p&gt;
+
+&lt;h4&gt;Beyond trusts and estate plans&lt;/h4&gt;
+
+&lt;p&gt;While estate plans are critical to ensuring a loved one with special needs or a medical condition is cared and provided for in the event of their caregiver&amp;rsquo;s death, there are other financial tools families can tap into as well.&lt;/p&gt;
+
+&lt;p&gt;The new 529A ABLE (Achieving a Better Life Experience) Savings Plan lets families of disabled children save for certain disability expenses, including education, job training, healthcare and financial management, to supplement private insurance and public benefits.&lt;/p&gt;
+
+&lt;p&gt;Like 529 college savings accounts, state-administered ABLE accounts vary, but people can use any state&amp;rsquo;s plan. Since the 2014 law, most states have passed ABLE legislation and at least 18 have active programs.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;It&amp;rsquo;s really a great tool in some circumstances, but it only works if the person was disabled before age 26,&amp;rdquo; says lawyer Hanson. ABLE accounts also carry some restrictions, such as a one-account limit, contribution and account balance caps, and a Medicaid payback clause.&lt;/p&gt;
+
+&lt;p&gt;Despite the added estate planning complexities faced by families caring for dependents with special needs or medical conditions, those that begin the process early are likely to discover that there are multiple options and resources available to ensure the needs of their loved ones are met, no matter what happens down the road.&lt;/p&gt;
+
+&lt;h4&gt;Kevin and Denise&amp;#39;s Story&lt;/h4&gt;
+
+&lt;p&gt;We invite you to watch Kevin, Denise and Kayla&amp;rsquo;s story and how we were able to help one family prepare for their daughter&amp;#39;s future.&lt;/p&gt;
+
+&lt;div class=""spacer-20"" style=""display: block; position: relative; max-width: 100%;""&gt;
+&lt;div style=""padding-top: 56.25%;""&gt;
+&lt;video class=""video-js"" controls=""controls"" data-account=""3835386791001"" data-application-id="""" data-embed=""default"" data-player=""B1nmIAHN"" data-video-id=""4449281572001"" style=""width: 100%; height: 100%; position: absolute; top: 0px; bottom: 0px; right: 0px; left: 0px;""&gt;&amp;nbsp;&lt;/video&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src=""//players.brightcove.net/3835386791001/B1nmIAHN_default/index.min.js""&gt;&lt;/script&gt;
+
+&lt;p class=""disclaimer""&gt;Trust services are provided by third parties. Neither RBC Wealth Management nor its Financial Advisors are able to serve as trustee. RBC Wealth Management does not provide tax or legal advice.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=""spacer-30""&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;div class=""disclaimer""&gt;RBC Wealth Management, a division of RBC Capital Markets, LLC, Member NYSE/FINRA/SIPC.&lt;/div&gt;
+
+&lt;div class=""large-column""&gt;&amp;nbsp;&lt;/div&gt;
+</value></static-content></root>","","Did you know this about money management? It’s important to consider disabilities when developing estate plans.","Find peace of mind knowing your loved one with a disability or medical condition will have access to care over the long term, or if something unexpected happens.","Infographic of stat with three member family and RBC logo","https://www.rbcwealthmanagement.com/us/en/research-insights/family-members-with-disabilities-need-special-planning/detail/"
+".net",".net","","Insights Articles (blog posts)","MARKETING","The re-imagined bucket list: How to finance your dreams","en_US","<?xml version=""1.0"" encoding=""UTF-8"" standalone=""yes""?><root xmlns=""http://www.veriday.com/xsd/content/content-base""><static-content><value>&lt;p&gt;Popularized in the film, &lt;em&gt;The Bucket List&lt;/em&gt;, a list of dreams to fulfill before you die often is associated with retirement or the end of life. In the movie, Jack Nicholson and Morgan Freeman portray two&amp;nbsp;seniors diagnosed with cancer who embark on an around-the-world trip, coming to some realizations about the meaning of life along the way.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;It&amp;rsquo;s pretty common that a person has a health scare or someone they know passed away, and that&amp;rsquo;s when they start thinking about these issues,&amp;rdquo; says Daniel Sullivan, wealth strategist for RBC Wealth Management-U.S. &amp;ldquo;They realize time is short.&amp;rdquo;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Nearly half (46 percent) of Baby Boomers - people age 53-71 - have some type of a bucket list, according to the AARP. The majority of items on those lists revolve around travel.&lt;/p&gt;
+
+&lt;p&gt;But bucket lists have become more than places to see or things to do. They&amp;rsquo;ve evolved into life mission statements or personal manifestos of goals you want to accomplish during your lifetime.&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s often because today, retirement is defined differently for many people. Some people may retire earlier than ever, while others must keep working longer.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Most clients I see are enjoying their life rather than waiting for retirement to check off boxes as to what they want to do,&amp;rdquo; says Liz Jacovino, a wealth strategist for RBC Wealth Management-U.S. &amp;ldquo;Maybe that&amp;rsquo;s the new retirement.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;No matter what age you are, everyone should have a list of goals. In a practical sense, it provides focus. On a deeper level, a bucket list or life manifesto provides hope and a sense of accomplishment that can be life-affirming and enhance our sense of happiness.&lt;/p&gt;
+
+&lt;p&gt;Here are five tips to making your dreams become reality:&lt;/p&gt;
+
+&lt;h4&gt;1. How to start&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;The first step is to set aside some time to think about your life and accomplishments. On a notepad, laptop or tablet, write down all of your dreams. Nothing is too big or too small.&lt;/p&gt;
+
+&lt;p&gt;First, many people want to ensure they&amp;rsquo;ll have enough money to take care of themselves and their spouse in retirement, says Sullivan. To help estimate that amount, which depends on individual needs and lifestyles, Sullivan will ask clients how they envision retirement and what they want to do in retirement.&lt;/p&gt;
+
+&lt;p&gt;Then, he&amp;rsquo;ll ask tougher and more specific questions: Do you want to buy a sports car? Do you want to travel? What do you want your legacy to be? Do you want to establish an alumni scholarship?&lt;/p&gt;
+
+&lt;p&gt;Clients&amp;rsquo; answers to these questions often become items on their retirement bucket list.&lt;/p&gt;
+
+&lt;h4&gt;2. Where to find inspiration&lt;/h4&gt;
+
+&lt;p&gt;If you&amp;rsquo;re looking for inspiration,&amp;nbsp;&lt;a href=""https://bucketlist.org/""&gt;Bucketlist.org&lt;/a&gt; is a good place to start. You can explore over five million ideas posted on the free site by over 400,000 people - and create and track goals.&lt;/p&gt;
+
+&lt;p&gt;You can find ideas in plenty of other places, too. Check out magazines and internet &amp;ldquo;best&amp;rdquo; lists, such as best small towns in America, and books with titles like &lt;em&gt;1,000 Places to See Before You Die&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Bucket lists often are travel-heavy. People want to see beautiful places and experience different cultures nationwide and worldwide. Travel destinations common on bucket lists include the Grand Canyon, Great Wall of China and Great Pyramids of Egypt. You get the picture.&lt;/p&gt;
+
+&lt;p&gt;According to AARP, 83 percent of Baby Boomers with a bucket list have travel-related items on it.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;While people age 33-71 say a travel list gives them something to look forward to, hope and motivation, more Millennials (24 percent) say their travel list pushes them to experience new things.&lt;/p&gt;
+
+&lt;p&gt;Bucket lists, however, can be much more than travel itineraries. RBC professionals say some clients&amp;rsquo; goals include buying a vacation home to spend more time with children and grandchildren who live in another state or establishing a &lt;span&gt;charitable trust&lt;/span&gt;, &lt;span&gt;donor advised fund&lt;/span&gt; or &lt;span&gt;private foundation&lt;/span&gt; to address their philanthropic goals.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;You can also include professional goals, such as starting a business, and activities, such as running a marathon or learning a second language.&lt;/p&gt;
+
+&lt;h4&gt;3. Organizing your list&amp;nbsp;&lt;/h4&gt;
+
+&lt;p&gt;Now, it&amp;rsquo;s time to break up your long list into digestible chunks.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;You can separate your goals by category: travel, professional, educational, etc. Another way is to sort the list by time &amp;ndash; goals by year or season or goals to reach before you turn 40, 50 or 60.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Entrepreneur Steve Kamb created a game, &lt;span&gt;&lt;a href=""https://www.nerdfitness.com/epic-quest/"" target=""_blank""&gt;Epic Quest of Awesome&lt;/a&gt;&lt;/span&gt;, from his bucket list, which he carved into 13 categories including travel, personal goals and James Bond goals.&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Next, prioritize each category. Ask yourself which goal is most important, what excites you the most or which goal can you easily accomplish. The answers may change over time, so keep your list updated.&lt;/p&gt;
+
+&lt;h4&gt;4. Achieving your goals&amp;nbsp;&lt;/h4&gt;
+
+&lt;p&gt;Not all of your goals need to be lofty. Make some smaller and easily reachable, which will also increase your satisfaction level.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Take blogger and author &lt;span&gt;&lt;a href=""https://bucketlistjourney.net/about/"" target=""_blank""&gt;Annette White&lt;/a&gt;&lt;/span&gt;&amp;rsquo;s 1,000-item life mission statement. The giant list includes 84 UNESCO World Heritage sites, but also many smaller goals, such as make a snowman, shuck oysters and design a website.&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Now you can plan how to reach your first goal. When should you do it? What are the logistics? Do you want to do it alone or with someone?&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Consider a step process. Say you want to visit the Coliseum in Rome. First, get or update your passport. Second, learn Italian. Third, fly to Italy.&lt;/p&gt;
+
+&lt;h4&gt;5. Making your list real&amp;nbsp;&lt;/h4&gt;
+
+&lt;p&gt;If it all seems too abstract, document your journey. Several free mobile apps, such as&amp;nbsp;&lt;span&gt;&lt;a href=""http://www.iwishbucketlist.com/"" target=""_blank""&gt;iWish&lt;/a&gt;&lt;/span&gt; for Apple and Android devices, let you explore ideas and create, track and share your bucket list.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Write about your achievements in a journal, create a map to mark places you visit or blog about your experiences. Make it fun for you, your family and friends to follow.&lt;/p&gt;
+</value></static-content></root>","Frédérique Carrier","Did you know this about money management? Current retirees have travel goals, but younger generations are setting investing goals for experiencing new things.","Did you know this about money management? Current retirees have travel goals, but younger generations are setting investing goals for experiencing new things.","Infographic of clipboard","https://www.rbcwealthmanagement.com/us/en/research-insights/the-re-imagined-bucket-list-how-to-finance-your-dreams/detail/"
+".net",".net","","Insights Articles (blog posts)","MARKETING","Supporting nonprofits to help kids reach their full potential","en_US","<?xml version=""1.0"" encoding=""UTF-8"" standalone=""yes""?><root xmlns=""http://www.veriday.com/xsd/content/content-base""><static-content><value>&lt;p&gt;Kids can teach us all a lesson about strength and resilience. In partnership with RBC Capital Markets and City National Bank, RBC Wealth Management is proud to support the remarkable nonprofit organizations that are fighting for children to reach their full potential. Watch the videos below to learn more about the incredible impact they are making.&amp;nbsp;&lt;/p&gt;
+
+&lt;h3&gt;American Red Cross&lt;/h3&gt;
+
+&lt;div style=""max-width: 960px;""&gt;&lt;video-js class=""vjs-fluid"" controls="""" data-account=""3835386791001"" data-application-id="""" data-embed=""default"" data-player=""B1nmIAHN"" data-playlist-id="""" data-video-id=""6272542175001""&gt;&lt;/video-js&gt;&lt;/div&gt;
+&lt;script src=""https://players.brightcove.net/3835386791001/B1nmIAHN_default/index.min.js""&gt;&lt;/script&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Providing preparedness courses and programs to schools, children and their parents, the Red Cross helps kids develop the skills and confidence they may need in an emergency. To learn more about the Red Cross, please visit &lt;a href=""https://www.redcross.org/"" target=""_blank""&gt;redcross.org&lt;/a&gt; today.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h3&gt;Ronald McDonald House Charities&amp;reg;&amp;nbsp;(RMHC) Chapters&lt;/h3&gt;
+
+&lt;div style=""max-width: 960px;""&gt;&lt;video-js class=""vjs-fluid"" controls="""" data-account=""3835386791001"" data-application-id="""" data-embed=""default"" data-player=""B1nmIAHN"" data-playlist-id="""" data-video-id=""6270337945001""&gt;&lt;/video-js&gt;&lt;/div&gt;
+&lt;script src=""https://players.brightcove.net/3835386791001/B1nmIAHN_default/index.min.js""&gt;&lt;/script&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Through three core programs &amp;mdash; Ronald McDonald House&amp;reg;, Ronald McDonald Family Room&amp;reg; and Ronald McDonald Care Mobile&amp;reg; &amp;mdash; local RMHC Chapters keep families with ill and injured children together and near the care they need to thrive. To learn more about RHMC, please visit &lt;a href=""http://rmhc.org"" target=""_blank""&gt;rmhc.org&lt;/a&gt; today.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;Committed to a better future. Learn how RBC Wealth Management &lt;a href=""https://www.rbcwealthmanagement.com/us/en/community-events/index"" target=""_blank""&gt;supports the communities&lt;/a&gt; where we live and work.&lt;/i&gt;&lt;/p&gt;
+</value></static-content></root>","","RBC is proud to support nonprofit organizations that are fighting for children to reach their full potential. Learn more about the impact they are making.","RBC is proud to support the remarkable nonprofit organizations that are fighting for children to reach their full potential. Learn more about the impact they are making.","Young girl baking in class","https://read.rbcwm.com/3avA9dQ"
